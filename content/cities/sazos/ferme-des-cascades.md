@@ -1,5 +1,5 @@
 ---
-title: "Ferme des cascades"
+title: "Ferme des Cascades"
 url: /sazos/ferme-des-cascades/
 shop: ferme
 ---

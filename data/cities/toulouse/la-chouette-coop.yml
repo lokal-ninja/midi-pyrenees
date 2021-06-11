@@ -7,5 +7,5 @@ city: Toulouse
 street: "rue René Leduc"
 housenumber: 5
 phone: ""
-opening_hours: "Mo-Tu 16:00-19:00, We 13:00-19:00, Th-Fr 16:00-19:00, Sa 10:00-16:30"
+opening_hours: "Mo,Tu,Th 16:00-20:00, We,Fr 13:00-20:00, Sa 09:00-18:30; PH off"
 website: "https://lachouettecoop.fr/"
