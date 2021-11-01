@@ -1,5 +1,5 @@
 ---
-title: "Thierry Laine"
+title: "Thierry Lainé"
 url: /toulouse/thierry-laine/
 shop: coiffeur
 ---

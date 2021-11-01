@@ -1,5 +1,5 @@
 ---
-title: "Bleu et Aure"
+title: "bLeU et Aure"
 url: /saint-lary-soulan/bleu-et-aure/
 shop: livres
 ---
