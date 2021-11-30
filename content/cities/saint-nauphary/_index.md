@@ -1,6 +1,6 @@
 ---
 title: Saint-Nauphary
 url: /saint-nauphary/
-latitude: 43.9655556
-longitude: 1.4291667000000001
+latitude: 43.964626200000005
+longitude: 1.4286530000000002
 ---
