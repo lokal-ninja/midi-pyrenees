@@ -1,6 +1,6 @@
 ---
 title: Préchac
 url: /prechac/
-latitude: 42.9926685
-longitude: -0.0721283
+latitude: 42.996
+longitude: -0.077
 ---

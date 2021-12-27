@@ -1,6 +1,6 @@
 ---
 title: Sazos
 url: /sazos/
-latitude: 42.8838037
-longitude: -0.024779000000000002
+latitude: 42.881
+longitude: -0.025
 ---

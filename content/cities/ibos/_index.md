@@ -1,6 +1,6 @@
 ---
 title: Ibos
 url: /ibos/
-latitude: 43.2325985
-longitude: 0.0045982
+latitude: 43.241
+longitude: 0.017
 ---

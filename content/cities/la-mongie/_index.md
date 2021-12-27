@@ -1,6 +1,6 @@
 ---
 title: La Mongie
 url: /la-mongie/
-latitude: 
-longitude: 
+latitude: 42.911
+longitude: 0.178
 ---

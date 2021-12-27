@@ -1,6 +1,6 @@
 ---
 title: Eauze
 url: /eauze/
-latitude: 43.861374100000006
-longitude: 0.10079590000000001
+latitude: 43.86
+longitude: 0.096
 ---

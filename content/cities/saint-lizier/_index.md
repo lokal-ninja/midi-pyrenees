@@ -1,6 +1,6 @@
 ---
 title: Saint-Lizier
 url: /saint-lizier/
-latitude: 
-longitude: 
+latitude: 43.002
+longitude: 1.131
 ---

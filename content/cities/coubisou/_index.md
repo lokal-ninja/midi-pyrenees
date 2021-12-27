@@ -1,6 +1,6 @@
 ---
 title: coubisou
 url: /coubisou/
-latitude: 
-longitude: 
+latitude: 44.547
+longitude: 2.714
 ---

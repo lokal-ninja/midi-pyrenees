@@ -1,6 +1,6 @@
 ---
 title: Gavarnie-Gèdre
 url: /gavarnie-gedre/
-latitude: 
-longitude: 
+latitude: 42.819
+longitude: 0.013
 ---

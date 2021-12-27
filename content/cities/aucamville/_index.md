@@ -1,6 +1,6 @@
 ---
 title: Aucamville
 url: /aucamville/
-latitude: 43.803888900000004
-longitude: 1.2158333000000001
+latitude: 43.67
+longitude: 1.411
 ---

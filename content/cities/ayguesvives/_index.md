@@ -1,6 +1,6 @@
 ---
 title: Ayguesvives
 url: /ayguesvives/
-latitude: 43.438188800000006
-longitude: 1.5967912000000002
+latitude: 43.436
+longitude: 1.598
 ---

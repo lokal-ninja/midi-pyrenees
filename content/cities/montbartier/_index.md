@@ -1,6 +1,6 @@
 ---
 title: Montbartier
 url: /montbartier/
-latitude: 43.913611100000004
-longitude: 1.2733333
+latitude: 43.916
+longitude: 1.272
 ---

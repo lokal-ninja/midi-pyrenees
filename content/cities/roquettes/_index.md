@@ -1,6 +1,6 @@
 ---
 title: ROQUETTES
 url: /roquettes/
-latitude: 
-longitude: 
+latitude: 43.498
+longitude: 1.367
 ---

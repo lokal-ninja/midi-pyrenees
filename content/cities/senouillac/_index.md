@@ -1,6 +1,6 @@
 ---
 title: Senouillac
 url: /senouillac/
-latitude: 43.9428734
-longitude: 1.9484841000000002
+latitude: 43.928
+longitude: 1.942
 ---

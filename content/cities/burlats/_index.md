@@ -1,6 +1,6 @@
 ---
 title: Burlats
 url: /burlats/
-latitude: 43.527855800000005
-longitude: 2.0038750000000003
+latitude: 43.623
+longitude: 2.319
 ---

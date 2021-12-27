@@ -1,6 +1,6 @@
 ---
 title: Ordan-Larroque
 url: /ordan-larroque/
-latitude: 43.687623300000006
-longitude: 0.4598298
+latitude: 43.684
+longitude: 0.482
 ---

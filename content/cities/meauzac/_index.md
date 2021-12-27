@@ -1,6 +1,6 @@
 ---
 title: Meauzac
 url: /meauzac/
-latitude: 
-longitude: 
+latitude: 44.088
+longitude: 1.239
 ---

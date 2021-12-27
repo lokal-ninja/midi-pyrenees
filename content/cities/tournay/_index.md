@@ -1,6 +1,6 @@
 ---
 title: Tournay
 url: /tournay/
-latitude: 43.1838447
-longitude: 0.2441345
+latitude: 43.185
+longitude: 0.239
 ---

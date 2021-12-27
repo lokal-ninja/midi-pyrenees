@@ -1,6 +1,6 @@
 ---
 title: Laguiole
 url: /laguiole/
-latitude: 44.6839098
-longitude: 2.8468743
+latitude: 44.684
+longitude: 2.847
 ---

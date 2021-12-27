@@ -1,6 +1,6 @@
 ---
 title: Saint-Girons
 url: /saint-girons/
-latitude: 
-longitude: 
+latitude: 42.98
+longitude: 1.145
 ---

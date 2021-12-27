@@ -1,6 +1,6 @@
 ---
 title: Manciet
 url: /manciet/
-latitude: 43.8005556
-longitude: 0.0416667
+latitude: 43.8
+longitude: 0.044
 ---

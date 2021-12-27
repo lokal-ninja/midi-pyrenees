@@ -1,6 +1,6 @@
 ---
 title: L'Union
 url: /lunion/
-latitude: 43.6501518
-longitude: 1.4846885
+latitude: 43.638
+longitude: 1.5
 ---

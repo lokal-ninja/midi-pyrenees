@@ -1,6 +1,6 @@
 ---
 title: Vira
 url: /vira/
-latitude: 43.051512300000006
-longitude: 1.758539
+latitude: 43.051
+longitude: 1.759
 ---

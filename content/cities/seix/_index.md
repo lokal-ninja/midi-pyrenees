@@ -1,6 +1,6 @@
 ---
 title: Seix
 url: /seix/
-latitude: 42.8656826
-longitude: 1.2032212
+latitude: 42.788
+longitude: 1.299
 ---

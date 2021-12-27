@@ -1,6 +1,6 @@
 ---
 title: Pavie
 url: /pavie/
-latitude: 43.6170649
-longitude: 0.3502962
+latitude: 43.616
+longitude: 0.576
 ---

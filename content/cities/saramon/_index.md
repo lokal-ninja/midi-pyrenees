@@ -1,6 +1,6 @@
 ---
 title: Saramon
 url: /saramon/
-latitude: 43.523611100000004
-longitude: 0.765
+latitude: 43.522
+longitude: 0.766
 ---

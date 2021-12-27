@@ -1,6 +1,6 @@
 ---
 title: Escalquens
 url: /escalquens/
-latitude: 43.518330000000006
-longitude: 1.5620474000000002
+latitude: 43.515
+longitude: 1.548
 ---

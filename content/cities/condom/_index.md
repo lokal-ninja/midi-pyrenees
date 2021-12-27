@@ -1,6 +1,6 @@
 ---
 title: Condom
 url: /condom/
-latitude: 43.9564563
-longitude: 0.3745929
+latitude: 43.958
+longitude: 0.374
 ---

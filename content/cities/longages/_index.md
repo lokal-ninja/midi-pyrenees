@@ -1,6 +1,6 @@
 ---
 title: Longages
 url: /longages/
-latitude: 43.3555742
-longitude: 1.2399766
+latitude: 43.355
+longitude: 1.24
 ---

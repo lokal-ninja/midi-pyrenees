@@ -1,6 +1,6 @@
 ---
 title: Durenque
 url: /durenque/
-latitude: 43.5842899
-longitude: 2.4850959
+latitude: 44.11
+longitude: 2.618
 ---

@@ -1,6 +1,6 @@
 ---
 title: Vabre
 url: /vabre/
-latitude: 43.716990800000005
-longitude: 2.1778681
+latitude: 43.693
+longitude: 2.425
 ---

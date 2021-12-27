@@ -1,6 +1,6 @@
 ---
 title: Ercé
 url: /erce/
-latitude: 42.849197600000004
-longitude: 1.2883469
+latitude: 42.85
+longitude: 1.287
 ---

@@ -1,6 +1,6 @@
 ---
 title: Roquecourbe
 url: /roquecourbe/
-latitude: 43.6648208
-longitude: 2.2914157
+latitude: 43.665
+longitude: 2.292
 ---

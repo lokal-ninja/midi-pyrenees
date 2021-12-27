@@ -1,6 +1,6 @@
 ---
 title: Bruguières
 url: /bruguieres/
-latitude: 43.7277106
-longitude: 1.411126
+latitude: 43.727
+longitude: 1.412
 ---

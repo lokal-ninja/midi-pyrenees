@@ -1,6 +1,6 @@
 ---
 title: FLAGNAC
 url: /flagnac/
-latitude: 
-longitude: 
+latitude: 44.604
+longitude: 2.243
 ---

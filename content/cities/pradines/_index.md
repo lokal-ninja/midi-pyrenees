@@ -1,6 +1,6 @@
 ---
 title: Pradines
 url: /pradines/
-latitude: 44.194741400000005
-longitude: 2.0617678
+latitude: 44.463
+longitude: 1.419
 ---

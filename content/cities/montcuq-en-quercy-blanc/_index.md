@@ -1,6 +1,6 @@
 ---
 title: Montcuq-en-Quercy-Blanc
 url: /montcuq-en-quercy-blanc/
-latitude: 
-longitude: 
+latitude: 44.339
+longitude: 1.211
 ---

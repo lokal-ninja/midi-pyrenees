@@ -1,6 +1,6 @@
 ---
 title: MAXOU
 url: /maxou/
-latitude: 
-longitude: 
+latitude: 44.555
+longitude: 1.445
 ---

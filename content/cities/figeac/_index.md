@@ -1,6 +1,6 @@
 ---
 title: Figeac
 url: /figeac/
-latitude: 44.6092335
-longitude: 2.0324321000000003
+latitude: 44.608
+longitude: 2.032
 ---

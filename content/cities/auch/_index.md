@@ -1,6 +1,6 @@
 ---
 title: Auch
 url: /auch/
-latitude: 43.6463558
-longitude: 0.5850507
+latitude: 43.647
+longitude: 0.585
 ---

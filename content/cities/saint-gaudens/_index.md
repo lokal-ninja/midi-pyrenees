@@ -1,6 +1,6 @@
 ---
 title: Saint-Gaudens
 url: /saint-gaudens/
-latitude: 43.1077682
-longitude: 0.7247218000000001
+latitude: 43.109
+longitude: 0.724
 ---

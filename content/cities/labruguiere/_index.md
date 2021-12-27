@@ -1,6 +1,6 @@
 ---
 title: Labruguière
 url: /labruguiere/
-latitude: 43.5402951
-longitude: 2.2634222
+latitude: 43.548
+longitude: 2.273
 ---

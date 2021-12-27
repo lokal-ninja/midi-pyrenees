@@ -1,6 +1,6 @@
 ---
 title: Arcizans-Dessus
 url: /arcizans-dessus/
-latitude: 42.9834794
-longitude: -0.1602772
+latitude: 42.985
+longitude: -0.159
 ---

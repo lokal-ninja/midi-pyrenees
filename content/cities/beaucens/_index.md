@@ -1,6 +1,6 @@
 ---
 title: Beaucens
 url: /beaucens/
-latitude: 42.9753808
-longitude: -0.059774
+latitude: 42.981
+longitude: -0.069
 ---

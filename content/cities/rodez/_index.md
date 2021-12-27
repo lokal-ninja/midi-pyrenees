@@ -1,6 +1,6 @@
 ---
 title: Rodez
 url: /rodez/
-latitude: 44.3513062
-longitude: 2.5727883
+latitude: 44.361
+longitude: 2.556
 ---

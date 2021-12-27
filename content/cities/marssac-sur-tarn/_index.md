@@ -1,6 +1,6 @@
 ---
 title: Marssac-sur-Tarn
 url: /marssac-sur-tarn/
-latitude: 43.9176823
-longitude: 2.0293467
+latitude: 43.918
+longitude: 2.029
 ---

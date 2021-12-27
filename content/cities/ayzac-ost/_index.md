@@ -1,6 +1,6 @@
 ---
 title: Ayzac-Ost
 url: /ayzac-ost/
-latitude: 43.0252495
-longitude: -0.0939447
+latitude: 43.02
+longitude: -0.096
 ---

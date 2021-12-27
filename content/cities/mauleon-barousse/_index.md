@@ -1,6 +1,6 @@
 ---
 title: Mauléon-Barousse
 url: /mauleon-barousse/
-latitude: 42.9594856
-longitude: 0.5674923000000001
+latitude: 42.957
+longitude: 0.567
 ---

@@ -1,6 +1,6 @@
 ---
 title: Vayrac
 url: /vayrac/
-latitude: 
-longitude: 
+latitude: 44.955
+longitude: 1.713
 ---

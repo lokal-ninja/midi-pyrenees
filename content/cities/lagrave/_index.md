@@ -1,6 +1,6 @@
 ---
 title: Lagrave
 url: /lagrave/
-latitude: 44.170282
-longitude: 1.2799247
+latitude: 43.89
+longitude: 1.974
 ---

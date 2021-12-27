@@ -1,6 +1,6 @@
 ---
 title: Gavarnie
 url: /gavarnie/
-latitude: 42.732203600000005
-longitude: -0.0093524
+latitude: 42.731
+longitude: -0.009
 ---

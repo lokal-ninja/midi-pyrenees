@@ -1,6 +1,6 @@
 ---
 title: Livernon
 url: /livernon/
-latitude: 44.646951300000005
-longitude: 1.842708
+latitude: 44.648
+longitude: 1.836
 ---

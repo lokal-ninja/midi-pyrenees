@@ -1,6 +1,6 @@
 ---
 title: Esterre
 url: /esterre/
-latitude: 42.8749009
-longitude: 0.006078
+latitude: 42.874
+longitude: 0.005
 ---

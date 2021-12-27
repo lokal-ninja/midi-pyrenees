@@ -1,6 +1,6 @@
 ---
 title: Gaujan
 url: /gaujan/
-latitude: 43.4083515
-longitude: 0.7229786
+latitude: 43.404
+longitude: 0.733
 ---

@@ -1,6 +1,6 @@
 ---
 title: Molières
 url: /molieres/
-latitude: 44.4159212
-longitude: 1.9485068
+latitude: 44.19
+longitude: 1.36
 ---

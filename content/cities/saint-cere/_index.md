@@ -1,6 +1,6 @@
 ---
 title: Saint-Céré
 url: /saint-cere/
-latitude: 44.858614900000006
-longitude: 1.8922748
+latitude: 44.863
+longitude: 1.883
 ---

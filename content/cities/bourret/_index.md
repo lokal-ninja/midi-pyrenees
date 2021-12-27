@@ -1,6 +1,6 @@
 ---
 title: Bourret
 url: /bourret/
-latitude: 43.526511
-longitude: 0.14061410000000002
+latitude: 43.944
+longitude: 1.167
 ---

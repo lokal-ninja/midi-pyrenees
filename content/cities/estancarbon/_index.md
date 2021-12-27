@@ -1,6 +1,6 @@
 ---
 title: Estancarbon
 url: /estancarbon/
-latitude: 43.1041669
-longitude: 0.7851932
+latitude: 43.115
+longitude: 0.761
 ---

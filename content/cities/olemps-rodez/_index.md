@@ -1,6 +1,6 @@
 ---
 title: Olemps-Rodez
 url: /olemps-rodez/
-latitude: 
-longitude: 
+latitude: 44.333
+longitude: 2.554
 ---

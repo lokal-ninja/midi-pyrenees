@@ -1,6 +1,6 @@
 ---
 title: Projan
 url: /projan/
-latitude: 43.6005556
-longitude: -0.23583330000000002
+latitude: 43.599
+longitude: -0.237
 ---

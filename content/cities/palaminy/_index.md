@@ -1,6 +1,6 @@
 ---
 title: Palaminy
 url: /palaminy/
-latitude: 43.2031
-longitude: 1.07152
+latitude: 43.202
+longitude: 1.069
 ---

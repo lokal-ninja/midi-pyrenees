@@ -1,6 +1,6 @@
 ---
 title: Noé
 url: /noe/
-latitude: 43.3545352
-longitude: 1.2749497
+latitude: 43.355
+longitude: 1.274
 ---

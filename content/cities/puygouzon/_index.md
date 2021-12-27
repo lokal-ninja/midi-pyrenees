@@ -1,6 +1,6 @@
 ---
 title: PUYGOUZON
 url: /puygouzon/
-latitude: 
-longitude: 
+latitude: 43.927
+longitude: 2.138
 ---

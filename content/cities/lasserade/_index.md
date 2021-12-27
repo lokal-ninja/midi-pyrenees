@@ -1,6 +1,6 @@
 ---
 title: Lasserade
 url: /lasserade/
-latitude: 
-longitude: 
+latitude: 43.611
+longitude: 0.061
 ---

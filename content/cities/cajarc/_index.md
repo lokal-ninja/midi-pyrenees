@@ -1,6 +1,6 @@
 ---
 title: Cajarc
 url: /cajarc/
-latitude: 44.486397000000004
-longitude: 1.8421185000000002
+latitude: 44.487
+longitude: 1.843
 ---

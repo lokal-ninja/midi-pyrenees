@@ -1,6 +1,6 @@
 ---
 title: Peyragudes
 url: /peyragudes/
-latitude: 
-longitude: 
+latitude: 42.795
+longitude: 0.441
 ---

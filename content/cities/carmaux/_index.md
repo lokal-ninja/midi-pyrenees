@@ -1,6 +1,6 @@
 ---
 title: Carmaux
 url: /carmaux/
-latitude: 44.0496296
-longitude: 2.1583033
+latitude: 44.052
+longitude: 2.159
 ---

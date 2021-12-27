@@ -1,6 +1,6 @@
 ---
 title: Brens
 url: /brens/
-latitude: 43.8892
-longitude: 1.90911
+latitude: 43.873
+longitude: 1.949
 ---

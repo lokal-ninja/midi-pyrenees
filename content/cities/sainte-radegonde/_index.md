@@ -1,6 +1,6 @@
 ---
 title: Sainte-Radegonde
 url: /sainte-radegonde/
-latitude: 43.84
-longitude: 0.5888889
+latitude: 44.337
+longitude: 2.627
 ---

@@ -1,6 +1,6 @@
 ---
 title: fonsforbes
 url: /fonsforbes/
-latitude: 
-longitude: 
+latitude: 43.543
+longitude: 1.24
 ---

@@ -1,6 +1,6 @@
 ---
 title: Gourdan-Polignan
 url: /gourdan-polignan/
-latitude: 43.071237
-longitude: 0.5737137
+latitude: 43.063
+longitude: 0.592
 ---

@@ -1,6 +1,6 @@
 ---
 title: Saverdun
 url: /saverdun/
-latitude: 43.233696800000004
-longitude: 1.5754613000000002
+latitude: 43.235
+longitude: 1.575
 ---

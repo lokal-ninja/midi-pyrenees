@@ -1,6 +1,6 @@
 ---
 title: Espère
 url: /espere/
-latitude: 44.5138879
-longitude: 1.3745575
+latitude: 44.51
+longitude: 1.373
 ---

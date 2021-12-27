@@ -1,6 +1,6 @@
 ---
 title: Latrape
 url: /latrape/
-latitude: 43.245000000000005
-longitude: 1.28708
+latitude: 43.259
+longitude: 1.263
 ---

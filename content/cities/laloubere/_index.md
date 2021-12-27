@@ -1,6 +1,6 @@
 ---
 title: Laloubère
 url: /laloubere/
-latitude: 
-longitude: 
+latitude: 43.21
+longitude: 0.074
 ---
