@@ -1,5 +1,5 @@
 ---
 title: "Atelier artisanal & Boutique Pierre Sajous"
-url: /beaucens/atelier-artisanal-and-boutique-pierre-sajous/
+url: /beaucens/atelier-artisanal-et-boutique-pierre-sajous/
 shop: ferme
 ---

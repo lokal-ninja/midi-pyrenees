@@ -1,5 +1,5 @@
 ---
 title: "M&Y Coiffure"
-url: /toulouse/mandy-coiffure/
+url: /toulouse/mety-coiffure/
 shop: coiffeur
 ---

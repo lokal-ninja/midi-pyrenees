@@ -1,5 +1,5 @@
 ---
 title: "Zen & Sens"
-url: /grisolles/zen-and-sens/
+url: /grisolles/zen-et-sens/
 shop: beauté
 ---

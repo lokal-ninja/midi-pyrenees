@@ -1,5 +1,5 @@
 ---
 title: "Broc & Book"
-url: /marciac/broc-and-book/
+url: /marciac/broc-et-book/
 shop: antiquités
 ---

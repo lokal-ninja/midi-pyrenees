@@ -1,5 +1,5 @@
 ---
 title: "La Halle Mode & Chaussures"
-url: /pamiers/la-halle-mode-and-chaussures/
+url: /pamiers/la-halle-mode-et-chaussures/
 shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lot & Bike"
-url: /cajarc/lot-and-bike/
+url: /cajarc/lot-et-bike/
 shop: vélo
 ---

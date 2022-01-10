@@ -1,5 +1,5 @@
 ---
 title: "Sabrina & Wilfried"
-url: /auterive/sabrina-and-wilfried/
+url: /auterive/sabrina-et-wilfried/
 shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Sly &Jo"
-url: /noe/boulangerie-sly-andjo/
+url: /noe/boulangerie-sly-etjo/
 shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Encres & Lames"
-url: /toulouse/encres-and-lames/
+url: /toulouse/encres-et-lames/
 shop: tatouage
 ---

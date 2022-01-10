@@ -1,5 +1,5 @@
 ---
 title: "Bike & Py"
-url: /lourdes/bike-and-py/
+url: /lourdes/bike-et-py/
 shop: vélo
 ---

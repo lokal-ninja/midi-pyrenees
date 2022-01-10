@@ -1,5 +1,5 @@
 ---
 title: "B&M"
-url: /roques/bandm/
+url: /roques/betm/
 shop: magasin de variétés
 ---

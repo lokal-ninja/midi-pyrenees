@@ -1,5 +1,5 @@
 ---
 title: "Ideal Baches & Stores"
-url: /saint-nauphary/ideal-baches-and-stores/
+url: /saint-nauphary/ideal-baches-et-stores/
 shop: shop
 ---

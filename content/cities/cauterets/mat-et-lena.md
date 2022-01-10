@@ -1,5 +1,5 @@
 ---
 title: "Mat & Lena"
-url: /cauterets/mat-and-lena/
+url: /cauterets/mat-et-lena/
 shop: décoration intérieure
 ---

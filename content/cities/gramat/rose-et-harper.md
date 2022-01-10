@@ -1,5 +1,5 @@
 ---
 title: "Rose & Harper"
-url: /gramat/rose-and-harper/
+url: /gramat/rose-et-harper/
 shop: vêtements
 ---

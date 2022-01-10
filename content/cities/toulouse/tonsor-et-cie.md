@@ -1,5 +1,5 @@
 ---
 title: "Tonsor & Cie."
-url: /toulouse/tonsor-and-cie/
+url: /toulouse/tonsor-et-cie/
 shop: coiffeur
 ---

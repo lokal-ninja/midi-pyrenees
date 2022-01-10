@@ -1,5 +1,5 @@
 ---
 title: "Elle & Lui"
-url: /argeles-gazost/elle-and-lui/
+url: /argeles-gazost/elle-et-lui/
 shop: beauté
 ---

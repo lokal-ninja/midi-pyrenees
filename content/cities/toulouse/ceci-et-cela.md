@@ -1,5 +1,5 @@
 ---
 title: "Ceci & cela"
-url: /toulouse/ceci-and-cela-2/
+url: /toulouse/ceci-et-cela/
 shop: commodité
 ---
