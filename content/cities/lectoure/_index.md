@@ -1,6 +1,6 @@
 ---
 title: Lectoure
 url: /lectoure/
-latitude: 43.917
-longitude: 0.628
+latitude: 43.935
+longitude: 0.611
 ---
