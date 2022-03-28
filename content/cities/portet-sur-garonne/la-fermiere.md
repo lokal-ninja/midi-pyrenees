@@ -1,5 +1,5 @@
 ---
-title: "La fermière"
+title: "La Fermière"
 url: /portet-sur-garonne/la-fermiere/
-shop: supermarché
+shop: commodité
 ---
