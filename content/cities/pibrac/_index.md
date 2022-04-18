@@ -1,6 +1,6 @@
 ---
 title: Pibrac
 url: /pibrac/
-latitude: 43.605
-longitude: 1.283
+latitude: 43.615
+longitude: 1.275
 ---
