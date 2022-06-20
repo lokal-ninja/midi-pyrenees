@@ -1,5 +1,5 @@
 ---
 title: "Carrefour City"
 url: /toulouse/carrefour-city-4/
-shop: supermarché
+shop: commodité
 ---
