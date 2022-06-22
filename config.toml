@@ -1,4 +1,4 @@
-baseURL = "https://fr.shoogle.net/midi-pyrenees"
+baseURL = "https://fr.shoogle.net/midi-pyrenees/"
 languageCode = "fr"
 title = "Midi-Pyrenees"
 theme = "ln-base"
