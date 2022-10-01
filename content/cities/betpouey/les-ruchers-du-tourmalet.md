@@ -1,5 +1,5 @@
 ---
-title: "Les ruchers du Tourmalet"
+title: "Les Ruchers du Tourmalet"
 url: /betpouey/les-ruchers-du-tourmalet/
 shop: ferme
 ---
