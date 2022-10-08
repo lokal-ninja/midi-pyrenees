@@ -1,6 +1,6 @@
 ---
-title: Rouffiac-Tolosan
+title: Rouffiac Tolosan
 url: /rouffiac-tolosan/
-latitude: 43.667
-longitude: 1.513
+latitude: 43.671
+longitude: 1.515
 ---
