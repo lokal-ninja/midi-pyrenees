@@ -1,11 +1,11 @@
-id: 2450406596
-type: node
-latitude: 43.6065
-longitude: 1.44828
-postcode: "31000"
+id: 74690183
+type: way
+latitude: 43.58363
+longitude: 1.37425
+postcode: "31100"
 city: Toulouse
-street: ""
-housenumber: 
+street: "Chemin de Ferro Lébrès"
+housenumber: 30
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-13:00"
+opening_hours: ""
 website: ""
