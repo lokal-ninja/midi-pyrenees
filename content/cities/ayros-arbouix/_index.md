@@ -1,6 +1,6 @@
 ---
 title: Ayros-Arbouix
 url: /ayros-arbouix/
-latitude: 43
-longitude: -0.069
+latitude: 43.006
+longitude: -0.068
 ---
