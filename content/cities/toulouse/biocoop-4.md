@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
-url: /toulouse/biocoop-2/
+url: /toulouse/biocoop-4/
 shop: alimentation saine
 ---

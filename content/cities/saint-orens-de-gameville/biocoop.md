@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
-url: /toulouse/biocoop-2/
+url: /saint-orens-de-gameville/biocoop/
 shop: alimentation saine
 ---

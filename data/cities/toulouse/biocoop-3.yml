@@ -1,11 +1,11 @@
-id: 74702179
-type: way
-latitude: 43.60694
-longitude: 1.39749
-postcode: "31300"
+id: 2339921978
+type: node
+latitude: 43.61833
+longitude: 1.43695
+postcode: "31200"
 city: Toulouse
-street: "Avenue de Grande Bretagne"
-housenumber: 301
-phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.biocoop-purpan.com/"
+street: "Avenue Frédéric Estèbe"
+housenumber: 4
+phone: "+33 5 34 42 01 56"
+opening_hours: "Tu-Sa 09:30-20:00; Mo 14:00-20:00"
+website: "https://www.biominimes.fr/"

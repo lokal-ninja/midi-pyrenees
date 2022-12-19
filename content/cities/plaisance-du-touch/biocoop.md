@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /plaisance-du-touch/biocoop/
-shop: supermarché
+shop: alimentation saine
 ---
