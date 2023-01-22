@@ -1,5 +1,5 @@
 ---
-title: "VPN Autos Toulouse"
+title: "Vpn Autos - Toulouse"
 url: /labege/vpn-autos-toulouse/
 shop: voiture
 ---

@@ -1,6 +1,6 @@
 ---
-title: Portet-sur-Garonne
+title: PORTET SUR GARONNE
 url: /portet-sur-garonne/
-latitude: 43.539
-longitude: 1.4
+latitude: 43.524
+longitude: 1.407
 ---
