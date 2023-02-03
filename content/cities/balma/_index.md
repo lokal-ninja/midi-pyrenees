@@ -1,6 +1,6 @@
 ---
 title: Balma
 url: /balma/
-latitude: 43.609
-longitude: 1.493
+latitude: 43.629
+longitude: 1.482
 ---

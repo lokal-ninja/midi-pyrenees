@@ -1,6 +1,6 @@
 ---
 title: Lavaur
 url: /lavaur/
-latitude: 43.695
-longitude: 1.817
+latitude: 43.696
+longitude: 1.816
 ---
