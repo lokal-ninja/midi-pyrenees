@@ -1,11 +1,11 @@
-id: 4554359489
-type: node
-latitude: 43.60596
-longitude: 1.39651
-postcode: "31000"
+id: 76325232
+type: way
+latitude: 43.62298
+longitude: 1.43356
+postcode: "31200"
 city: Toulouse
-street: "Impasse de Maubec"
-housenumber: 20
+street: ""
+housenumber: 
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00"
+opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
-id: 4742806728
-type: node
-latitude: 43.62714
-longitude: 1.43258
-postcode: "31200"
+id: 498069988
+type: way
+latitude: 43.59859
+longitude: 1.48758
+postcode: ""
 city: Toulouse
-street: "Boulevard Silvio Trentin"
-housenumber: 83
+street: ""
+housenumber: 
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:30; Su 09:00-12:30"
+opening_hours: "Mo-Sa 08:30-20:00;Su 08:30-12:45"
 website: ""
