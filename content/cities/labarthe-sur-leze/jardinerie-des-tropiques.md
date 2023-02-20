@@ -1,5 +1,5 @@
 ---
 title: "Jardinerie des Tropiques"
-url: /muret/jardinerie-des-tropiques/
+url: /labarthe-sur-leze/jardinerie-des-tropiques/
 shop: centre de jardinage
 ---

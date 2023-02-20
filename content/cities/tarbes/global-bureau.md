@@ -1,5 +1,5 @@
 ---
 title: "Global Bureau"
 url: /tarbes/global-bureau/
-shop: shop
+shop: fournitures de bureau
 ---
