@@ -1,6 +1,6 @@
 ---
 title: Caraman
 url: /caraman/
-latitude: 43.531
-longitude: 1.758
+latitude: 43.528
+longitude: 1.759
 ---

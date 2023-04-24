@@ -1,6 +1,6 @@
 ---
 title: Sanvensa
 url: /sanvensa/
-latitude: 44.292
+latitude: 44.288
 longitude: 2.049
 ---
