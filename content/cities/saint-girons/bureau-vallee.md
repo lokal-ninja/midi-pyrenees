@@ -1,5 +1,5 @@
 ---
 title: "Bureau Vallée"
-url: /saint-lizier/bureau-vallee/
+url: /saint-girons/bureau-vallee/
 shop: fournitures de bureau
 ---
