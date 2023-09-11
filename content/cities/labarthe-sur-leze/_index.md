@@ -1,6 +1,6 @@
 ---
 title: Labarthe-sur-Lèze
 url: /labarthe-sur-leze/
-latitude: 43.465
-longitude: 1.388
+latitude: 43.452
+longitude: 1.4
 ---
