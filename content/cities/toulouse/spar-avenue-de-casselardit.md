@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /toulouse/spar/
+url: /toulouse/spar-avenue-de-casselardit/
 shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
-url: /castres/biocoop/
+url: /castres/biocoop-rue-jean-bories/
 shop: supermarché
 ---

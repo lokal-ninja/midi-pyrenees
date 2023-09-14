@@ -1,5 +1,5 @@
 ---
 title: "Vival"
-url: /toulouse/vival/
+url: /toulouse/vival-rue-andre-vasseur/
 shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Picard"
-url: /toulouse/picard/
+url: /toulouse/picard-avenue-honore-serres/
 shop: aliments surgelés
 ---

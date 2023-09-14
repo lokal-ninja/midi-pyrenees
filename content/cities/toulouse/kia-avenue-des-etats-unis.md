@@ -1,5 +1,5 @@
 ---
 title: "Kia"
-url: /toulouse/kia/
+url: /toulouse/kia-avenue-des-etats-unis/
 shop: voiture
 ---

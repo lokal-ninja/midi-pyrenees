@@ -1,5 +1,5 @@
 ---
 title: "Delismoke"
-url: /toulouse/delismoke/
+url: /toulouse/delismoke-place-jeanne-darc/
 shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /toulouse/aldi/
+url: /toulouse/aldi-avenue-maurice-bourges-maunoury/
 shop: supermarché
 ---

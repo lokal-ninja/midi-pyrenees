@@ -1,5 +1,5 @@
 ---
 title: "Arabesque"
-url: /toulouse/arabesque/
+url: /toulouse/arabesque-rue-paul-vidal/
 shop: chaussures
 ---

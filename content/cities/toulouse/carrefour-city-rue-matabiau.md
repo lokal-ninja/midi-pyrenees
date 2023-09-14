@@ -1,5 +1,5 @@
 ---
 title: "Carrefour City"
-url: /toulouse/carrefour-city/
+url: /toulouse/carrefour-city-rue-matabiau/
 shop: commodité
 ---

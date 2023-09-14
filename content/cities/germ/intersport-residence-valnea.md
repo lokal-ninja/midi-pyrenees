@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
-url: /germ/intersport/
+url: /germ/intersport-residence-valnea/
 shop: sports
 ---

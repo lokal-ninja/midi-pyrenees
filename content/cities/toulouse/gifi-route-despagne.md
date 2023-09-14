@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
-url: /toulouse/gifi/
+url: /toulouse/gifi-route-despagne/
 shop: magasin de variétés
 ---

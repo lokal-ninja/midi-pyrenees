@@ -1,5 +1,5 @@
 ---
 title: "Picard"
-url: /toulouse/picard/
+url: /toulouse/picard-chemin-de-gabardie/
 shop: aliments surgelés
 ---

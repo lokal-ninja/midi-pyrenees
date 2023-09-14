@@ -1,5 +1,5 @@
 ---
 title: "Diloy's"
-url: /toulouse/diloys/
+url: /toulouse/diloys-avenue-antoine-de-saint-exupery/
 shop: coiffeur
 ---

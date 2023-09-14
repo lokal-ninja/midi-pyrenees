@@ -1,5 +1,5 @@
 ---
 title: "Picard"
-url: /toulouse/picard/
+url: /toulouse/picard-route-dalbi/
 shop: aliments surgelés
 ---

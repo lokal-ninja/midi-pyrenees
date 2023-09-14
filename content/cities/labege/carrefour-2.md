@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
-url: /labege/carrefour/
+url: /labege/carrefour-2/
 shop: supermarché
 ---

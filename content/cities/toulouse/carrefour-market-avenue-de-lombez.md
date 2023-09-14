@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
-url: /toulouse/carrefour-market/
+url: /toulouse/carrefour-market-avenue-de-lombez/
 shop: supermarché
 ---
