@@ -1,5 +1,5 @@
 ---
 title: "Au Poussin Bleu"
-url: /toulouse/au-poussin-bleu-rue-de-la-bourse/
+url: /toulouse/au-poussin-bleu-rue-du-languedoc/
 shop: pâtisserie
 ---
