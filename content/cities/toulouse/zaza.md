@@ -1,5 +1,5 @@
 ---
-title: "Zaza"
+title: "ZAZA"
 url: /toulouse/zaza/
 shop: café
 ---
