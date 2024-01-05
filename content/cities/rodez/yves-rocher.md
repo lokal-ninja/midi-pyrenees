@@ -1,5 +1,5 @@
 ---
-title: "Yves rocher"
+title: "Yves Rocher"
 url: /rodez/yves-rocher/
 shop: beauté
 ---

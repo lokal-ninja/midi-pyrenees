@@ -1,5 +1,5 @@
 ---
 title: "Picard"
-url: /lescure-dalbigeois/picard/
+url: /albi/picard-route-de-la-dreche/
 shop: aliments surgelés
 ---
