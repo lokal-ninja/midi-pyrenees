@@ -1,5 +1,5 @@
 ---
-title: "Superdry™"
+title: "Superdry"
 url: /albi/superdry/
 shop: vêtements
 ---
