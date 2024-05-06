@@ -1,6 +1,6 @@
 ---
 title: Pamiers
 url: /pamiers/
-latitude: 43.101
-longitude: 1.624
+latitude: 43.116
+longitude: 1.611
 ---
