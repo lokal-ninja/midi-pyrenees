@@ -1,5 +1,5 @@
 ---
 title: "La Chapellerie"
 url: /castres/la-chapellerie/
-shop: chapeau
+shop: vêtements
 ---
