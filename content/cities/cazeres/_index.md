@@ -1,6 +1,6 @@
 ---
 title: Cazères
 url: /cazeres/
-latitude: 43.208
-longitude: 1.087
+latitude: 43.206
+longitude: 1.086
 ---
