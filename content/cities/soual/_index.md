@@ -1,6 +1,6 @@
 ---
 title: Soual
 url: /soual/
-latitude: 43.565
-longitude: 2.127
+latitude: 43.555
+longitude: 2.116
 ---
