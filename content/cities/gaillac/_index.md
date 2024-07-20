@@ -1,6 +1,6 @@
 ---
 title: Gaillac
 url: /gaillac/
-latitude: 43.9
-longitude: 1.897
+latitude: 43.906
+longitude: 1.913
 ---
