@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /gourdan-polignan/action/
-shop: magasin de campagne
+shop: magasin de variétés
 ---
