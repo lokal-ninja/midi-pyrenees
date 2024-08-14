@@ -1,5 +1,5 @@
 ---
 title: "E.Leclerc Drive"
-url: /millau/e-leclerc-drive/
+url: /balma/e-leclerc-drive/
 shop: avant-poste
 ---
