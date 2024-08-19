@@ -1,6 +1,6 @@
 ---
 title: Cugnaux
 url: /cugnaux/
-latitude: 43.556
-longitude: 1.365
+latitude: 43.538
+longitude: 1.345
 ---
