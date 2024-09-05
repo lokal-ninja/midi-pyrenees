@@ -1,5 +1,5 @@
 ---
 title: "Stephan"
 url: /tournefeuille/stephan/
-shop: coiffeur
+shop: Friseur
 ---

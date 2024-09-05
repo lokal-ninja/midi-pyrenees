@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /eaunes/vival/
-shop: commodité
+shop: Lebensmittel
 ---

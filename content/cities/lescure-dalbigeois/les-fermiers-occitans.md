@@ -1,5 +1,5 @@
 ---
 title: "Les Fermiers Occitans"
 url: /lescure-dalbigeois/les-fermiers-occitans/
-shop: ferme
+shop: Hofladen
 ---

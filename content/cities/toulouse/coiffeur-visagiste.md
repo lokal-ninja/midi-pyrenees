@@ -1,5 +1,5 @@
 ---
 title: "Coiffeur Visagiste"
 url: /toulouse/coiffeur-visagiste/
-shop: coiffeur
+shop: Friseur
 ---

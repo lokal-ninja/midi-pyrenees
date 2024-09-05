@@ -1,5 +1,5 @@
 ---
 title: "Krys"
 url: /grenade/krys/
-shop: opticien
+shop: Optiker
 ---

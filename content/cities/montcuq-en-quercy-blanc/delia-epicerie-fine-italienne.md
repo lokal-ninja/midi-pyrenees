@@ -1,5 +1,5 @@
 ---
 title: "Délia - Epicerie Fine Italienne"
 url: /montcuq-en-quercy-blanc/delia-epicerie-fine-italienne/
-shop: charcuterie
+shop: Feinkost
 ---

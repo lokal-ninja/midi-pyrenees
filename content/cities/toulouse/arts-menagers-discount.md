@@ -1,5 +1,5 @@
 ---
 title: "Arts Menagers Discount"
 url: /toulouse/arts-menagers-discount/
-shop: cuisine
+shop: Küchen
 ---

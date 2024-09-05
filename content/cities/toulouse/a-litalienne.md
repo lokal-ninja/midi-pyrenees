@@ -1,5 +1,5 @@
 ---
 title: "A l'italienne"
 url: /toulouse/a-litalienne/
-shop: charcuterie
+shop: Feinkost
 ---

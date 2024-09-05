@@ -1,5 +1,5 @@
 ---
 title: "Maison Reynaud"
 url: /balma/maison-reynaud/
-shop: boulangerie
+shop: Bäckerei
 ---

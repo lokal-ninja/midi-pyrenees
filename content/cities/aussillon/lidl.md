@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /aussillon/lidl/
-shop: supermarché
+shop: Supermarkt
 ---

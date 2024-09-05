@@ -1,5 +1,5 @@
 ---
 title: "Kinkela"
 url: /toulouse/kinkela/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /lescure-dabigeois/ford/
-shop: voiture
+shop: Autohaus
 ---

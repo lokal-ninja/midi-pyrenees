@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /peyragudes/intersport/
-shop: sports
+shop: Sport
 ---

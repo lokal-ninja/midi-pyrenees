@@ -1,5 +1,5 @@
 ---
 title: "Jules"
 url: /pamiers/jules/
-shop: vêtements
+shop: Kleidung
 ---

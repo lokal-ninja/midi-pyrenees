@@ -1,5 +1,5 @@
 ---
 title: "Jardiland"
 url: /montauban/jardiland/
-shop: centre de jardinage
+shop: Garten-Center
 ---

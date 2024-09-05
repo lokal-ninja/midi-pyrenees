@@ -1,5 +1,5 @@
 ---
 title: "La Belle Liègoise"
 url: /toulouse/la-belle-liegoise/
-shop: pâtisserie
+shop: Konditorei
 ---

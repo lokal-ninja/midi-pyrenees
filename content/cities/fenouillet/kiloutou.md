@@ -1,5 +1,5 @@
 ---
 title: "Kiloutou"
 url: /fenouillet/kiloutou/
-shop: location de stockage
+shop: Mieten
 ---

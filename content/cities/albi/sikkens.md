@@ -1,5 +1,5 @@
 ---
 title: "Sikkens"
 url: /albi/sikkens/
-shop: peinture
+shop: Farben
 ---

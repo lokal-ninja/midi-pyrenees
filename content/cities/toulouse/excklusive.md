@@ -1,5 +1,5 @@
 ---
 title: "Excklusive"
 url: /toulouse/excklusive/
-shop: chaussures
+shop: Schuhe
 ---

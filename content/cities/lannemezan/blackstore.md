@@ -1,5 +1,5 @@
 ---
 title: "Blackstore"
 url: /lannemezan/blackstore/
-shop: vêtements
+shop: Kleidung
 ---

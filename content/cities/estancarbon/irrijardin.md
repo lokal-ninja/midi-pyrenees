@@ -1,5 +1,5 @@
 ---
 title: "Irrijardin"
 url: /estancarbon/irrijardin/
-shop: piscine
+shop: Pool
 ---

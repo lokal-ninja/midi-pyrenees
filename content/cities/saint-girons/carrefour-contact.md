@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Contact"
 url: /saint-girons/carrefour-contact/
-shop: supermarché
+shop: Supermarkt
 ---

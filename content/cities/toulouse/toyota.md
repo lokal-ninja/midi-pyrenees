@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /toulouse/toyota/
-shop: voiture
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amara Boutique"
 url: /auch/amara-boutique/
-shop: vêtements
+shop: Kleidung
 ---

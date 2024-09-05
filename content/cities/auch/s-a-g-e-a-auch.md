@@ -1,5 +1,5 @@
 ---
 title: "S.A.G.E.A. Auch"
 url: /auch/s-a-g-e-a-auch/
-shop: voiture
+shop: Autohaus
 ---

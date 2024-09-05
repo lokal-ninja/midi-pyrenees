@@ -1,5 +1,5 @@
 ---
 title: "Larivière"
 url: /onet-le-chateau/lariviere/
-shop: commerce
+shop: Baustoffe
 ---

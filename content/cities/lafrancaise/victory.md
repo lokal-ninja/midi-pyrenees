@@ -1,5 +1,5 @@
 ---
 title: "Victory"
 url: /lafrancaise/victory/
-shop: commodité
+shop: Lebensmittel
 ---

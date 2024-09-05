@@ -1,5 +1,5 @@
 ---
 title: "Sancho"
 url: /bagneres-de-bigorre/sancho/
-shop: boucherie
+shop: Metzgerei
 ---

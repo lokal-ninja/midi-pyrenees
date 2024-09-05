@@ -1,5 +1,5 @@
 ---
 title: "Aragon"
 url: /le-segur/aragon/
-shop: boulangerie
+shop: Bäckerei
 ---

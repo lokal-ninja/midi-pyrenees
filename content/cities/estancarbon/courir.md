@@ -1,5 +1,5 @@
 ---
 title: "Courir"
 url: /estancarbon/courir/
-shop: chaussures
+shop: Schuhe
 ---

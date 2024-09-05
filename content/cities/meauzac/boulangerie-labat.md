@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Labat"
 url: /meauzac/boulangerie-labat/
-shop: boulangerie
+shop: Bäckerei
 ---

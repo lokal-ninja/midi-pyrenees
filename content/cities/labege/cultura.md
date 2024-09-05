@@ -1,5 +1,5 @@
 ---
 title: "Cultura"
 url: /labege/cultura/
-shop: livres
+shop: Bücher
 ---

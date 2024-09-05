@@ -1,5 +1,5 @@
 ---
 title: "La Civette"
 url: /albi/la-civette/
-shop: tabac
+shop: Tabak
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Naturalia"
 url: /toulouse/naturalia/
-shop: commodité
+shop: Lebensmittel
 ---

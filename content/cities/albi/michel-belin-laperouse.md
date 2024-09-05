@@ -1,5 +1,5 @@
 ---
 title: "Michel Belin Lapérouse"
 url: /albi/michel-belin-laperouse/
-shop: pâtisserie
+shop: Konditorei
 ---

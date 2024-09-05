@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
 url: /auterive/carrefour-market/
-shop: supermarché
+shop: Supermarkt
 ---

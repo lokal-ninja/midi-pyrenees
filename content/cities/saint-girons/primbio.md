@@ -1,5 +1,5 @@
 ---
 title: "PrimBio"
 url: /saint-girons/primbio/
-shop: légumes
+shop: Gemüse & Obst
 ---

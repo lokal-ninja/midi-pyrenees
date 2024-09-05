@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /millau/biocoop/
-shop: supermarché
+shop: Supermarkt
 ---

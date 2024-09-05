@@ -1,5 +1,5 @@
 ---
 title: "Darty"
 url: /balma/darty/
-shop: électronique
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ldlc"
 url: /toulouse/ldlc/
-shop: ordinateur
+shop: Computer
 ---

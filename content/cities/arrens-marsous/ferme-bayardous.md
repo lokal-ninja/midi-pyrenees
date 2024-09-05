@@ -1,5 +1,5 @@
 ---
 title: "Ferme Bayardous"
 url: /arrens-marsous/ferme-bayardous/
-shop: ferme
+shop: Hofladen
 ---

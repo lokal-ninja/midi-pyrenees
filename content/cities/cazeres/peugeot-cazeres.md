@@ -1,5 +1,5 @@
 ---
 title: "Peugeot Cazeres"
 url: /cazeres/peugeot-cazeres/
-shop: voiture
+shop: Autohaus
 ---

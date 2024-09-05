@@ -1,5 +1,5 @@
 ---
 title: "Le Crunch"
 url: /beaumarches/le-crunch/
-shop: commodité
+shop: Lebensmittel
 ---

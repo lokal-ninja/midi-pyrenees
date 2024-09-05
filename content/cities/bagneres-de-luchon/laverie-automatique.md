@@ -1,5 +1,5 @@
 ---
 title: "Laverie Automatique"
 url: /bagneres-de-luchon/laverie-automatique/
-shop: blanchisserie
+shop: Wäscherei
 ---

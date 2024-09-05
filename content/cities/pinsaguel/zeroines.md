@@ -1,5 +1,5 @@
 ---
 title: "Zéro'ines"
 url: /pinsaguel/zeroines/
-shop: charcuterie
+shop: Feinkost
 ---

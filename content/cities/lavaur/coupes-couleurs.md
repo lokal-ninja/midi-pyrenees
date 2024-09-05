@@ -1,5 +1,5 @@
 ---
 title: "Coupes Couleurs"
 url: /lavaur/coupes-couleurs/
-shop: coiffeur
+shop: Friseur
 ---

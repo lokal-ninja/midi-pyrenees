@@ -1,5 +1,5 @@
 ---
 title: "Alain le Chiffonnier"
 url: /lavelanet/alain-le-chiffonnier/
-shop: charité
+shop: Gebrauchtwaren
 ---

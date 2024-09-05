@@ -1,5 +1,5 @@
 ---
 title: "EDS Électronique"
 url: /rodez/eds-electronique/
-shop: électronique
+shop: Elektronik
 ---

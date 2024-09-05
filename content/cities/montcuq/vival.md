@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /montcuq/vival/
-shop: commodité
+shop: Lebensmittel
 ---

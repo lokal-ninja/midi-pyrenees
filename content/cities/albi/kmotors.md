@@ -1,5 +1,5 @@
 ---
 title: "Kmotors"
 url: /albi/kmotors/
-shop: moto
+shop: Motorrad
 ---

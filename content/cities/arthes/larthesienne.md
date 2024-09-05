@@ -1,5 +1,5 @@
 ---
 title: "L'Arthésienne"
 url: /arthes/larthesienne/
-shop: boulangerie
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salut"
 url: /toulouse/salut/
-shop: boulangerie
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Undiz"
 url: /albi/undiz/
-shop: vêtements
+shop: Kleidung
 ---

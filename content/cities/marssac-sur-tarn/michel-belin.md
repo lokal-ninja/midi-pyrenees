@@ -1,5 +1,5 @@
 ---
 title: "Michel Belin"
 url: /marssac-sur-tarn/michel-belin/
-shop: boulangerie
+shop: Bäckerei
 ---

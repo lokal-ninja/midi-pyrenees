@@ -1,5 +1,5 @@
 ---
 title: "Neortic Automobiles - Citroën"
 url: /tournefeuille/neortic-automobiles-citroen/
-shop: voiture
+shop: Autohaus
 ---

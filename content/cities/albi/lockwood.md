@@ -1,5 +1,5 @@
 ---
 title: "Lockwood"
 url: /albi/lockwood/
-shop: extérieur
+shop: Outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Vie Claire"
 url: /lavaur/la-vie-claire/
-shop: supermarché
+shop: Supermarkt
 ---

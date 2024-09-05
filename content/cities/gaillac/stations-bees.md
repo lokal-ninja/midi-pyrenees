@@ -1,5 +1,5 @@
 ---
 title: "Stations Bee's"
 url: /gaillac/stations-bees/
-shop: vélo
+shop: Fahrrad
 ---

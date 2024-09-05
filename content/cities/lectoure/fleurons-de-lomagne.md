@@ -1,5 +1,5 @@
 ---
 title: "Fleurons de Lomagne"
 url: /lectoure/fleurons-de-lomagne/
-shop: charcuterie
+shop: Feinkost
 ---

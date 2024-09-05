@@ -1,5 +1,5 @@
 ---
 title: "Darjeeling"
 url: /estancarbon/darjeeling/
-shop: vêtements
+shop: Kleidung
 ---

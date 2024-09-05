@@ -1,5 +1,5 @@
 ---
 title: "Électro Dépôt"
 url: /fenouillet/electro-depot/
-shop: électronique
+shop: Elektronik
 ---

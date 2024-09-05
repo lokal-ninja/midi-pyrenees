@@ -1,5 +1,5 @@
 ---
 title: "Biocoop Bazert"
 url: /gourdan-polignan/biocoop-bazert/
-shop: supermarché
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Delphieux"
 url: /rignac/delphieux/
-shop: boucherie
+shop: Metzgerei
 ---

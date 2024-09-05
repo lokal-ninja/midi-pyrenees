@@ -1,5 +1,5 @@
 ---
 title: "U'cafe"
 url: /cugnaux/ucafe/
-shop: charcuterie
+shop: Feinkost
 ---

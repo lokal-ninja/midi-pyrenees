@@ -1,5 +1,5 @@
 ---
 title: "Institut de Beauté Hippomer"
 url: /albi/institut-de-beaute-hippomer/
-shop: beauté
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jabricole"
 url: /toulouse/jabricole/
-shop: vélo
+shop: Fahrrad
 ---

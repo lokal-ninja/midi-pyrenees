@@ -1,5 +1,5 @@
 ---
 title: "Casino Shop"
 url: /toulouse/casino-shop/
-shop: supermarché
+shop: Supermarkt
 ---

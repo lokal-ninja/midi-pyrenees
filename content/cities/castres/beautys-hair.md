@@ -1,5 +1,5 @@
 ---
 title: "Beauty's Hair"
 url: /castres/beautys-hair/
-shop: coiffeur
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Upper"
 url: /toulouse/upper/
-shop: chaussures
+shop: Schuhe
 ---

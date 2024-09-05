@@ -1,5 +1,5 @@
 ---
 title: "Speed Queen"
 url: /montauban/speed-queen/
-shop: blanchisserie
+shop: Wäscherei
 ---

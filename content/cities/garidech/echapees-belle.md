@@ -1,5 +1,5 @@
 ---
 title: "Échapées belle"
 url: /garidech/echapees-belle/
-shop: coiffeur
+shop: Friseur
 ---

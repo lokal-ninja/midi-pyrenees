@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
 url: /tournefeuille/carrefour-market/
-shop: gaz
+shop: Gasflaschen
 ---

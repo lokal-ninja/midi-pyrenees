@@ -1,5 +1,5 @@
 ---
 title: "RIKA"
 url: /toulouse/rika/
-shop: cheminée
+shop: Kamine & Öfen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Krys"
 url: /castres/krys/
-shop: opticien
+shop: Optiker
 ---

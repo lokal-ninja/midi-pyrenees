@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie"
 url: /cazeres/boulangerie/
-shop: boulangerie
+shop: Bäckerei
 ---

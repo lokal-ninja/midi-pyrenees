@@ -1,5 +1,5 @@
 ---
 title: "BMW"
 url: /toulouse/bmw/
-shop: voiture
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pâtisserie J. Alabert"
 url: /saint-girons/patisserie-j-alabert/
-shop: pâtisserie
+shop: Konditorei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Total Access"
 url: /villeneuve-tolosane/total-access/
-shop: commodité
+shop: Lebensmittel
 ---

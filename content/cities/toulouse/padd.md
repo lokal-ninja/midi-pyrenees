@@ -1,5 +1,5 @@
 ---
 title: "Padd"
 url: /toulouse/padd/
-shop: sports
+shop: Sport
 ---

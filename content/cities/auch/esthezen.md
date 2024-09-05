@@ -1,5 +1,5 @@
 ---
 title: "Esthézen"
 url: /auch/esthezen/
-shop: beauté
+shop: Kosmetik
 ---

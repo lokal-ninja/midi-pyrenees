@@ -1,5 +1,5 @@
 ---
 title: "OK Plongée"
 url: /balma/ok-plongee/
-shop: plongée
+shop: Tauchen
 ---

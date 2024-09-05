@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /toulouse/lidl-rue-du-feretra/
-shop: supermarché
+shop: Supermarkt
 ---

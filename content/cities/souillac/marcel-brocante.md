@@ -1,5 +1,5 @@
 ---
 title: "Marcel Brocante"
 url: /souillac/marcel-brocante/
-shop: antiquités
+shop: Antiquitäten
 ---

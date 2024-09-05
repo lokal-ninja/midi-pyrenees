@@ -1,5 +1,5 @@
 ---
 title: "Singer"
 url: /toulouse/singer/
-shop: électronique
+shop: Elektronik
 ---

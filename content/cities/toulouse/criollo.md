@@ -1,5 +1,5 @@
 ---
 title: "Criollo"
 url: /toulouse/criollo/
-shop: confiserie
+shop: Süßwaren
 ---

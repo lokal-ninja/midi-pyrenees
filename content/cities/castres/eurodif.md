@@ -1,5 +1,5 @@
 ---
 title: "Eurodif"
 url: /castres/eurodif/
-shop: vêtements
+shop: Kleidung
 ---

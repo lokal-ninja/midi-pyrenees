@@ -1,5 +1,5 @@
 ---
 title: "Brix"
 url: /cazeres/brix/
-shop: boucherie
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cultura"
 url: /balma/cultura/
-shop: livres
+shop: Bücher
 ---

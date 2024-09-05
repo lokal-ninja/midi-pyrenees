@@ -1,5 +1,5 @@
 ---
 title: "Abélia Fleurs"
 url: /saint-girons/abelia-fleurs/
-shop: fleuriste
+shop: Blumen
 ---

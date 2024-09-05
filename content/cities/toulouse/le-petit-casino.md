@@ -1,5 +1,5 @@
 ---
 title: "Le Petit Casino"
 url: /toulouse/le-petit-casino/
-shop: commodité
+shop: Lebensmittel
 ---

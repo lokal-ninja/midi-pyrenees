@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /castanet-tolosan/intermarche/
-shop: supermarché
+shop: Supermarkt
 ---

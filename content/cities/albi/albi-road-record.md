@@ -1,5 +1,5 @@
 ---
 title: "Albi Road Record"
 url: /albi/albi-road-record/
-shop: musique
+shop: Musik
 ---

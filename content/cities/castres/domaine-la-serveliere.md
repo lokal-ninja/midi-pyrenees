@@ -1,5 +1,5 @@
 ---
 title: "Domaine La Servelière"
 url: /castres/domaine-la-serveliere/
-shop: alcool
+shop: Spirituosen
 ---

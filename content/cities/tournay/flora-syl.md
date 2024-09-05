@@ -1,5 +1,5 @@
 ---
 title: "Flora-Syl"
 url: /tournay/flora-syl/
-shop: fleuriste
+shop: Blumen
 ---

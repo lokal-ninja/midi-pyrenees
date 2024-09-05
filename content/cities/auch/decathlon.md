@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /auch/decathlon/
-shop: sports
+shop: Sport
 ---

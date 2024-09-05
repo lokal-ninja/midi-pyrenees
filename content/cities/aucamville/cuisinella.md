@@ -1,5 +1,5 @@
 ---
 title: "Cuisinella"
 url: /aucamville/cuisinella/
-shop: cuisine
+shop: Küchen
 ---

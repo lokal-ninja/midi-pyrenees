@@ -1,5 +1,5 @@
 ---
 title: "Ressourcerie IDDEES"
 url: /lafrancaise/ressourcerie-iddees/
-shop: appareil ménager
+shop: Haushaltsgeräte
 ---

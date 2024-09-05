@@ -1,5 +1,5 @@
 ---
 title: "Synoptique"
 url: /toulouse/synoptique/
-shop: opticien
+shop: Optiker
 ---

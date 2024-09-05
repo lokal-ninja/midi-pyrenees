@@ -1,5 +1,5 @@
 ---
 title: "Fromagerie Tomme et Thierry"
 url: /leguevin/fromagerie-tomme-et-thierry/
-shop: fromage
+shop: Käse
 ---

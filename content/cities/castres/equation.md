@@ -1,5 +1,5 @@
 ---
 title: "Equation"
 url: /castres/equation/
-shop: voiture
+shop: Autohaus
 ---

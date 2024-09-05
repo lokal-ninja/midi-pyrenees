@@ -1,5 +1,5 @@
 ---
 title: "Bibiche"
 url: /souillac/bibiche/
-shop: vêtements
+shop: Kleidung
 ---

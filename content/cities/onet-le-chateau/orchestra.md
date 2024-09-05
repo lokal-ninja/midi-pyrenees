@@ -1,5 +1,5 @@
 ---
 title: "Orchestra"
 url: /onet-le-chateau/orchestra/
-shop: vêtements
+shop: Kleidung
 ---

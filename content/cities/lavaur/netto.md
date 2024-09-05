@@ -1,5 +1,5 @@
 ---
 title: "Netto"
 url: /lavaur/netto/
-shop: supermarché
+shop: Supermarkt
 ---

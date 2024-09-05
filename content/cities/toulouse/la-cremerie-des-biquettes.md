@@ -1,5 +1,5 @@
 ---
 title: "La Crèmerie des Biquettes"
 url: /toulouse/la-cremerie-des-biquettes/
-shop: fromage
+shop: Käse
 ---

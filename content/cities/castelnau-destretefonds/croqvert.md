@@ -1,5 +1,5 @@
 ---
 title: "Croq'Vert"
 url: /castelnau-destretefonds/croqvert/
-shop: commodité
+shop: Lebensmittel
 ---

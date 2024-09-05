@@ -1,5 +1,5 @@
 ---
 title: "Minjat!"
 url: /colomiers/minjat/
-shop: légumes
+shop: Gemüse & Obst
 ---

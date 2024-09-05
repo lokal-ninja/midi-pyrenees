@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /cornebarrieu/biocoop/
-shop: supermarché
+shop: Supermarkt
 ---

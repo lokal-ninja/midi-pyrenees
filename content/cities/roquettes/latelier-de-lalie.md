@@ -1,5 +1,5 @@
 ---
 title: "L'atelier de Lalie"
 url: /roquettes/latelier-de-lalie/
-shop: coiffeur
+shop: Friseur
 ---

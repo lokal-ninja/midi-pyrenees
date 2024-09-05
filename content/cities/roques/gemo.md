@@ -1,5 +1,5 @@
 ---
 title: "Gémo"
 url: /roques/gemo/
-shop: vêtements
+shop: Kleidung
 ---

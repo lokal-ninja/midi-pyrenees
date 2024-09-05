@@ -1,5 +1,5 @@
 ---
 title: "Coiffure Stephan"
 url: /tarbes/coiffure-stephan/
-shop: coiffeur
+shop: Friseur
 ---

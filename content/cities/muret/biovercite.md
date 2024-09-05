@@ -1,5 +1,5 @@
 ---
 title: "Biovercité"
 url: /muret/biovercite/
-shop: ferme
+shop: Hofladen
 ---

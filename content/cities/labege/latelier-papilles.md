@@ -1,5 +1,5 @@
 ---
 title: "L'atelier Papilles"
 url: /labege/latelier-papilles/
-shop: boulangerie
+shop: Bäckerei
 ---

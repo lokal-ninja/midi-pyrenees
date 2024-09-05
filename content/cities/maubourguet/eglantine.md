@@ -1,5 +1,5 @@
 ---
 title: "Eglantine"
 url: /maubourguet/eglantine/
-shop: cadeau
+shop: Andenken
 ---

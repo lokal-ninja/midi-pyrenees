@@ -1,5 +1,5 @@
 ---
 title: "AérOptique"
 url: /toulouse/aeroptique/
-shop: opticien
+shop: Optiker
 ---

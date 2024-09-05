@@ -1,5 +1,5 @@
 ---
 title: "Etam"
 url: /castres/etam/
-shop: vêtements
+shop: Kleidung
 ---

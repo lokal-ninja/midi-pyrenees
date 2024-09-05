@@ -1,5 +1,5 @@
 ---
 title: "Domaine de Maouries"
 url: /labarthete/domaine-de-maouries/
-shop: vin
+shop: Wein
 ---

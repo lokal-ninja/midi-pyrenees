@@ -1,5 +1,5 @@
 ---
 title: "Le local"
 url: /tournefeuille/le-local/
-shop: légumes
+shop: Gemüse & Obst
 ---

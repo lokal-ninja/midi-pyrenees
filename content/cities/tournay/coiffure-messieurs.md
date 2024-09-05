@@ -1,5 +1,5 @@
 ---
 title: "Coiffure Messieurs"
 url: /tournay/coiffure-messieurs/
-shop: coiffeur
+shop: Friseur
 ---

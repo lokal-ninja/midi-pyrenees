@@ -1,5 +1,5 @@
 ---
 title: "Dia Exotic"
 url: /toulouse/dia-exotic/
-shop: commodité
+shop: Lebensmittel
 ---

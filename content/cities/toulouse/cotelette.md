@@ -1,5 +1,5 @@
 ---
 title: "Côtelette"
 url: /toulouse/cotelette/
-shop: boucherie
+shop: Metzgerei
 ---

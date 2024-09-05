@@ -1,5 +1,5 @@
 ---
 title: "Ancienne Boulangerie"
 url: /bassoues/ancienne-boulangerie/
-shop: boulangerie
+shop: Bäckerei
 ---

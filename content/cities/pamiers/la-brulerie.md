@@ -1,5 +1,5 @@
 ---
 title: "La Brulerie"
 url: /pamiers/la-brulerie/
-shop: café
+shop: Kaffee
 ---

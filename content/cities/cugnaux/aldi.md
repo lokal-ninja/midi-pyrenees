@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /cugnaux/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

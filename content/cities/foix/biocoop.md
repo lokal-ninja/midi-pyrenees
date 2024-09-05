@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /foix/biocoop/
-shop: supermarché
+shop: Supermarkt
 ---

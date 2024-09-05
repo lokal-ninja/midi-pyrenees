@@ -1,5 +1,5 @@
 ---
 title: "Destock Literie"
 url: /gourdan-polignan/destock-literie/
-shop: lit
+shop: Betten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Super"
 url: /lavernose-lacasse/intermarche-super/
-shop: supermarché
+shop: Supermarkt
 ---

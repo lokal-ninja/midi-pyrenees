@@ -1,5 +1,5 @@
 ---
 title: "Flamme Authentique"
 url: /espalion/flamme-authentique/
-shop: cheminée
+shop: Kamine & Öfen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blackstore"
 url: /auch/blackstore/
-shop: vêtements
+shop: Kleidung
 ---

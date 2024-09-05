@@ -1,5 +1,5 @@
 ---
 title: "Yves Rocher"
 url: /albi/yves-rocher-rue-maries/
-shop: beauté
+shop: Kosmetik
 ---

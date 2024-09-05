@@ -1,5 +1,5 @@
 ---
 title: "Carbonne Sports Loisirs"
 url: /carbonne/carbonne-sports-loisirs/
-shop: sports
+shop: Sport
 ---

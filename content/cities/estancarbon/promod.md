@@ -1,5 +1,5 @@
 ---
 title: "Promod"
 url: /estancarbon/promod/
-shop: vêtements
+shop: Kleidung
 ---

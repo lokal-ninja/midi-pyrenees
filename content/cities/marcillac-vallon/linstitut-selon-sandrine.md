@@ -1,5 +1,5 @@
 ---
 title: "L'Institut Selon Sandrine"
 url: /marcillac-vallon/linstitut-selon-sandrine/
-shop: beauté
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "XXCycle"
 url: /lunion/xxcycle/
-shop: vélo
+shop: Fahrrad
 ---

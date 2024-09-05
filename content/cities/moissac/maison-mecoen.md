@@ -1,5 +1,5 @@
 ---
 title: "Maison Mecoen"
 url: /moissac/maison-mecoen/
-shop: boulangerie
+shop: Bäckerei
 ---

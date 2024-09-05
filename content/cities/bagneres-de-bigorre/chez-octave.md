@@ -1,5 +1,5 @@
 ---
 title: "Chez Octave"
 url: /bagneres-de-bigorre/chez-octave/
-shop: vélo
+shop: Fahrrad
 ---

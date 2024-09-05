@@ -1,5 +1,5 @@
 ---
 title: "Caves Henri IV"
 url: /castres/caves-henri-iv/
-shop: alcool
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Express Drive"
 url: /albi/express-drive/
-shop: supermarché
+shop: Supermarkt
 ---

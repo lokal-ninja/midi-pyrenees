@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /castres/spar/
-shop: supermarché
+shop: Supermarkt
 ---

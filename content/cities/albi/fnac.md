@@ -1,5 +1,5 @@
 ---
 title: "Fnac"
 url: /albi/fnac/
-shop: électronique
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carladez Vins"
 url: /mur-de-barrez/carladez-vins/
-shop: vin
+shop: Wein
 ---

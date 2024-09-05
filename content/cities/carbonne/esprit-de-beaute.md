@@ -1,5 +1,5 @@
 ---
 title: "Esprit de beauté"
 url: /carbonne/esprit-de-beaute/
-shop: beauté
+shop: Kosmetik
 ---

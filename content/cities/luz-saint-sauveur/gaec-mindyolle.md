@@ -1,5 +1,5 @@
 ---
 title: "Gaec Mindyolle"
 url: /luz-saint-sauveur/gaec-mindyolle/
-shop: ferme
+shop: Hofladen
 ---

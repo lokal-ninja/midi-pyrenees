@@ -1,5 +1,5 @@
 ---
 title: "jouvence"
 url: /cugnaux/jouvence/
-shop: beauté
+shop: Kosmetik
 ---

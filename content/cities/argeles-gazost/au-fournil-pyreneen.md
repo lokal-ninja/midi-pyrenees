@@ -1,5 +1,5 @@
 ---
 title: "Au Fournil Pyrénéen"
 url: /argeles-gazost/au-fournil-pyreneen/
-shop: boulangerie
+shop: Bäckerei
 ---

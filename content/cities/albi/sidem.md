@@ -1,5 +1,5 @@
 ---
 title: "Sidem"
 url: /albi/sidem/
-shop: appareil ménager
+shop: Haushaltsgeräte
 ---

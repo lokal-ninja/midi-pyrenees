@@ -1,5 +1,5 @@
 ---
 title: "Cyclomane"
 url: /toulouse/cyclomane/
-shop: vélo
+shop: Fahrrad
 ---

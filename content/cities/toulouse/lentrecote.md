@@ -1,5 +1,5 @@
 ---
 title: "L'entrecôte"
 url: /toulouse/lentrecote/
-shop: boucherie
+shop: Metzgerei
 ---
