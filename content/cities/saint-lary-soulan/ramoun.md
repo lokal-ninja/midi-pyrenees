@@ -1,5 +1,5 @@
 ---
 title: "Ramoun"
 url: /saint-lary-soulan/ramoun/
-shop: Käse
+shop: fromage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BLACKLODGE TATOO"
 url: /lannemezan/blacklodge-tatoo/
-shop: Tattoo
+shop: tatouage
 ---

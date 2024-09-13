@@ -1,5 +1,5 @@
 ---
 title: "Proxi"
 url: /cahors/proxi/
-shop: Lebensmittel
+shop: commodité
 ---

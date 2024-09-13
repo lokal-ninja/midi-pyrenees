@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Contact"
 url: /lafrancaise/carrefour-contact/
-shop: Lebensmittel
+shop: commodité
 ---

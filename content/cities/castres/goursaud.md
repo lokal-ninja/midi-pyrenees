@@ -1,5 +1,5 @@
 ---
 title: "Goursaud"
 url: /castres/goursaud/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

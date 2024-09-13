@@ -1,5 +1,5 @@
 ---
 title: "Homebox"
 url: /estancarbon/homebox/
-shop: Mieten
+shop: location de stockage
 ---

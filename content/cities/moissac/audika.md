@@ -1,5 +1,5 @@
 ---
 title: "Audika"
 url: /moissac/audika/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

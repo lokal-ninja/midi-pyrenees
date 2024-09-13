@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /estancarbon/intersport/
-shop: Sport
+shop: sports
 ---

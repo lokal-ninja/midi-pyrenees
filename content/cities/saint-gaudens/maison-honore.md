@@ -1,5 +1,5 @@
 ---
 title: "Maison Honoré"
 url: /saint-gaudens/maison-honore/
-shop: Bäckerei
+shop: boulangerie
 ---

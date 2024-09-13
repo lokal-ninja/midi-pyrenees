@@ -1,5 +1,5 @@
 ---
 title: "Peugeot Batan"
 url: /prechac/peugeot-batan/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jazz Me Cool"
 url: /marciac/jazz-me-cool/
-shop: Kleidung
+shop: vêtements
 ---

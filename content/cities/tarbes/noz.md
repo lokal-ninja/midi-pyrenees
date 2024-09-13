@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /tarbes/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

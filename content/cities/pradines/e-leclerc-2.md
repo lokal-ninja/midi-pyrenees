@@ -1,5 +1,5 @@
 ---
 title: "E. Leclerc"
 url: /pradines/e-leclerc-2/
-shop: Supermarkt
+shop: supermarché
 ---

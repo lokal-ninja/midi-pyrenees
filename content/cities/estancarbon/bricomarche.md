@@ -1,5 +1,5 @@
 ---
 title: "Bricomarché"
 url: /estancarbon/bricomarche/
-shop: Baumarkt
+shop: à faire soi-même
 ---

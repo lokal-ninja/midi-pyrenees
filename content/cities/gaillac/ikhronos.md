@@ -1,5 +1,5 @@
 ---
 title: "iKhronos"
 url: /gaillac/ikhronos/
-shop: Handy
+shop: téléphone portable
 ---

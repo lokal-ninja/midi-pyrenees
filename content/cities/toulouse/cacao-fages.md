@@ -1,5 +1,5 @@
 ---
 title: "Cacao Fages"
 url: /toulouse/cacao-fages/
-shop: Schokolade
+shop: chocolat
 ---

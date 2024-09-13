@@ -1,5 +1,5 @@
 ---
 title: "Atelier Kyko"
 url: /caraman/atelier-kyko/
-shop: Andenken
+shop: cadeau
 ---

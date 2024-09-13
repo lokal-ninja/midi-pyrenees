@@ -1,5 +1,5 @@
 ---
 title: "Phonofond"
 url: /toulouse/phonofond/
-shop: Handy
+shop: téléphone portable
 ---

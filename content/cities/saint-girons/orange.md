@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /saint-girons/orange/
-shop: Handy
+shop: téléphone portable
 ---

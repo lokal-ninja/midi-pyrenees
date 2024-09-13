@@ -1,5 +1,5 @@
 ---
-title: "Les délices du portugal"
+title: "Les Délices du Portugal"
 url: /auch/les-delices-du-portugal/
-shop: Lebensmittel
+shop: commodité
 ---

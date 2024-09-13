@@ -1,5 +1,5 @@
 ---
 title: "Connivence"
 url: /tournefeuille/connivence/
-shop: Kleidung
+shop: vêtements
 ---

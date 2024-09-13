@@ -1,5 +1,5 @@
 ---
 title: "Lartigue"
 url: /saint-nauphary/lartigue/
-shop: Tabak
+shop: tabac
 ---

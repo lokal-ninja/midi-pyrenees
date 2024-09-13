@@ -1,5 +1,5 @@
 ---
 title: "Jérôme Coiffeur"
 url: /rodez/jerome-coiffeur/
-shop: Friseur
+shop: coiffeur
 ---

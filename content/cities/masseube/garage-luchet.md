@@ -1,5 +1,5 @@
 ---
 title: "Garage Luchet"
 url: /masseube/garage-luchet/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

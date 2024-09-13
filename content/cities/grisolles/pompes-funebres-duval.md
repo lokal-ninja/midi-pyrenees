@@ -1,5 +1,5 @@
 ---
 title: "Pompes Funèbres Duval"
 url: /grisolles/pompes-funebres-duval/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

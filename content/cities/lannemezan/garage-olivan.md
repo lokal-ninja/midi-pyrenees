@@ -1,5 +1,5 @@
 ---
 title: "Garage Olivan"
 url: /lannemezan/garage-olivan/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

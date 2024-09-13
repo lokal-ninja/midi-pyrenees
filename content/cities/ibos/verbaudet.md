@@ -1,5 +1,5 @@
 ---
 title: "Verbaudet"
 url: /ibos/verbaudet/
-shop: Babysachen
+shop: produits pour bébés
 ---

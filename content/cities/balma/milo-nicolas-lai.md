@@ -1,5 +1,5 @@
 ---
 title: "Milo Nicolas Laï"
 url: /balma/milo-nicolas-lai/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
 url: /castres/jysk/
-shop: Möbel
+shop: meubles
 ---

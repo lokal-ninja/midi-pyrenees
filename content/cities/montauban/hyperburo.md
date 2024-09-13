@@ -1,5 +1,5 @@
 ---
 title: "Hyperburo"
 url: /montauban/hyperburo/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /finhan/carrefour/
-shop: Lebensmittel
+shop: commodité
 ---

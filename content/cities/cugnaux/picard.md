@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /cugnaux/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

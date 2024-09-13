@@ -1,5 +1,5 @@
 ---
 title: "Stephan"
 url: /gourdan-polignan/stephan/
-shop: Friseur
+shop: coiffeur
 ---

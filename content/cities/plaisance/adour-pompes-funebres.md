@@ -1,5 +1,5 @@
 ---
 title: "Adour Pompes Funèbres"
 url: /plaisance/adour-pompes-funebres/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

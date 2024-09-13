@@ -1,5 +1,5 @@
 ---
 title: "Reprosud"
 url: /labege/reprosud/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

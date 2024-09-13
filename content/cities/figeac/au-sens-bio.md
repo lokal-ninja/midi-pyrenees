@@ -1,5 +1,5 @@
 ---
 title: "Au sens bio"
 url: /figeac/au-sens-bio/
-shop: Supermarkt
+shop: supermarché
 ---

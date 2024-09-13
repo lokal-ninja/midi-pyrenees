@@ -1,5 +1,5 @@
 ---
 title: "Julien d'Orcel"
 url: /colomiers/julien-dorcel/
-shop: Schmuck
+shop: bijoux
 ---

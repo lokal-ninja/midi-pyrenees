@@ -1,5 +1,5 @@
 ---
 title: "Briconautes"
 url: /carbonne/briconautes/
-shop: Baumarkt
+shop: à faire soi-même
 ---

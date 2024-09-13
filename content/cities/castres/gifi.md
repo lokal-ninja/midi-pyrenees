@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /castres/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

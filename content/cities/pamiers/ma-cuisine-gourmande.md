@@ -1,5 +1,5 @@
 ---
 title: "Ma Cuisine Gourmande"
 url: /pamiers/ma-cuisine-gourmande/
-shop: Allgemein
+shop: shop
 ---

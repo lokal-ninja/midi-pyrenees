@@ -1,5 +1,5 @@
 ---
 title: "La Balaguère"
 url: /arrens-marsous/la-balaguere/
-shop: Reisebüro
+shop: agence de voyage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /saint-lizier/aldi/
-shop: Supermarkt
+shop: supermarché
 ---

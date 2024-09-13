@@ -1,5 +1,5 @@
 ---
 title: "Garage Latour"
 url: /marciac/garage-latour/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

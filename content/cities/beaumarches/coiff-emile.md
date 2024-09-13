@@ -1,5 +1,5 @@
 ---
 title: "Coiff' Emile"
 url: /beaumarches/coiff-emile/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /rignac/spar/
-shop: Supermarkt
+shop: supermarché
 ---

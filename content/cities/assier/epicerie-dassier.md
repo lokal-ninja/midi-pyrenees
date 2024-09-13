@@ -1,5 +1,5 @@
 ---
 title: "Epicerie d'Assier"
 url: /assier/epicerie-dassier/
-shop: Lebensmittel
+shop: commodité
 ---

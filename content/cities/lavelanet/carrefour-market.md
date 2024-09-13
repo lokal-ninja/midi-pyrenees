@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
 url: /lavelanet/carrefour-market/
-shop: Supermarkt
+shop: supermarché
 ---

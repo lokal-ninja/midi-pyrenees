@@ -1,5 +1,5 @@
 ---
 title: "Netto"
 url: /castres/netto/
-shop: Supermarkt
+shop: supermarché
 ---

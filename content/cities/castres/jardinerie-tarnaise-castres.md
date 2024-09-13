@@ -1,5 +1,5 @@
 ---
 title: "Jardinerie Tarnaise Castres"
 url: /castres/jardinerie-tarnaise-castres/
-shop: Garten-Center
+shop: centre de jardinage
 ---

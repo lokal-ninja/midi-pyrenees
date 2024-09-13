@@ -1,5 +1,5 @@
 ---
 title: "Do My Shoes"
 url: /toulouse/do-my-shoes/
-shop: Schuhe
+shop: chaussures
 ---

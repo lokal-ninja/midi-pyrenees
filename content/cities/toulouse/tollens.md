@@ -1,5 +1,5 @@
 ---
 title: "Tollens"
 url: /toulouse/tollens/
-shop: Farben
+shop: peinture
 ---

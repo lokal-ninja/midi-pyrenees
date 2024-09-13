@@ -1,5 +1,5 @@
 ---
 title: "La Beauté Pro"
 url: /albi/la-beaute-pro/
-shop: Friseurbedarf
+shop: fournitures pour coiffeurs
 ---

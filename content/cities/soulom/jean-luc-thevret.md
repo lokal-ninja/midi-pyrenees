@@ -1,5 +1,5 @@
 ---
 title: "Jean Luc Thevret"
 url: /soulom/jean-luc-thevret/
-shop: Hofladen
+shop: ferme
 ---

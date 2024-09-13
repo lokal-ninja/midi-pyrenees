@@ -1,5 +1,5 @@
 ---
 title: "Bricomarché"
 url: /villemur-sur-tarn/bricomarche/
-shop: Baumarkt
+shop: à faire soi-même
 ---

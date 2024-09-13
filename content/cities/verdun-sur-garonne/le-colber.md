@@ -1,5 +1,5 @@
 ---
 title: "Le Colber"
 url: /verdun-sur-garonne/le-colber/
-shop: Tabak
+shop: tabac
 ---

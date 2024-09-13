@@ -1,5 +1,5 @@
 ---
 title: "Simsize"
 url: /albi/simsize/
-shop: Handy
+shop: téléphone portable
 ---

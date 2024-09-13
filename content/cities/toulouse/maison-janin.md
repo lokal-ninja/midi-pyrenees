@@ -1,5 +1,5 @@
 ---
 title: "Maison Janin"
 url: /toulouse/maison-janin/
-shop: Bäckerei
+shop: boulangerie
 ---

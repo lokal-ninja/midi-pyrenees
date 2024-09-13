@@ -1,5 +1,5 @@
 ---
 title: "Stokomani"
 url: /lescure-dalbigeois/stokomani/
-shop: Kramladen
+shop: magasin de variétés
 ---

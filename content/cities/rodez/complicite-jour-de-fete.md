@@ -1,5 +1,5 @@
 ---
 title: "Complicité Jour de Fête"
 url: /rodez/complicite-jour-de-fete/
-shop: Kleidung
+shop: vêtements
 ---

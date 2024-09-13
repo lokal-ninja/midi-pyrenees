@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /capvern/intermarche/
-shop: Supermarkt
+shop: supermarché
 ---

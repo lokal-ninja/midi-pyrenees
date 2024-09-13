@@ -1,5 +1,5 @@
 ---
 title: "Moisson de Fleurs"
 url: /castres/moisson-de-fleurs/
-shop: Blumen
+shop: fleuriste
 ---

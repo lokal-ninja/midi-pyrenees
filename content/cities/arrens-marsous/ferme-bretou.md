@@ -1,5 +1,5 @@
 ---
 title: "Ferme bretou"
 url: /arrens-marsous/ferme-bretou/
-shop: Hofladen
+shop: ferme
 ---

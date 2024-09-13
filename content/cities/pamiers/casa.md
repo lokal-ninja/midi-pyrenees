@@ -1,5 +1,5 @@
 ---
 title: "CASA"
 url: /pamiers/casa/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

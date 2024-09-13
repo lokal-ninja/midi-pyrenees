@@ -1,5 +1,5 @@
 ---
 title: "Le Petit Casino"
 url: /seix/le-petit-casino/
-shop: Lebensmittel
+shop: commodité
 ---

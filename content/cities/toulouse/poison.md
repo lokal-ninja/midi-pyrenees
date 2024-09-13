@@ -1,5 +1,5 @@
 ---
 title: "Poison"
 url: /toulouse/poison/
-shop: Wein
+shop: vin
 ---

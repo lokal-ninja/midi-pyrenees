@@ -1,5 +1,5 @@
 ---
 title: "Farigola"
 url: /toulouse/farigola/
-shop: Käse
+shop: fromage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Monoprix"
 url: /castres/monoprix/
-shop: Supermarkt
+shop: supermarché
 ---

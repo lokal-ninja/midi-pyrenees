@@ -1,5 +1,5 @@
 ---
 title: "Vertex"
 url: /lavelanet/vertex/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Magic Laverie"
 url: /pamiers/magic-laverie/
-shop: Wäscherei
+shop: blanchisserie
 ---

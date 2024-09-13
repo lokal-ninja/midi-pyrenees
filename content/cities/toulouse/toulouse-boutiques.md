@@ -1,5 +1,5 @@
 ---
 title: "Toulouse boutiques"
 url: /toulouse/toulouse-boutiques/
-shop: Dorfladen
+shop: magasin de campagne
 ---

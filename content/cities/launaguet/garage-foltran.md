@@ -1,5 +1,5 @@
 ---
 title: "Garage Foltran"
 url: /launaguet/garage-foltran/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

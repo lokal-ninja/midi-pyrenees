@@ -1,5 +1,5 @@
 ---
 title: "Plaisance Electromenager"
 url: /plaisance-du-gers/plaisance-electromenager/
-shop: Elektrisch
+shop: électrique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
 url: /argeles-gazost/carrefour-market/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Julien"
 url: /lescure-dalbigeois/julien/
-shop: Gartenmöbel
+shop: meubles de jardin
 ---

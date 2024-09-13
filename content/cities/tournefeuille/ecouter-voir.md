@@ -1,5 +1,5 @@
 ---
 title: "Ecouter Voir"
 url: /tournefeuille/ecouter-voir/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

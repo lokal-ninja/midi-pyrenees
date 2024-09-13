@@ -1,5 +1,5 @@
 ---
 title: "La Foir'Fouille"
 url: /castres/la-foirfouille/
-shop: Kramladen
+shop: magasin de variétés
 ---

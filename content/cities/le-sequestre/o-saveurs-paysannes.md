@@ -1,5 +1,5 @@
 ---
 title: "Ô Saveurs paysannes"
 url: /le-sequestre/o-saveurs-paysannes/
-shop: Hofladen
+shop: ferme
 ---

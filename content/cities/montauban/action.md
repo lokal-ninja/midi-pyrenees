@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /montauban/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

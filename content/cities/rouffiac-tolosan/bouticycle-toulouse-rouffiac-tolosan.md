@@ -1,5 +1,5 @@
 ---
 title: "BoutiCycle Toulouse Rouffiac-Tolosan"
 url: /rouffiac-tolosan/bouticycle-toulouse-rouffiac-tolosan/
-shop: Fahrrad
+shop: vélo
 ---

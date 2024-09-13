@@ -1,5 +1,5 @@
 ---
 title: "Séduc'tif!"
 url: /lavernose-lacasse/seductif/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Leonidas"
 url: /castres/leonidas/
-shop: Schokolade
+shop: chocolat
 ---

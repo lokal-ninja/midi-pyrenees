@@ -1,5 +1,5 @@
 ---
 title: "VDB Automobiles"
 url: /toulouse/vdb-automobiles/
-shop: Autohaus
+shop: voiture
 ---

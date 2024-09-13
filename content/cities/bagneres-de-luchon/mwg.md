@@ -1,5 +1,5 @@
 ---
 title: "MWG"
 url: /bagneres-de-luchon/mwg/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

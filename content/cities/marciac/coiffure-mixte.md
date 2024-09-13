@@ -1,5 +1,5 @@
 ---
 title: "Coiffure Mixte"
 url: /marciac/coiffure-mixte/
-shop: Friseur
+shop: coiffeur
 ---

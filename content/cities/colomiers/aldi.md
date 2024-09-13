@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /colomiers/aldi/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "En roue libre"
 url: /gaillac/en-roue-libre/
-shop: Fahrrad
+shop: vélo
 ---

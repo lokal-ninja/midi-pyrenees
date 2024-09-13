@@ -1,5 +1,5 @@
 ---
 title: "Fromagerie du Hautacam"
 url: /vier-bordes/fromagerie-du-hautacam/
-shop: Käse
+shop: fromage
 ---

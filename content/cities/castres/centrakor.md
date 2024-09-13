@@ -1,5 +1,5 @@
 ---
 title: "Centrakor"
 url: /castres/centrakor/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

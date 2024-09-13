@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /toulouse/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le Pneu"
 url: /toulouse/le-pneu/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

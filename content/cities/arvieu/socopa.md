@@ -1,5 +1,5 @@
 ---
 title: "Socopa"
 url: /arvieu/socopa/
-shop: Landwirtschaftlich
+shop: agraire
 ---

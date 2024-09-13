@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /toulouse/sephora/
-shop: Kosmetik
+shop: beauté
 ---

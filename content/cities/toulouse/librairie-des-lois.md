@@ -1,5 +1,5 @@
 ---
 title: "Librairie des Lois"
 url: /toulouse/librairie-des-lois/
-shop: Bücher
+shop: livres
 ---

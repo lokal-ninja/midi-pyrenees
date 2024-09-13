@@ -1,5 +1,5 @@
 ---
 title: "Boucherie MC Mazars"
 url: /aubin/boucherie-mc-mazars/
-shop: Metzgerei
+shop: boucherie
 ---

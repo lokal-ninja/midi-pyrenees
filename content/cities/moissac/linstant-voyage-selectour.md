@@ -1,5 +1,5 @@
 ---
 title: "L'instant Voyage Selectour"
 url: /moissac/linstant-voyage-selectour/
-shop: Reisebüro
+shop: agence de voyage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lascombes"
 url: /beaumarches/lascombes/
-shop: Bäckerei
+shop: boulangerie
 ---

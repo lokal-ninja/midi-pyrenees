@@ -1,5 +1,5 @@
 ---
 title: "PFG"
 url: /rodez/pfg/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Moto Challenge SARL"
 url: /figeac/moto-challenge-sarl/
-shop: Motorrad
+shop: moto
 ---

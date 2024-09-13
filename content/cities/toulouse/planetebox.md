@@ -1,5 +1,5 @@
 ---
 title: "Planetebox"
 url: /toulouse/planetebox/
-shop: Mieten
+shop: location de stockage
 ---

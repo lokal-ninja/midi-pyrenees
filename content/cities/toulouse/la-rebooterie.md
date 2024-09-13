@@ -1,5 +1,5 @@
 ---
 title: "La Rebooterie"
 url: /toulouse/la-rebooterie/
-shop: Computer
+shop: ordinateur
 ---

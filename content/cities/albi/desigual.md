@@ -1,5 +1,5 @@
 ---
 title: "Desigual"
 url: /albi/desigual/
-shop: Kleidung
+shop: vêtements
 ---

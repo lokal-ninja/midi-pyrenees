@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Ange"
 url: /albi/boulangerie-ange/
-shop: Bäckerei
+shop: boulangerie
 ---

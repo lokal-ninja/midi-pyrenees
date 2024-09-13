@@ -1,5 +1,5 @@
 ---
 title: "C2M EUROREPAR"
 url: /salles-curan/c2m-eurorepar/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

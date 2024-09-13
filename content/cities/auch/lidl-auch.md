@@ -1,5 +1,5 @@
 ---
 title: "Lidl Auch"
 url: /auch/lidl-auch/
-shop: Lebensmittel
+shop: commodité
 ---

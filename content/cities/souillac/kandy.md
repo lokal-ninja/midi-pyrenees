@@ -1,5 +1,5 @@
 ---
 title: "Kandy"
 url: /souillac/kandy/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

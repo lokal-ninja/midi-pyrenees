@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie Salat"
 url: /saint-nauphary/carrosserie-salat/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

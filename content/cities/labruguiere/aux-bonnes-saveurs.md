@@ -1,5 +1,5 @@
 ---
 title: "Aux Bonnes Saveurs"
 url: /labruguiere/aux-bonnes-saveurs/
-shop: Lebensmittel
+shop: commodité
 ---

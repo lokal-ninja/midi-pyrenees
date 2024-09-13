@@ -1,5 +1,5 @@
 ---
 title: "Lud'Auto"
 url: /arrens-marsous/ludauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

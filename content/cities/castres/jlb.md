@@ -1,5 +1,5 @@
 ---
 title: "JLB"
 url: /castres/jlb/
-shop: Reisebüro
+shop: agence de voyage
 ---

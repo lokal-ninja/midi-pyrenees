@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /albi/amplifon/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

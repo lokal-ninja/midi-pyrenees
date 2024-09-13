@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /montauban/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

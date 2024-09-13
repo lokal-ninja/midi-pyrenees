@@ -1,5 +1,5 @@
 ---
 title: "Ness' Boutique"
 url: /toulouse/ness-boutique/
-shop: Kleidung
+shop: vêtements
 ---

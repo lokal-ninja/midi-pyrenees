@@ -1,5 +1,5 @@
 ---
 title: "Luc Saint-Ille"
 url: /aucamville/luc-saint-ille/
-shop: Friseur
+shop: coiffeur
 ---

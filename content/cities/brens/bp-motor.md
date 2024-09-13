@@ -1,5 +1,5 @@
 ---
 title: "BP Motor"
 url: /brens/bp-motor/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

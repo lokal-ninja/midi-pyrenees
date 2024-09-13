@@ -1,5 +1,5 @@
 ---
 title: "SARL Cattazzo frères"
 url: /grisolles/sarl-cattazzo-freres/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garage Cazeaux"
 url: /erce/garage-cazeaux/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

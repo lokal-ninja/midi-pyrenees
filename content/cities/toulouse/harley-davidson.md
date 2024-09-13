@@ -1,5 +1,5 @@
 ---
 title: "Harley-Davidson"
 url: /toulouse/harley-davidson/
-shop: Motorrad
+shop: moto
 ---

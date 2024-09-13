@@ -1,5 +1,5 @@
 ---
 title: "AD Coiffure"
 url: /lisle-sur-tarn/ad-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carré d'Artistes"
 url: /toulouse/carre-dartistes/
-shop: Kunst
+shop: art
 ---

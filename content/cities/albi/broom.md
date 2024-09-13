@@ -1,5 +1,5 @@
 ---
 title: "Broom"
 url: /albi/broom/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

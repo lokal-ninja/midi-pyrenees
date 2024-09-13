@@ -1,5 +1,5 @@
 ---
 title: "Bordevielle"
 url: /beaumarches/bordevielle/
-shop: Feinkost
+shop: charcuterie
 ---

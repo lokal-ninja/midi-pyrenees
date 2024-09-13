@@ -1,5 +1,5 @@
 ---
 title: "RESOTAINER Montauban"
 url: /montauban/resotainer-montauban/
-shop: Mieten
+shop: location de stockage
 ---

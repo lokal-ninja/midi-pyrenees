@@ -1,5 +1,5 @@
 ---
 title: "Coquins de cabot"
 url: /balma/coquins-de-cabot/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

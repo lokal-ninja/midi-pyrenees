@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /onet-le-chateau/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

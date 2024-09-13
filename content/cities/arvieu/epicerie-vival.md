@@ -1,5 +1,5 @@
 ---
 title: "Epicerie Vival"
 url: /arvieu/epicerie-vival/
-shop: Lebensmittel
+shop: commodité
 ---

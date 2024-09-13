@@ -1,5 +1,5 @@
 ---
 title: "Ets De Nardi"
 url: /gourdon/ets-de-nardi/
-shop: Eisenwaren
+shop: matériel informatique
 ---

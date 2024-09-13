@@ -1,5 +1,5 @@
 ---
 title: "Tabac-Presse"
 url: /severac-daveyron/tabac-presse/
-shop: Zeitungen
+shop: marchand de journaux
 ---

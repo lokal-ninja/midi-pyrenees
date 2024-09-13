@@ -1,5 +1,5 @@
 ---
 title: "AMME"
 url: /toulouse/amme/
-shop: Schmuck
+shop: bijoux
 ---

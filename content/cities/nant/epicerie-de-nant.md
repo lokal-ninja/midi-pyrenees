@@ -1,5 +1,5 @@
 ---
 title: "Épicerie de Nant"
 url: /nant/epicerie-de-nant/
-shop: Lebensmittel
+shop: commodité
 ---

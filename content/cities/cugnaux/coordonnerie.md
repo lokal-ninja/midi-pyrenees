@@ -1,5 +1,5 @@
 ---
 title: "Coordonnerie"
 url: /cugnaux/coordonnerie/
-shop: Schuhe
+shop: chaussures
 ---

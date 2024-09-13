@@ -1,5 +1,5 @@
 ---
 title: "Casse"
 url: /eauze/casse/
-shop: Autoteile
+shop: pièces de voitures
 ---

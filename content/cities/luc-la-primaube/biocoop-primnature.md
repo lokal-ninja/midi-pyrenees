@@ -1,5 +1,5 @@
 ---
 title: "Biocoop Prim'Nature"
 url: /luc-la-primaube/biocoop-primnature/
-shop: Supermarkt
+shop: supermarché
 ---

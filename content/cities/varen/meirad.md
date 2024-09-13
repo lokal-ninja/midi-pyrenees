@@ -1,5 +1,5 @@
 ---
 title: "Meirad"
 url: /varen/meirad/
-shop: Fahrrad
+shop: vélo
 ---

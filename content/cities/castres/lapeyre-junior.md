@@ -1,5 +1,5 @@
 ---
 title: "Lapeyre Junior"
 url: /castres/lapeyre-junior/
-shop: Baumarkt
+shop: à faire soi-même
 ---

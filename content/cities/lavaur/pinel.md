@@ -1,5 +1,5 @@
 ---
 title: "Pinel"
 url: /lavaur/pinel/
-shop: Eisenwaren
+shop: matériel informatique
 ---

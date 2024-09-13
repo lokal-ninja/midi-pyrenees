@@ -1,5 +1,5 @@
 ---
 title: "Rrun"
 url: /toulouse/rrun/
-shop: Sport
+shop: sports
 ---

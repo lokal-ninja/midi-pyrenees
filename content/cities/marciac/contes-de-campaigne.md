@@ -1,5 +1,5 @@
 ---
 title: "Contes de Campaigne"
 url: /marciac/contes-de-campaigne/
-shop: Andenken
+shop: cadeau
 ---

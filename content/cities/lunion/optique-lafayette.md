@@ -1,5 +1,5 @@
 ---
 title: "Optique Lafayette"
 url: /lunion/optique-lafayette/
-shop: Optiker
+shop: opticien
 ---

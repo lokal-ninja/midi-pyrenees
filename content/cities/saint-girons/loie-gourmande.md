@@ -1,5 +1,5 @@
 ---
 title: "L'Oie Gourmande"
 url: /saint-girons/loie-gourmande/
-shop: Konditorei
+shop: pâtisserie
 ---

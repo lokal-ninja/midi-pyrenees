@@ -1,5 +1,5 @@
 ---
 title: "La Malle aux Livres"
 url: /frouzins/la-malle-aux-livres/
-shop: Bücher
+shop: livres
 ---

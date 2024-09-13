@@ -1,5 +1,5 @@
 ---
 title: "Aubert"
 url: /toulouse/aubert/
-shop: Babysachen
+shop: produits pour bébés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /albi/vival/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le Saint-Béat"
 url: /saint-beat-lez/le-saint-beat/
-shop: Lebensmittel
+shop: commodité
 ---

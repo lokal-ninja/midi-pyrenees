@@ -1,5 +1,5 @@
 ---
 title: "Maison Cuminetti"
 url: /saint-girons/maison-cuminetti/
-shop: Blumen
+shop: fleuriste
 ---

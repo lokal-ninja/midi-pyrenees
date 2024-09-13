@@ -1,5 +1,5 @@
 ---
 title: "Servalot"
 url: /cahors/servalot/
-shop: Fahrrad
+shop: vélo
 ---

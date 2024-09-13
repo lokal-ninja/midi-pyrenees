@@ -1,5 +1,5 @@
 ---
 title: "Garage Renault"
 url: /lavelanet-de-comminges/garage-renault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

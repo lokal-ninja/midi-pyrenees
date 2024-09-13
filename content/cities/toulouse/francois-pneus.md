@@ -1,5 +1,5 @@
 ---
 title: "François Pneus"
 url: /toulouse/francois-pneus/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

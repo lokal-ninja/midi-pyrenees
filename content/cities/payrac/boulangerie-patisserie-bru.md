@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Patisserie Bru"
 url: /payrac/boulangerie-patisserie-bru/
-shop: Bäckerei
+shop: boulangerie
 ---

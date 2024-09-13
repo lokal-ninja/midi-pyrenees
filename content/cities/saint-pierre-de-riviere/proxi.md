@@ -1,5 +1,5 @@
 ---
 title: "Proxi"
 url: /saint-pierre-de-riviere/proxi/
-shop: Lebensmittel
+shop: commodité
 ---

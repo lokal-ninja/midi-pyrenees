@@ -1,5 +1,5 @@
 ---
 title: "E.Leclerc"
 url: /estancarbon/e-leclerc/
-shop: Reisebüro
+shop: agence de voyage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coco City"
 url: /toulouse/coco-city/
-shop: Dorfladen
+shop: magasin de campagne
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Idée coiff"
 url: /mas-grenier/idee-coiff/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lapeyre"
 url: /castres/lapeyre/
-shop: Baumarkt
+shop: à faire soi-même
 ---

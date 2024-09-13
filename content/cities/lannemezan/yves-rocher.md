@@ -1,5 +1,5 @@
 ---
 title: "Yves Rocher"
 url: /lannemezan/yves-rocher/
-shop: Kosmetik
+shop: beauté
 ---

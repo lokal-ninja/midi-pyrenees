@@ -1,5 +1,5 @@
 ---
 title: "Atout Canin"
 url: /moissac/atout-canin/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
 url: /seilhan/carglass/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

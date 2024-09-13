@@ -1,5 +1,5 @@
 ---
 title: "Îlokado"
 url: /plaisance-du-touch/ilokado/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mr.Bricolage"
 url: /lourdes/mr-bricolage/
-shop: Baumarkt
+shop: à faire soi-même
 ---

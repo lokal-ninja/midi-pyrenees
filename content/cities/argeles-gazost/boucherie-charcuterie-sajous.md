@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Charcuterie Sajous"
 url: /argeles-gazost/boucherie-charcuterie-sajous/
-shop: Metzgerei
+shop: boucherie
 ---

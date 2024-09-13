@@ -1,5 +1,5 @@
 ---
 title: "Product'Drive Azun"
 url: /arrens-marsous/productdrive-azun/
-shop: Hofladen
+shop: ferme
 ---

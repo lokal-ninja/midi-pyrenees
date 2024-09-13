@@ -1,5 +1,5 @@
 ---
 title: "Castelfruits"
 url: /auch/castelfruits/
-shop: Supermarkt
+shop: supermarché
 ---

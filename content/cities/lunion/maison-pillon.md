@@ -1,5 +1,5 @@
 ---
 title: "Maison Pillon"
 url: /lunion/maison-pillon/
-shop: Konditorei
+shop: pâtisserie
 ---

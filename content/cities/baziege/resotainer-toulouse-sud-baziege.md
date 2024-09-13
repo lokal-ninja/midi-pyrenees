@@ -1,5 +1,5 @@
 ---
 title: "RESOTAINER Toulouse Sud / Baziège"
 url: /baziege/resotainer-toulouse-sud-baziege/
-shop: Mieten
+shop: location de stockage
 ---

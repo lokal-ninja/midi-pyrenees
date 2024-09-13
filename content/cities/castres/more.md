@@ -1,5 +1,5 @@
 ---
 title: "Moré"
 url: /castres/more/
-shop: Elektronik
+shop: électronique
 ---

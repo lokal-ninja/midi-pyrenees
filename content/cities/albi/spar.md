@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /albi/spar/
-shop: Supermarkt
+shop: supermarché
 ---

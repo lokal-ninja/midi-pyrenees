@@ -1,5 +1,5 @@
 ---
 title: "Alimentation Combes jalbaud"
 url: /roquecourbe/alimentation-combes-jalbaud/
-shop: Kramladen
+shop: magasin de variétés
 ---

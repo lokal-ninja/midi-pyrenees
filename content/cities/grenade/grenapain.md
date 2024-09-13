@@ -1,5 +1,5 @@
 ---
 title: "GRENAPAIN"
 url: /grenade/grenapain/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cybertek"
 url: /fenouillet/cybertek/
-shop: Computer
+shop: ordinateur
 ---

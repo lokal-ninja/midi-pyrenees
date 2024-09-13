@@ -1,5 +1,5 @@
 ---
 title: "Coiffure Dan-f-Hair"
 url: /albi/coiffure-dan-f-hair/
-shop: Friseur
+shop: coiffeur
 ---

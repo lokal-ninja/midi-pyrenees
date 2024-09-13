@@ -1,5 +1,5 @@
 ---
 title: "Animal Protect"
 url: /balma/animal-protect/
-shop: Tiere
+shop: animal de compagnie
 ---

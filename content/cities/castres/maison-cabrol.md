@@ -1,5 +1,5 @@
 ---
 title: "Maison Cabrol"
 url: /castres/maison-cabrol/
-shop: Nähzubehör
+shop: couture
 ---

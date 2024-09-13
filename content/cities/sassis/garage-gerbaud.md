@@ -1,5 +1,5 @@
 ---
 title: "Garage Gerbaud"
 url: /sassis/garage-gerbaud/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

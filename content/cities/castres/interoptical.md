@@ -1,5 +1,5 @@
 ---
 title: "InterOptical"
 url: /castres/interoptical/
-shop: Optiker
+shop: opticien
 ---

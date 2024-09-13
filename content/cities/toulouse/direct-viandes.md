@@ -1,5 +1,5 @@
 ---
 title: "Direct Viandes"
 url: /toulouse/direct-viandes/
-shop: Metzgerei
+shop: boucherie
 ---

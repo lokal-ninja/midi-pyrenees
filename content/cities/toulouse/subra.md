@@ -1,5 +1,5 @@
 ---
 title: "Subra"
 url: /toulouse/subra/
-shop: Schmuck
+shop: bijoux
 ---

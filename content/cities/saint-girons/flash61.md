@@ -1,5 +1,5 @@
 ---
 title: "Flash61"
 url: /saint-girons/flash61/
-shop: Computer
+shop: ordinateur
 ---

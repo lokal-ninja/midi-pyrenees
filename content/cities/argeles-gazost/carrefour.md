@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /argeles-gazost/carrefour/
-shop: Gasflaschen
+shop: gaz
 ---

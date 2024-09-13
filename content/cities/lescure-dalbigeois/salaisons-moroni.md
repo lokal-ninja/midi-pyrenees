@@ -1,5 +1,5 @@
 ---
 title: "Salaisons Moroni"
 url: /lescure-dalbigeois/salaisons-moroni/
-shop: Feinkost
+shop: charcuterie
 ---

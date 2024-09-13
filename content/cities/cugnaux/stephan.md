@@ -1,5 +1,5 @@
 ---
 title: "Stephan"
 url: /cugnaux/stephan/
-shop: Friseur
+shop: coiffeur
 ---

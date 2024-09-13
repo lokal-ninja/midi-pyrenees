@@ -1,5 +1,5 @@
 ---
 title: "Guiraud Voyages"
 url: /beaucens/guiraud-voyages/
-shop: Reisebüro
+shop: agence de voyage
 ---

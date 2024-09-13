@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /lunion/biocoop/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Optique Guinoiseau"
 url: /argeles-gazost/optique-guinoiseau/
-shop: Optiker
+shop: opticien
 ---

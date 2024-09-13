@@ -1,5 +1,5 @@
 ---
 title: "Julien d'Orcel"
 url: /millau/julien-dorcel/
-shop: Schmuck
+shop: bijoux
 ---

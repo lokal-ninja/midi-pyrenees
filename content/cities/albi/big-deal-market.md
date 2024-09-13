@@ -1,5 +1,5 @@
 ---
 title: "Big Deal market"
 url: /albi/big-deal-market/
-shop: Supermarkt
+shop: supermarché
 ---

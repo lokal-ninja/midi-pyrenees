@@ -1,5 +1,5 @@
 ---
 title: "Pécassou Paul"
 url: /tournay/pecassou-paul/
-shop: Gasflaschen
+shop: gaz
 ---

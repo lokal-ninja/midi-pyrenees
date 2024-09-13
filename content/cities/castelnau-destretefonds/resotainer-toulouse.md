@@ -1,5 +1,5 @@
 ---
 title: "RESOTAINER Toulouse"
 url: /castelnau-destretefonds/resotainer-toulouse/
-shop: Mieten
+shop: location de stockage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Weldom"
 url: /eauze/weldom/
-shop: Baumarkt
+shop: à faire soi-même
 ---

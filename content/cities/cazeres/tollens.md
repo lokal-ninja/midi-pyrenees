@@ -1,5 +1,5 @@
 ---
 title: "Tollens"
 url: /cazeres/tollens/
-shop: Baumarkt
+shop: à faire soi-même
 ---

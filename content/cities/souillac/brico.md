@@ -1,5 +1,5 @@
 ---
 title: "Brico"
 url: /souillac/brico/
-shop: Baumarkt
+shop: à faire soi-même
 ---

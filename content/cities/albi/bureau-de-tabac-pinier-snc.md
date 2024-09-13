@@ -1,5 +1,5 @@
 ---
 title: "Bureau de Tabac Pinier (SNC)"
 url: /albi/bureau-de-tabac-pinier-snc/
-shop: Zeitungen
+shop: marchand de journaux
 ---

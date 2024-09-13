@@ -1,5 +1,5 @@
 ---
 title: "L'Estaou permaculture"
 url: /ayros-arbouix/lestaou-permaculture/
-shop: Hofladen
+shop: ferme
 ---

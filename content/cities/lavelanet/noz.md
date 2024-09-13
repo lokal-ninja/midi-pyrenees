@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /lavelanet/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

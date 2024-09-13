@@ -1,5 +1,5 @@
 ---
 title: "Dog Star"
 url: /saverdun/dog-star/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

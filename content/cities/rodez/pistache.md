@@ -1,5 +1,5 @@
 ---
 title: "Pistache"
 url: /rodez/pistache/
-shop: Konditorei
+shop: pâtisserie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Graine de pastel"
 url: /albi/graine-de-pastel/
-shop: Kosmetik
+shop: beauté
 ---

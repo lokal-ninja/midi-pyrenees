@@ -1,5 +1,5 @@
 ---
 title: "Hobby Moto"
 url: /millau/hobby-moto/
-shop: Motorrad
+shop: moto
 ---

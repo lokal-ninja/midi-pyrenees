@@ -1,5 +1,5 @@
 ---
 title: "Villanova"
 url: /plaisance/villanova/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sahuguede"
 url: /montauban/sahuguede/
-shop: Schlüsseldienst
+shop: serrurier
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferme Lacoste Maouzac"
 url: /arrens-marsous/ferme-lacoste-maouzac/
-shop: Hofladen
+shop: ferme
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Minifundi"
 url: /toulouse/minifundi/
-shop: Kaffee
+shop: café
 ---

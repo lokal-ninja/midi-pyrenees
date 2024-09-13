@@ -1,5 +1,5 @@
 ---
 title: "Amismalins"
 url: /carbonne/amismalins/
-shop: Tiere
+shop: animal de compagnie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gasquet-Taillefer"
 url: /grisolles/gasquet-taillefer/
-shop: Zeitungen
+shop: marchand de journaux
 ---

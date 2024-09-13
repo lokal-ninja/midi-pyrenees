@@ -1,5 +1,5 @@
 ---
 title: "Changement d'Hair"
 url: /marciac/changement-dhair/
-shop: Friseur
+shop: coiffeur
 ---

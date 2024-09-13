@@ -1,5 +1,5 @@
 ---
 title: "Ferme de Courdou"
 url: /marciac/ferme-de-courdou/
-shop: Feinkost
+shop: charcuterie
 ---

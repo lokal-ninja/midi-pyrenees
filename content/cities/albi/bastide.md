@@ -1,5 +1,5 @@
 ---
 title: "Bastide"
 url: /albi/bastide/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

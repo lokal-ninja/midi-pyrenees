@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /blagnac/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

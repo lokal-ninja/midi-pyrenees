@@ -1,5 +1,5 @@
 ---
 title: "Stephan Coiffure"
 url: /castanet-tolosan/stephan-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

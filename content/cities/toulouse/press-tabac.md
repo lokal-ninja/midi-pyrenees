@@ -1,5 +1,5 @@
 ---
 title: "Press Tabac"
 url: /toulouse/press-tabac/
-shop: Zeitungen
+shop: marchand de journaux
 ---

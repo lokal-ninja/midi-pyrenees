@@ -1,5 +1,5 @@
 ---
 title: "Bicyclit'"
 url: /toulouse/bicyclit/
-shop: Fahrrad
+shop: vélo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mini"
 url: /toulouse/mini/
-shop: Autohaus
+shop: voiture
 ---

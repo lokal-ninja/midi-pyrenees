@@ -1,5 +1,5 @@
 ---
 title: "La collectionneuse"
 url: /rodez/la-collectionneuse/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

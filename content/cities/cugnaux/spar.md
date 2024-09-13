@@ -1,5 +1,5 @@
 ---
 title: "spar"
 url: /cugnaux/spar/
-shop: Dorfladen
+shop: magasin de campagne
 ---

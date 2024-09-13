@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /cazeres/carrefour/
-shop: Lebensmittel
+shop: commodité
 ---

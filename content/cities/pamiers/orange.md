@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /pamiers/orange/
-shop: Handy
+shop: téléphone portable
 ---

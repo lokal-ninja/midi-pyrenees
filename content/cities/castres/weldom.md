@@ -1,5 +1,5 @@
 ---
 title: "Weldom"
 url: /castres/weldom/
-shop: Baumarkt
+shop: à faire soi-même
 ---

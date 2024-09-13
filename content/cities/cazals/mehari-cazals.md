@@ -1,5 +1,5 @@
 ---
 title: "Mehari Cazals"
 url: /cazals/mehari-cazals/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

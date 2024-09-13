@@ -1,5 +1,5 @@
 ---
 title: "L'interprète"
 url: /toulouse/linterprete/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

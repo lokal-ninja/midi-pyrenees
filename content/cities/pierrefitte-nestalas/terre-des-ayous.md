@@ -1,5 +1,5 @@
 ---
 title: "Terre des Ayous"
 url: /pierrefitte-nestalas/terre-des-ayous/
-shop: Hofladen
+shop: ferme
 ---

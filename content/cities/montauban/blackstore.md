@@ -1,5 +1,5 @@
 ---
 title: "Blackstore"
 url: /montauban/blackstore/
-shop: Kleidung
+shop: vêtements
 ---

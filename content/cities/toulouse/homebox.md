@@ -1,5 +1,5 @@
 ---
 title: "Homebox"
 url: /toulouse/homebox/
-shop: Mieten
+shop: location de stockage
 ---

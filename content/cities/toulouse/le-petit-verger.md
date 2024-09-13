@@ -1,5 +1,5 @@
 ---
 title: "Le petit Verger"
 url: /toulouse/le-petit-verger/
-shop: Lebensmittel
+shop: commodité
 ---

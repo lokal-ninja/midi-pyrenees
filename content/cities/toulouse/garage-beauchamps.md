@@ -1,5 +1,5 @@
 ---
 title: "Garage Beauchamps"
 url: /toulouse/garage-beauchamps/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

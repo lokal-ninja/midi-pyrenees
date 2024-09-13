@@ -1,5 +1,5 @@
 ---
 title: "Cianni automobile"
 url: /toulouse/cianni-automobile/
-shop: Autohaus
+shop: voiture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fram"
 url: /aucamville/fram/
-shop: Reisebüro
+shop: agence de voyage
 ---

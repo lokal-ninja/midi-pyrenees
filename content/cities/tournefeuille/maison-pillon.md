@@ -1,5 +1,5 @@
 ---
 title: "Maison Pillon"
 url: /tournefeuille/maison-pillon/
-shop: Konditorei
+shop: pâtisserie
 ---

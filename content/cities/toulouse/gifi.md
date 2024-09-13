@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /toulouse/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

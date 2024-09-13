@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /castelsarrasin/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

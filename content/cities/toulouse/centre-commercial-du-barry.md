@@ -1,5 +1,5 @@
 ---
 title: "Centre commercial du Barry"
 url: /toulouse/centre-commercial-du-barry/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

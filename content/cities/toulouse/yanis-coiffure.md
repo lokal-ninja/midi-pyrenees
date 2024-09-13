@@ -1,5 +1,5 @@
 ---
 title: "Yanis Coiffure"
 url: /toulouse/yanis-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Promocash"
 url: /creissels/promocash/
-shop: Gebrauchtwaren
+shop: charité
 ---

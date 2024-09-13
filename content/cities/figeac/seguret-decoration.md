@@ -1,5 +1,5 @@
 ---
 title: "Séguret décoration"
 url: /figeac/seguret-decoration/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

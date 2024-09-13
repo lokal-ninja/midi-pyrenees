@@ -1,5 +1,5 @@
 ---
 title: "Besoin d'envies"
 url: /vayrac/besoin-denvies/
-shop: Kleidung
+shop: vêtements
 ---

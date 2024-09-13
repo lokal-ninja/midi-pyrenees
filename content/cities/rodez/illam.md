@@ -1,5 +1,5 @@
 ---
 title: "Illam"
 url: /rodez/illam/
-shop: Computer
+shop: ordinateur
 ---

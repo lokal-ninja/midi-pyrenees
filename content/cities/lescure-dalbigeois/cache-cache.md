@@ -1,5 +1,5 @@
 ---
 title: "Cache Cache"
 url: /lescure-dalbigeois/cache-cache/
-shop: Kleidung
+shop: vêtements
 ---

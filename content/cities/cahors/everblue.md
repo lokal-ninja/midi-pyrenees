@@ -1,5 +1,5 @@
 ---
 title: "Everblue"
 url: /cahors/everblue/
-shop: Pool
+shop: piscine
 ---

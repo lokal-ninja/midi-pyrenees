@@ -1,5 +1,5 @@
 ---
 title: "Sophie Coiffure"
 url: /laguiole/sophie-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

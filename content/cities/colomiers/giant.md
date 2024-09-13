@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /colomiers/giant/
-shop: Fahrrad
+shop: vélo
 ---

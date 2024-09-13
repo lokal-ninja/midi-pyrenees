@@ -1,5 +1,5 @@
 ---
 title: "BigMat"
 url: /millau/bigmat/
-shop: Baumarkt
+shop: à faire soi-même
 ---

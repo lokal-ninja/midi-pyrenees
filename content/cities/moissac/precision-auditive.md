@@ -1,5 +1,5 @@
 ---
 title: "Précision Auditive"
 url: /moissac/precision-auditive/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

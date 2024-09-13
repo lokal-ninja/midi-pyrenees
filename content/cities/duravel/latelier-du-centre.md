@@ -1,5 +1,5 @@
 ---
 title: "L'atelier du centre"
 url: /duravel/latelier-du-centre/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boutique Courrege - Albi - Le Sequestre"
 url: /le-sequestre/boutique-courrege-albi-le-sequestre/
-shop: Friseurbedarf
+shop: fournitures pour coiffeurs
 ---

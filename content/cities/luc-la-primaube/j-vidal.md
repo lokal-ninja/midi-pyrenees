@@ -1,5 +1,5 @@
 ---
 title: "J. Vidal"
 url: /luc-la-primaube/j-vidal/
-shop: Bäckerei
+shop: boulangerie
 ---

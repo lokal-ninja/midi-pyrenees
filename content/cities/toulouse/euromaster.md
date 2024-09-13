@@ -1,5 +1,5 @@
 ---
 title: "Euromaster"
 url: /toulouse/euromaster/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

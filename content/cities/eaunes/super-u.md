@@ -1,5 +1,5 @@
 ---
 title: "Super U"
 url: /eaunes/super-u/
-shop: Gasflaschen
+shop: gaz
 ---

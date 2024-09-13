@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /cazeres/renault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

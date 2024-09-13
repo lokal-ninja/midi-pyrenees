@@ -1,5 +1,5 @@
 ---
 title: "Equation"
 url: /labege/equation/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Des Copains"
 url: /toulouse/boucherie-des-copains/
-shop: Metzgerei
+shop: boucherie
 ---

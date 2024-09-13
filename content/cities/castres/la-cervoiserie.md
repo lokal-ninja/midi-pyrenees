@@ -1,5 +1,5 @@
 ---
 title: "La Cervoiserie"
 url: /castres/la-cervoiserie/
-shop: Spirituosen
+shop: alcool
 ---

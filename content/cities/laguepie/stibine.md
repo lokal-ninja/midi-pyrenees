@@ -1,5 +1,5 @@
 ---
 title: "Stibine"
 url: /laguepie/stibine/
-shop: Kerzen
+shop: bougies
 ---

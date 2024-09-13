@@ -1,5 +1,5 @@
 ---
 title: "MONESTIES AUTOMOBILES"
 url: /monesties/monesties-automobiles/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

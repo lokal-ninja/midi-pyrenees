@@ -1,5 +1,5 @@
 ---
 title: "Carosserie Montredon"
 url: /lunion/carosserie-montredon/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

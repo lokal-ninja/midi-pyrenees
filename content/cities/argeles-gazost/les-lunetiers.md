@@ -1,5 +1,5 @@
 ---
 title: "Les lunetiers"
 url: /argeles-gazost/les-lunetiers/
-shop: Optiker
+shop: opticien
 ---

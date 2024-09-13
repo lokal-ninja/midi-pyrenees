@@ -1,5 +1,5 @@
 ---
 title: "Fram"
 url: /golfech/fram/
-shop: Reisebüro
+shop: agence de voyage
 ---

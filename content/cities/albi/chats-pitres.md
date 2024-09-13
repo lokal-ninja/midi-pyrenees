@@ -1,5 +1,5 @@
 ---
 title: "Chats Pitres"
 url: /albi/chats-pitres/
-shop: Spiele
+shop: jeux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sylvie Coiffure"
 url: /souillac/sylvie-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

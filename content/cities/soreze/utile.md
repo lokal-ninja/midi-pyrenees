@@ -1,5 +1,5 @@
 ---
 title: "Utile"
 url: /soreze/utile/
-shop: Lebensmittel
+shop: commodité
 ---

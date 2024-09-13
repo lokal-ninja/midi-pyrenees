@@ -1,5 +1,5 @@
 ---
 title: "L'Opticienne"
 url: /labruguiere/lopticienne/
-shop: Optiker
+shop: opticien
 ---

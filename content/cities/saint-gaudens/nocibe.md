@@ -1,5 +1,5 @@
 ---
 title: "Nocibé"
 url: /saint-gaudens/nocibe/
-shop: Kosmetik
+shop: beauté
 ---

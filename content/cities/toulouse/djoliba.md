@@ -1,5 +1,5 @@
 ---
 title: "Djoliba"
 url: /toulouse/djoliba/
-shop: Instrumente
+shop: instrument de musique
 ---

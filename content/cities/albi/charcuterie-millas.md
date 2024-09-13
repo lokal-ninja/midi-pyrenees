@@ -1,5 +1,5 @@
 ---
 title: "Charcuterie Millas"
 url: /albi/charcuterie-millas/
-shop: Metzgerei
+shop: boucherie
 ---

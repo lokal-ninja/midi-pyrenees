@@ -1,5 +1,5 @@
 ---
 title: "Ultra Premium"
 url: /estancarbon/ultra-premium/
-shop: Tiere
+shop: animal de compagnie
 ---

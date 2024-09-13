@@ -1,5 +1,5 @@
 ---
 title: "Les Ciseaux d'Alain Pélissou"
 url: /albi/les-ciseaux-dalain-pelissou/
-shop: Friseur
+shop: coiffeur
 ---

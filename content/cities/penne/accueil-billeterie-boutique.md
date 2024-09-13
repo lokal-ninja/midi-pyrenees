@@ -1,5 +1,5 @@
 ---
 title: "Accueil - Billeterie - Boutique"
 url: /penne/accueil-billeterie-boutique/
-shop: Tickets
+shop: billet
 ---

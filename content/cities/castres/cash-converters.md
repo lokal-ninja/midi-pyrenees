@@ -1,5 +1,5 @@
 ---
 title: "Cash Converters"
 url: /castres/cash-converters/
-shop: Leiher
+shop: prêteur sur gages
 ---

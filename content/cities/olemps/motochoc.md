@@ -1,5 +1,5 @@
 ---
 title: "Motochoc"
 url: /olemps/motochoc/
-shop: Motorrad
+shop: moto
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pum Toulouse"
 url: /toulouse/pum-toulouse/
-shop: Baumarkt
+shop: à faire soi-même
 ---

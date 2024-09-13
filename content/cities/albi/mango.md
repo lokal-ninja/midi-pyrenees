@@ -1,5 +1,5 @@
 ---
 title: "Mango"
 url: /albi/mango/
-shop: Kleidung
+shop: vêtements
 ---

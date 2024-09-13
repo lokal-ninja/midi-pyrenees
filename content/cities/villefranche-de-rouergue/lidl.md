@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /villefranche-de-rouergue/lidl/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "FRAM"
 url: /toulouse/fram/
-shop: Reisebüro
+shop: agence de voyage
 ---

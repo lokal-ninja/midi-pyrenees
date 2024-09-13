@@ -1,5 +1,5 @@
 ---
 title: "Bioviela"
 url: /castres/bioviela/
-shop: Drogerie
+shop: chimiste
 ---

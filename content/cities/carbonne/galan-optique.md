@@ -1,5 +1,5 @@
 ---
 title: "Galan Optique"
 url: /carbonne/galan-optique/
-shop: Optiker
+shop: opticien
 ---

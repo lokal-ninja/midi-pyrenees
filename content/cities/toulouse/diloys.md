@@ -1,5 +1,5 @@
 ---
 title: "Diloy's"
 url: /toulouse/diloys/
-shop: Friseur
+shop: coiffeur
 ---

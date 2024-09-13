@@ -1,5 +1,5 @@
 ---
 title: "Centrakor"
 url: /portet-sur-garonne/centrakor/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

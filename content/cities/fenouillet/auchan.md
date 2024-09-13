@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
 url: /fenouillet/auchan/
-shop: Supermarkt
+shop: supermarché
 ---

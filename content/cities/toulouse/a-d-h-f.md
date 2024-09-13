@@ -1,5 +1,5 @@
 ---
 title: "A.d.h.f"
 url: /toulouse/a-d-h-f/
-shop: Hifi
+shop: hifi
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Massimo Coiffeur"
 url: /leguevin/massimo-coiffeur/
-shop: Friseur
+shop: coiffeur
 ---

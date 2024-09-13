@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /vayrac/spar/
-shop: Supermarkt
+shop: supermarché
 ---

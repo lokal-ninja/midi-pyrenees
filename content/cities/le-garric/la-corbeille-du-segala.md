@@ -1,5 +1,5 @@
 ---
 title: "La Corbeille du Ségala"
 url: /le-garric/la-corbeille-du-segala/
-shop: Bioladen
+shop: alimentation saine
 ---

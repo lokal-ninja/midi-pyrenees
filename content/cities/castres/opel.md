@@ -1,5 +1,5 @@
 ---
 title: "Opel"
 url: /castres/opel/
-shop: Autohaus
+shop: voiture
 ---

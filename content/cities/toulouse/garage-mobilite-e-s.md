@@ -1,5 +1,5 @@
 ---
 title: "Garage Mobilité.e.s"
 url: /toulouse/garage-mobilite-e-s/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

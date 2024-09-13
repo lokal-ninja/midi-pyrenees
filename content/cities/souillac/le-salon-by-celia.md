@@ -1,5 +1,5 @@
 ---
 title: "Le Salon by Célia"
 url: /souillac/le-salon-by-celia/
-shop: Friseur
+shop: coiffeur
 ---

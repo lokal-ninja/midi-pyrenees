@@ -1,5 +1,5 @@
 ---
 title: "Monvélo"
 url: /livernon/monvelo/
-shop: Fahrrad
+shop: vélo
 ---

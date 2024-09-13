@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
 url: /toulouse/carglass/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maaad"
 url: /toulouse/maaad/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

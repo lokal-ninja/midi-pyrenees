@@ -1,5 +1,5 @@
 ---
 title: "La ReCycle"
 url: /castres/la-recycle/
-shop: Fahrrad
+shop: vélo
 ---

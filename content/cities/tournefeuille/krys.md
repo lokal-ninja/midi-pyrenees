@@ -1,5 +1,5 @@
 ---
 title: "Krys"
 url: /tournefeuille/krys/
-shop: Optiker
+shop: opticien
 ---

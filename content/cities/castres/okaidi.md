@@ -1,5 +1,5 @@
 ---
 title: "Okaïdi"
 url: /castres/okaidi/
-shop: Kleidung
+shop: vêtements
 ---

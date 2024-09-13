@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /toulouse/aldi-avenue-de-lardenne/
-shop: Supermarkt
+shop: supermarché
 ---

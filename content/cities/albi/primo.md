@@ -1,5 +1,5 @@
 ---
 title: "Primo"
 url: /albi/primo/
-shop: Haushaltsartikel
+shop: articles ménagers
 ---

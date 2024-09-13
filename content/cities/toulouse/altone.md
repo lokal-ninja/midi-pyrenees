@@ -1,5 +1,5 @@
 ---
 title: "Altone"
 url: /toulouse/altone/
-shop: Autoteile
+shop: pièces de voitures
 ---

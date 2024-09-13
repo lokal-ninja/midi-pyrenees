@@ -1,5 +1,5 @@
 ---
 title: "Boutonnet Didier"
 url: /villefranche-de-rouergue/boutonnet-didier/
-shop: Schokolade
+shop: chocolat
 ---

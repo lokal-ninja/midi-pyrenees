@@ -1,5 +1,5 @@
 ---
 title: "Fransac"
 url: /pamiers/fransac/
-shop: Leder
+shop: cuir
 ---

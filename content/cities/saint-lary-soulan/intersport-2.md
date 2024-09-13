@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /saint-lary-soulan/intersport-2/
-shop: Sport
+shop: sports
 ---

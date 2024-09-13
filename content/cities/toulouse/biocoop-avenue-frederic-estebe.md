@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /toulouse/biocoop-avenue-frederic-estebe/
-shop: Supermarkt
+shop: supermarché
 ---

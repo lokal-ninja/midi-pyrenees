@@ -1,5 +1,5 @@
 ---
 title: "Ferme Erwan Guyetand"
 url: /bun/ferme-erwan-guyetand/
-shop: Hofladen
+shop: ferme
 ---

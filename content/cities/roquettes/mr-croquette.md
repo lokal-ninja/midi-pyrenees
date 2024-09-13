@@ -1,5 +1,5 @@
 ---
 title: "Mr. Croquette"
 url: /roquettes/mr-croquette/
-shop: Tiere
+shop: animal de compagnie
 ---

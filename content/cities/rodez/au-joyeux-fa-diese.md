@@ -1,5 +1,5 @@
 ---
 title: "Au Joyeux Fa Dièse"
 url: /rodez/au-joyeux-fa-diese/
-shop: Instrumente
+shop: instrument de musique
 ---

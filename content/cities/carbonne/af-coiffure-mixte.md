@@ -1,5 +1,5 @@
 ---
 title: "AF Coiffure Mixte"
 url: /carbonne/af-coiffure-mixte/
-shop: Friseur
+shop: coiffeur
 ---

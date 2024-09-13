@@ -1,5 +1,5 @@
 ---
 title: "Gaïa"
 url: /saint-girons/gaia/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "But"
 url: /millau/but/
-shop: Möbel
+shop: meubles
 ---

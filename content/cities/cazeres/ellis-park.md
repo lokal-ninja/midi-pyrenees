@@ -1,5 +1,5 @@
 ---
 title: "Ellis Park"
 url: /cazeres/ellis-park/
-shop: Kleidung
+shop: vêtements
 ---

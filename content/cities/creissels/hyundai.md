@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
 url: /creissels/hyundai/
-shop: Autohaus
+shop: voiture
 ---

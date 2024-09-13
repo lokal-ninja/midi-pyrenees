@@ -1,5 +1,5 @@
 ---
 title: "Chez Yohann et Mercedes"
 url: /cugnaux/chez-yohann-et-mercedes/
-shop: Bäckerei
+shop: boulangerie
 ---

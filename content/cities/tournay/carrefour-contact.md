@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Contact"
 url: /tournay/carrefour-contact/
-shop: Supermarkt
+shop: supermarché
 ---

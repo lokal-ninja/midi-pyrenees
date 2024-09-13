@@ -1,5 +1,5 @@
 ---
 title: "Lauweriere Patrick"
 url: /hagedet/lauweriere-patrick/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

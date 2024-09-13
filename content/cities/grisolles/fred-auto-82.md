@@ -1,5 +1,5 @@
 ---
 title: "Fred auto 82"
 url: /grisolles/fred-auto-82/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

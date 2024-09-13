@@ -1,5 +1,5 @@
 ---
 title: "Fiac"
 url: /valentine/fiac/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

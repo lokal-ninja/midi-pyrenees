@@ -1,5 +1,5 @@
 ---
 title: "Le pain de natte"
 url: /saint-martory/le-pain-de-natte/
-shop: Bäckerei
+shop: boulangerie
 ---

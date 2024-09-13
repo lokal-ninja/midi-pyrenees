@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /plaisance-du-touch/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

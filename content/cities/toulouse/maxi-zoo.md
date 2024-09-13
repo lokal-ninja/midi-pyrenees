@@ -1,5 +1,5 @@
 ---
 title: "Maxi Zoo"
 url: /toulouse/maxi-zoo/
-shop: Tiere
+shop: animal de compagnie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MECANEO"
 url: /dremil-lafage/mecaneo/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

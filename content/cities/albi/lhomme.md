@@ -1,5 +1,5 @@
 ---
 title: "L'Homme"
 url: /albi/lhomme/
-shop: Kleidung
+shop: vêtements
 ---

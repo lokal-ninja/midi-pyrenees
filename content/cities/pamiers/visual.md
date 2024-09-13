@@ -1,5 +1,5 @@
 ---
 title: "Visual"
 url: /pamiers/visual/
-shop: Optiker
+shop: opticien
 ---

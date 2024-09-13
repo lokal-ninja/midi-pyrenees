@@ -1,5 +1,5 @@
 ---
 title: "L'échoppe de JaCo"
 url: /leguevin/lechoppe-de-jaco/
-shop: Lebensmittel
+shop: commodité
 ---

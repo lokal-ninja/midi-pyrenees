@@ -1,5 +1,5 @@
 ---
 title: "Traditions de Bigorre"
 url: /boo-silhen/traditions-de-bigorre/
-shop: Hofladen
+shop: ferme
 ---

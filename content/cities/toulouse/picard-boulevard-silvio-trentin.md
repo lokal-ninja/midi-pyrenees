@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /toulouse/picard-boulevard-silvio-trentin/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

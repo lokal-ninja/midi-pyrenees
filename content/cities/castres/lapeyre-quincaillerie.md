@@ -1,5 +1,5 @@
 ---
 title: "Lapeyre Quincaillerie"
 url: /castres/lapeyre-quincaillerie/
-shop: Baumarkt
+shop: à faire soi-même
 ---

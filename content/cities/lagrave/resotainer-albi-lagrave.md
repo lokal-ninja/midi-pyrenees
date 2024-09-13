@@ -1,5 +1,5 @@
 ---
 title: "RESOTAINER Albi / Lagrave"
 url: /lagrave/resotainer-albi-lagrave/
-shop: Mieten
+shop: location de stockage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Presse - Bazar"
 url: /vabre/presse-bazar/
-shop: Zeitungen
+shop: marchand de journaux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Movilcia"
 url: /toulouse/movilcia/
-shop: Handy
+shop: téléphone portable
 ---

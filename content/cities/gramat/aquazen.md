@@ -1,5 +1,5 @@
 ---
 title: "Aquazen"
 url: /gramat/aquazen/
-shop: Kosmetik
+shop: beauté
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /moissac/orange/
-shop: Handy
+shop: téléphone portable
 ---

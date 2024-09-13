@@ -1,5 +1,5 @@
 ---
 title: "La Sandalerie"
 url: /saint-girons/la-sandalerie/
-shop: Schuhe
+shop: chaussures
 ---

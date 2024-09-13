@@ -1,5 +1,5 @@
 ---
 title: "K'extrême"
 url: /montauban/kextreme/
-shop: Motorrad
+shop: moto
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Celio"
 url: /estancarbon/celio/
-shop: Kleidung
+shop: vêtements
 ---

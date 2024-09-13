@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /lescure-dalbigeois/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

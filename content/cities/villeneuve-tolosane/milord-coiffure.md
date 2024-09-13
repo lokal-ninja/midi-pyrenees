@@ -1,5 +1,5 @@
 ---
 title: "Milord Coiffure"
 url: /villeneuve-tolosane/milord-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

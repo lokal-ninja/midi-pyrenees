@@ -1,5 +1,5 @@
 ---
 title: "Etape Auto"
 url: /lavaur/etape-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

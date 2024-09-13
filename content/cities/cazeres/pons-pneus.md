@@ -1,5 +1,5 @@
 ---
 title: "Pons Pneus"
 url: /cazeres/pons-pneus/
-shop: Autoteile
+shop: pièces de voitures
 ---

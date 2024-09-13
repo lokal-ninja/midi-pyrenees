@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /puygouzon/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

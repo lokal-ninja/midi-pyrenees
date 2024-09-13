@@ -1,5 +1,5 @@
 ---
 title: "Rural Master"
 url: /gourdon/rural-master/
-shop: Dorfladen
+shop: magasin de campagne
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Impulso"
 url: /cugnaux/impulso/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

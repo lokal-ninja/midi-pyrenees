@@ -1,5 +1,5 @@
 ---
 title: "Audition Mutualiste"
 url: /cahors/audition-mutualiste/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Casino shop"
 url: /toulouse/casino-shop-boulevard-de-strasbourg/
-shop: Lebensmittel
+shop: commodité
 ---

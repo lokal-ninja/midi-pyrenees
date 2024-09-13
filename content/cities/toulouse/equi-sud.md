@@ -1,5 +1,5 @@
 ---
 title: "Equi-Sud"
 url: /toulouse/equi-sud/
-shop: Sport
+shop: sports
 ---

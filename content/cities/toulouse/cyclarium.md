@@ -1,5 +1,5 @@
 ---
 title: "Cyclarium"
 url: /toulouse/cyclarium/
-shop: Fahrrad
+shop: vélo
 ---

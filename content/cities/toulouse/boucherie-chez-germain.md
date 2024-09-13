@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Chez Germain"
 url: /toulouse/boucherie-chez-germain/
-shop: Metzgerei
+shop: boucherie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Xooon"
 url: /portet-sur-garonne/xooon/
-shop: Möbel
+shop: meubles
 ---

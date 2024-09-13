@@ -1,5 +1,5 @@
 ---
 title: "Le Rucher Arrenssois"
 url: /arrens-marsous/le-rucher-arrenssois/
-shop: Hofladen
+shop: ferme
 ---

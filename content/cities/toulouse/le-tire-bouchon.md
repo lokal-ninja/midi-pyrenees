@@ -1,5 +1,5 @@
 ---
 title: "Le Tire Bouchon"
 url: /toulouse/le-tire-bouchon/
-shop: Wein
+shop: vin
 ---

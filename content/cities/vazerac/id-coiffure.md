@@ -1,5 +1,5 @@
 ---
 title: "ID Coiffure"
 url: /vazerac/id-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

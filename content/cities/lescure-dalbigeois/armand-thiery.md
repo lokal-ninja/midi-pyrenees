@@ -1,5 +1,5 @@
 ---
 title: "Armand Thiery"
 url: /lescure-dalbigeois/armand-thiery/
-shop: Kleidung
+shop: vêtements
 ---

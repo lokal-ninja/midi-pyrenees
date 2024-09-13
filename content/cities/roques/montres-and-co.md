@@ -1,5 +1,5 @@
 ---
-title: "Montres and Co"
+title: "Montres And Co"
 url: /roques/montres-and-co/
-shop: Uhren
+shop: montres
 ---

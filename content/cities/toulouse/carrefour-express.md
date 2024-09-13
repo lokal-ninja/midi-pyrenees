@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Express"
 url: /toulouse/carrefour-express/
-shop: Lebensmittel
+shop: commodité
 ---

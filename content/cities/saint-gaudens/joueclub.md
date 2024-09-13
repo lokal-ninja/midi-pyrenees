@@ -1,5 +1,5 @@
 ---
 title: "JouéClub"
 url: /saint-gaudens/joueclub/
-shop: Spielzeug
+shop: jouets
 ---

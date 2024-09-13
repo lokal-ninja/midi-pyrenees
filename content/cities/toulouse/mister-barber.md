@@ -1,5 +1,5 @@
 ---
 title: "Mister Barber"
 url: /toulouse/mister-barber/
-shop: Friseur
+shop: coiffeur
 ---

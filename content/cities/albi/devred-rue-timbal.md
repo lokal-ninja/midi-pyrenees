@@ -1,5 +1,5 @@
 ---
 title: "Devred"
 url: /albi/devred-rue-timbal/
-shop: Kleidung
+shop: vêtements
 ---

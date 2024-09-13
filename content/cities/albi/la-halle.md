@@ -1,5 +1,5 @@
 ---
 title: "La Halle"
 url: /albi/la-halle/
-shop: Kleidung
+shop: vêtements
 ---

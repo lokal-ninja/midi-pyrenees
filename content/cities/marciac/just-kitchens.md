@@ -1,5 +1,5 @@
 ---
 title: "Just Kitchens"
 url: /marciac/just-kitchens/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

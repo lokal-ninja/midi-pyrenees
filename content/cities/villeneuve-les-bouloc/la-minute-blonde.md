@@ -1,5 +1,5 @@
 ---
 title: "La minute blonde"
 url: /villeneuve-les-bouloc/la-minute-blonde/
-shop: Spirituosen
+shop: alcool
 ---

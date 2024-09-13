@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /toulouse/honda/
-shop: Motorrad
+shop: moto
 ---

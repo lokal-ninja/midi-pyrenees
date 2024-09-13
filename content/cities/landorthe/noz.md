@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /landorthe/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

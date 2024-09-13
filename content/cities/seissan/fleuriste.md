@@ -1,5 +1,5 @@
 ---
 title: "Fleuriste"
 url: /seissan/fleuriste/
-shop: Blumen
+shop: fleuriste
 ---

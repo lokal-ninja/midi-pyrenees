@@ -1,5 +1,5 @@
 ---
 title: "Bompart Brico Pro"
 url: /carmaux/bompart-brico-pro/
-shop: Baumarkt
+shop: à faire soi-même
 ---

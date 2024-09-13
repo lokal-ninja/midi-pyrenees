@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /martres-tolosane/vival/
-shop: Lebensmittel
+shop: commodité
 ---

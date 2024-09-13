@@ -1,5 +1,5 @@
 ---
 title: "GrandOptical"
 url: /balma/grandoptical/
-shop: Optiker
+shop: opticien
 ---

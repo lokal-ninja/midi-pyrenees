@@ -1,5 +1,5 @@
 ---
 title: "Garage du Vallon"
 url: /salles-et-pratviel/garage-du-vallon/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

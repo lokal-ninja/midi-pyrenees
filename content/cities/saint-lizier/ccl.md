@@ -1,5 +1,5 @@
 ---
 title: "CCL"
 url: /saint-lizier/ccl/
-shop: Baumarkt
+shop: à faire soi-même
 ---

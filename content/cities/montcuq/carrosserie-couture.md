@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie Couture"
 url: /montcuq/carrosserie-couture/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

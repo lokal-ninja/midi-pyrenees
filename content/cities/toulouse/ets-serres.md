@@ -1,5 +1,5 @@
 ---
 title: "Ets Serres"
 url: /toulouse/ets-serres/
-shop: Baumarkt
+shop: à faire soi-même
 ---

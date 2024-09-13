@@ -1,5 +1,5 @@
 ---
 title: "Inter Distribution"
 url: /espalion/inter-distribution/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PST"
 url: /castres/pst/
-shop: Farben
+shop: peinture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "I-Run"
 url: /toulouse/i-run/
-shop: Sport
+shop: sports
 ---

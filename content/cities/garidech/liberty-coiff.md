@@ -1,5 +1,5 @@
 ---
 title: "Liberty coiff'"
 url: /garidech/liberty-coiff/
-shop: Friseur
+shop: coiffeur
 ---

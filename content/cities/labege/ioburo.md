@@ -1,5 +1,5 @@
 ---
 title: "iOBURO"
 url: /labege/ioburo/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

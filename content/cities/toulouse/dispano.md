@@ -1,5 +1,5 @@
 ---
 title: "Dispano"
 url: /toulouse/dispano/
-shop: Baumarkt
+shop: à faire soi-même
 ---

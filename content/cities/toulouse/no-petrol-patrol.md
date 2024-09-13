@@ -1,5 +1,5 @@
 ---
 title: "No Petrol Patrol"
 url: /toulouse/no-petrol-patrol/
-shop: Fahrrad
+shop: vélo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Revolu'Tifs Studio"
 url: /gimont/revolutifs-studio/
-shop: Friseur
+shop: coiffeur
 ---

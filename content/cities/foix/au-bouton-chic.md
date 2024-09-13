@@ -1,5 +1,5 @@
 ---
 title: "Au bouton chic"
 url: /foix/au-bouton-chic/
-shop: Kleidung
+shop: vêtements
 ---

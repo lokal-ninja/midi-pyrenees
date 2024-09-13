@@ -1,5 +1,5 @@
 ---
 title: "Audiceo"
 url: /toulouse/audiceo/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

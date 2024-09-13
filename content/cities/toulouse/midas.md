@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /toulouse/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---
