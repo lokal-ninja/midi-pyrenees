@@ -1,5 +1,5 @@
 ---
 title: "Picard"
-url: /albi/picard-avenue-francois-verdier/
+url: /albi/picard-route-de-la-dreche/
 shop: aliments surgelés
 ---

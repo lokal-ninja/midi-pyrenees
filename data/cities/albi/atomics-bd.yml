@@ -4,8 +4,8 @@ latitude: 43.92842
 longitude: 2.14619
 postcode: "81000"
 city: Albi
-street: "Rue Augustin Malroux"
-housenumber: 26
-phone: "+33 5 63 43 49 68"
+street: Rue Augustin Malroux
+housenumber: "26"
+phone: +33 5 63 43 49 68
 opening_hours: ""
-website: "https://atomicsbd.fr/"
+website: https://atomicsbd.fr/

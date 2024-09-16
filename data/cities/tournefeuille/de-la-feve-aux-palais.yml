@@ -4,8 +4,8 @@ latitude: 43.58511
 longitude: 1.34466
 postcode: "31170"
 city: Tournefeuille
-street: "Boulevard Vincent Auriol"
-housenumber: 5
+street: Boulevard Vincent Auriol
+housenumber: "5"
 phone: "+33984063240"
 opening_hours: ""
-website: "https://www.delafeveaupalais.com/"
+website: https://www.delafeveaupalais.com/

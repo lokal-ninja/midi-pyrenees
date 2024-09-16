@@ -1,11 +1,11 @@
 id: 133045650
-type: way
+type: node
 latitude: 44.73505
 longitude: 1.37897
 postcode: "46300"
 city: Gourdon
-street: "Avenue Cavaignac"
-housenumber: 35
-phone: "+33 565414309"
-opening_hours: "Mo-Sa 09:15-12:15,14:15-19:00"
-website: "https://coriolis.com/magasins/carte/occitanie/cahors/coriolis-telecom-gourdon"
+street: Avenue Cavaignac
+housenumber: "35"
+phone: +33 565414309
+opening_hours: Mo-Sa 09:15-12:15,14:15-19:00
+website: https://coriolis.com/magasins/carte/occitanie/cahors/coriolis-telecom-gourdon

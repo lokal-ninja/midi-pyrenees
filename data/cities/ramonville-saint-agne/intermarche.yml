@@ -1,11 +1,11 @@
 id: 73846701
-type: way
+type: node
 latitude: 43.53557
 longitude: 1.47714
 postcode: "31520"
 city: Ramonville-Saint-Agne
-street: "Rue Louis Braille"
-housenumber: 1
+street: Rue Louis Braille
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-12:30"
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-12:30
 website: ""

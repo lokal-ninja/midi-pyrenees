@@ -4,8 +4,8 @@ latitude: 43.6403
 longitude: 1.46916
 postcode: "31200"
 city: Toulouse
-street: "Avenue d'Atlanta"
-housenumber: 2
+street: Avenue d'Atlanta
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:30,13:30-18:30; Sa 10:00-13:00,14:00-17:00"
-website: "https://www.ligne-t.com/"
+opening_hours: Mo-Fr 08:30-12:30,13:30-18:30; Sa 10:00-13:00,14:00-17:00
+website: https://www.ligne-t.com/

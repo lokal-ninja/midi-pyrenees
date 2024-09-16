@@ -1,11 +1,11 @@
 id: 68857129
-type: way
+type: node
 latitude: 43.115
 longitude: -0.03575
 postcode: "65100"
 city: Lourdes
-street: "Avenue du Monge"
-housenumber: 
+street: Avenue du Monge
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

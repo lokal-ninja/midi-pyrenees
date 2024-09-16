@@ -4,8 +4,8 @@ latitude: 43.57836
 longitude: 1.44062
 postcode: "31400"
 city: Toulouse
-street: "Avenue Jean Moulin"
-housenumber: 41
+street: Avenue Jean Moulin
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-12:30"
-website: "https://www.aldi.fr/magasins-et-horaires-d-ouverture.html/l/toulouse/41-avenue-jean-moulin/3435761"
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:30
+website: https://www.aldi.fr/magasins-et-horaires-d-ouverture.html/l/toulouse/41-avenue-jean-moulin/3435761

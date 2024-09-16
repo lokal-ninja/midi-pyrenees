@@ -1,11 +1,11 @@
 id: 59117630
-type: way
+type: node
 latitude: 44.10232
 longitude: 1.08752
 postcode: "82200"
 city: Moissac
-street: "Boulevard Pierre Delbrel"
-housenumber: 15
+street: Boulevard Pierre Delbrel
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

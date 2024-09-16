@@ -1,11 +1,11 @@
 id: 108979820
-type: way
+type: node
 latitude: 43.2983
 longitude: 1.21978
 postcode: "31390"
 city: Carbonne
-street: "Route de l'Arize"
-housenumber: 
+street: Route de l'Arize
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

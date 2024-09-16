@@ -4,8 +4,8 @@ latitude: 43.59839
 longitude: 1.43343
 postcode: "31300"
 city: Toulouse
-street: "Rue de la République"
-housenumber: 37
+street: Rue de la République
+housenumber: "37"
 phone: "0951145371"
-opening_hours: "Mo-Fr 16:00-02:00; Sa-Su 12:00-02:00"
-website: "http://la-houblonniere.fr/"
+opening_hours: Mo-Fr 16:00-02:00; Sa-Su 12:00-02:00
+website: http://la-houblonniere.fr/

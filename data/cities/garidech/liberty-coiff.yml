@@ -4,8 +4,9 @@ latitude: 43.70357
 longitude: 1.56131
 postcode: "31380"
 city: Garidech
-street: "Chemin Plano de Brû"
-housenumber: 6
-phone: "+33 5 61 84 68 86"
-opening_hours: "Mo 14:00-19:00; Tu 09:00-12:00 14:00-19:00; We 09:00-17:00; Th 09:00-12:00 14:00-21:00; Fr 09:00-19:00; Sa 09:00-16:00"
+street: Chemin Plano de Brû
+housenumber: "6"
+phone: +33 5 61 84 68 86
+opening_hours: Mo 14:00-19:00; Tu 09:00-12:00 14:00-19:00; We 09:00-17:00; Th 09:00-12:00
+    14:00-21:00; Fr 09:00-19:00; Sa 09:00-16:00
 website: ""

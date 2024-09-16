@@ -4,8 +4,8 @@ latitude: 43.0797
 longitude: 0.14055
 postcode: "65200"
 city: Pouzac
-street: "Avenue de la Mongie"
-housenumber: 83
-phone: "+33 5 62 91 03 03"
-opening_hours: "Mo-Sa 08:30-19:30"
-website: "https://www.intermarche.com/magasins/11308/pouzac-65200/infos-pratiques"
+street: Avenue de la Mongie
+housenumber: "83"
+phone: +33 5 62 91 03 03
+opening_hours: Mo-Sa 08:30-19:30
+website: https://www.intermarche.com/magasins/11308/pouzac-65200/infos-pratiques

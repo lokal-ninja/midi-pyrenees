@@ -4,8 +4,8 @@ latitude: 42.71996
 longitude: 1.83814
 postcode: "09110"
 city: Ax-les-Thermes
-street: "Place Roussel"
-housenumber: 1
-phone: "+33 5 61 64 34 95"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://www.poudre-blanche.com/"
+street: Place Roussel
+housenumber: "1"
+phone: +33 5 61 64 34 95
+opening_hours: Mo-Su 08:30-20:00
+website: https://www.poudre-blanche.com/

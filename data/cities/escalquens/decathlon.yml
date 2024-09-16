@@ -1,11 +1,11 @@
 id: 66665373
-type: way
+type: node
 latitude: 43.51757
 longitude: 1.53398
 postcode: "31750"
 city: Escalquens
-street: "ZAC de la Masquère"
-housenumber: 
-phone: "+33 5 61 36 09 60"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.decathlon.fr/store-view/magasin-de-sports-toulouse-escalquens-0070018800188"
+street: ZAC de la Masquère
+housenumber: ""
+phone: +33 5 61 36 09 60
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.decathlon.fr/store-view/magasin-de-sports-toulouse-escalquens-0070018800188

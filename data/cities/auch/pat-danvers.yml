@@ -4,8 +4,8 @@ latitude: 43.64852
 longitude: 0.58382
 postcode: "32000"
 city: Auch
-street: "Rue Bazillac"
-housenumber: 13
-phone: "+33 6 74 83 07 34"
-opening_hours: "Tu-We 10:30-13:00,15:00-19:00; Th 10:30-13:00,15:00-20:00; Fr-Sa 10:30-13:00,15:00-19:00"
+street: Rue Bazillac
+housenumber: "13"
+phone: +33 6 74 83 07 34
+opening_hours: Tu-We 10:30-13:00,15:00-19:00; Th 10:30-13:00,15:00-20:00; Fr-Sa 10:30-13:00,15:00-19:00
 website: ""

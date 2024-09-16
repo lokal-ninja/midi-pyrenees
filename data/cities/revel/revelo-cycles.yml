@@ -1,11 +1,11 @@
 id: 126845532
-type: way
+type: node
 latitude: 43.46098
 longitude: 2.00572
 postcode: "31250"
 city: Revel
-street: "Avenue de Castres"
-housenumber: 6
-phone: "+33 5 61 83 98 35"
+street: Avenue de Castres
+housenumber: "6"
+phone: +33 5 61 83 98 35
 opening_hours: ""
-website: "http://revelocycles.fr/"
+website: http://revelocycles.fr/

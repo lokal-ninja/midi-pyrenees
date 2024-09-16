@@ -1,11 +1,11 @@
 id: 634579666
-type: way
+type: node
 latitude: 44.02945
 longitude: 1.37074
 postcode: "82000"
 city: Montauban
-street: "Avenue Jean Moulin"
-housenumber: 850
+street: Avenue Jean Moulin
+housenumber: "850"
 phone: ""
-opening_hours: "Mo 14:30-19:30; Tu-Sa 09:30-19:30"
-website: "https://www.sobio.fr/magasin/montauban"
+opening_hours: Mo 14:30-19:30; Tu-Sa 09:30-19:30
+website: https://www.sobio.fr/magasin/montauban

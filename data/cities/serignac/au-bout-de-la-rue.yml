@@ -4,8 +4,10 @@ latitude: 44.43417
 longitude: 1.10582
 postcode: "46700"
 city: Sérignac
-street: "Rue de l'Église"
-housenumber: 
+street: Rue de l'Église
+housenumber: ""
 phone: "+33565308857"
-opening_hours: "Lundi 	Fermé Mardi 	12:00 - 13:30 Mercredi 	12:00 - 13:30 Jeudi 	12:00 - 13:30 Vendredi 	19:00 - 20:30 Samedi 	19:00 - 20:30 Dimanche 	12:00 - 13:30"
+opening_hours: "Lundi \tFermé Mardi \t12:00 - 13:30 Mercredi \t12:00 - 13:30 Jeudi
+    \t12:00 - 13:30 Vendredi \t19:00 - 20:30 Samedi \t19:00 - 20:30 Dimanche \t12:00
+    - 13:30"
 website: ""

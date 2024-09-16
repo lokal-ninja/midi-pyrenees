@@ -1,11 +1,11 @@
 id: 78332704
-type: way
+type: node
 latitude: 44.58718
 longitude: 2.23202
 postcode: "12300"
 city: Livinhac-le-Haut
-street: "Village des Artisans"
-housenumber: 20
+street: Village des Artisans
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

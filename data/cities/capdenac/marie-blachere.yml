@@ -1,11 +1,11 @@
 id: 292591364
-type: way
+type: node
 latitude: 44.59505
 longitude: 2.06317
 postcode: "46100"
 city: Capdenac
-street: "Le Couquet"
-housenumber: 
+street: Le Couquet
+housenumber: ""
 phone: ""
-opening_hours: "MO-SA 07:30-19:30"
+opening_hours: MO-SA 07:30-19:30
 website: ""

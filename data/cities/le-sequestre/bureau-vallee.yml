@@ -1,11 +1,11 @@
 id: 68192567
-type: way
+type: node
 latitude: 43.91678
 longitude: 2.10933
 postcode: "81990"
 city: Le Sequestre
-street: "Avenue des Marranes"
-housenumber: 
+street: Avenue des Marranes
+housenumber: ""
 phone: "+33970250510"
 opening_hours: ""
-website: "https://www.bureau-vallee.fr/"
+website: https://www.bureau-vallee.fr/

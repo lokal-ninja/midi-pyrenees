@@ -4,8 +4,8 @@ latitude: 44.19055
 longitude: 3.20932
 postcode: "48150"
 city: Le Rozier
-street: "Route de Meyrueis"
-housenumber: 
+street: Route de Meyrueis
+housenumber: ""
 phone: "+33565610473"
-opening_hours: "Jul-Aug: 07:00-12:30,17:00-19:45; 07:20-12:30,16:30-19:15; PH off"
+opening_hours: 'Jul-Aug: 07:00-12:30,17:00-19:45; 07:20-12:30,16:30-19:15; PH off'
 website: ""

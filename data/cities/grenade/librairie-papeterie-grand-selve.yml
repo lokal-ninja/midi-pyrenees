@@ -4,8 +4,8 @@ latitude: 43.77143
 longitude: 1.29375
 postcode: "31330"
 city: Grenade
-street: "Rue Gambetta"
-housenumber: 14
-phone: "+33 5 61 82 75 54"
-opening_hours: "Tu-Fr 10:00-12:30,15:00-19:00; Sa 09:30-13:00,14:30-19:00"
-website: "http://les.amis.du.selve.over-blog.com/"
+street: Rue Gambetta
+housenumber: "14"
+phone: +33 5 61 82 75 54
+opening_hours: Tu-Fr 10:00-12:30,15:00-19:00; Sa 09:30-13:00,14:30-19:00
+website: http://les.amis.du.selve.over-blog.com/

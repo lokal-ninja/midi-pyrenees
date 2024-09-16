@@ -4,8 +4,8 @@ latitude: 43.61894
 longitude: 1.43706
 postcode: "31200"
 city: Toulouse
-street: "Avenue Frédéric Estèbe"
-housenumber: 14
-phone: "+33 5 61 47 95 71"
-opening_hours: "Tu-Sa 09:00-13:00, 16:00-20:00"
+street: Avenue Frédéric Estèbe
+housenumber: "14"
+phone: +33 5 61 47 95 71
+opening_hours: Tu-Sa 09:00-13:00, 16:00-20:00
 website: ""

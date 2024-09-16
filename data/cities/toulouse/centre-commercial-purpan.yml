@@ -1,11 +1,11 @@
 id: 8074032
-type: way
+type: node
 latitude: 43.60938
 longitude: 1.3944
 postcode: "31300"
 city: Toulouse
-street: "Route de Bayonne"
+street: Route de Bayonne
 housenumber: 36-54
 phone: ""
-opening_hours: "Mo-Sa 08:30-21:00"
-website: "https://www.centre-commercial-purpan.com/"
+opening_hours: Mo-Sa 08:30-21:00
+website: https://www.centre-commercial-purpan.com/

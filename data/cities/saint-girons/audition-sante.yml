@@ -4,8 +4,9 @@ latitude: 42.98514
 longitude: 1.14161
 postcode: "09200"
 city: Saint-Girons
-street: "Rue de Villefranche"
-housenumber: 9
-phone: "+33 5 34 14 63 25"
-opening_hours: "We,Fr 09:00-12:00,13:30-17:30; Th 09:00-12:00,13:30-17:30 open Consultations sur rendez-vous."
-website: "https://www.auditionsante.fr/"
+street: Rue de Villefranche
+housenumber: "9"
+phone: +33 5 34 14 63 25
+opening_hours: We,Fr 09:00-12:00,13:30-17:30; Th 09:00-12:00,13:30-17:30 open "Consultations
+    sur rendez-vous."
+website: https://www.auditionsante.fr/

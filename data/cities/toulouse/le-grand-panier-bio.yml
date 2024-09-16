@@ -1,11 +1,11 @@
 id: 74704958
-type: way
+type: node
 latitude: 43.60797
 longitude: 1.39052
 postcode: "31300"
 city: Toulouse
-street: "Route de Bayonne"
-housenumber: 67
+street: Route de Bayonne
+housenumber: "67"
 phone: ""
 opening_hours: ""
-website: "http://www.grandpanierbio.bio/magasin/grand-panier-bio-toulouse-purpan/"
+website: http://www.grandpanierbio.bio/magasin/grand-panier-bio-toulouse-purpan/

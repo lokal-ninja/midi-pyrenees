@@ -4,8 +4,8 @@ latitude: 43.6157
 longitude: 1.44459
 postcode: "31200"
 city: Toulouse
-street: "Boulevard des Minimes"
-housenumber: 27
-phone: "+33 5 61 38 70 42"
-opening_hours: "Mo 08:30-13:00,14:00-18:00; Tu-Fr 08:30-13:00,14:00-19:00; Sa 10:30-13:00,14:00-18:00"
-website: "https://www.cyclarium.fr/"
+street: Boulevard des Minimes
+housenumber: "27"
+phone: +33 5 61 38 70 42
+opening_hours: Mo 08:30-13:00,14:00-18:00; Tu-Fr 08:30-13:00,14:00-19:00; Sa 10:30-13:00,14:00-18:00
+website: https://www.cyclarium.fr/

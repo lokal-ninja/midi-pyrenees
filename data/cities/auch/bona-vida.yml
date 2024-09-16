@@ -4,8 +4,8 @@ latitude: 43.64701
 longitude: 0.5851
 postcode: "32000"
 city: Auch
-street: "Rue Dessoles"
-housenumber: 12
-phone: "+33 5 82 83 98 05"
-opening_hours: "Mo off; Tu-Fr 07:30-12:30,16:00-19:00; Sa 07:30-18:00; Su off"
+street: Rue Dessoles
+housenumber: "12"
+phone: +33 5 82 83 98 05
+opening_hours: Mo off; Tu-Fr 07:30-12:30,16:00-19:00; Sa 07:30-18:00; Su off
 website: ""

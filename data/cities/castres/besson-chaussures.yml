@@ -4,8 +4,8 @@ latitude: 43.59225
 longitude: 2.21339
 postcode: "81100"
 city: Castres
-street: "Route de Toulouse"
-housenumber: 41
+street: Route de Toulouse
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.besson-chaussures.com/nos-boutiques/besson-chaussures-castres_castres_81100/193.html"
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.besson-chaussures.com/nos-boutiques/besson-chaussures-castres_castres_81100/193.html

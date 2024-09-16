@@ -4,8 +4,8 @@ latitude: 42.98478
 longitude: 1.14773
 postcode: "09200"
 city: Saint-Girons
-street: "Boulevard Frédéric Arnaud"
-housenumber: 73
-phone: "+33 5 61 04 60 98"
-opening_hours: "Mo-Sa 08:00-14:00"
+street: Boulevard Frédéric Arnaud
+housenumber: "73"
+phone: +33 5 61 04 60 98
+opening_hours: Mo-Sa 08:00-14:00
 website: ""

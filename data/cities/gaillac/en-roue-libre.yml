@@ -4,8 +4,8 @@ latitude: 43.9463
 longitude: 1.91643
 postcode: "81600"
 city: Gaillac
-street: "Route de Cordes"
-housenumber: 1850
-phone: "+33 6 50 62 54 58"
-opening_hours: "Mo-Su 09:00-19:00"
-website: "https://www.locationvelogaillac.fr"
+street: Route de Cordes
+housenumber: "1850"
+phone: +33 6 50 62 54 58
+opening_hours: Mo-Su 09:00-19:00
+website: https://www.locationvelogaillac.fr

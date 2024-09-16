@@ -1,11 +1,11 @@
 id: 83084969
-type: way
+type: node
 latitude: 43.58496
 longitude: 2.21255
 postcode: "81100"
 city: Castres
-street: "Rue Augustin Fresnel"
-housenumber: 6
-phone: "+33 5 63 71 00 81"
+street: Rue Augustin Fresnel
+housenumber: "6"
+phone: +33 5 63 71 00 81
 opening_hours: ""
-website: "https://www.quincaillerie-lapeyre.fr/"
+website: https://www.quincaillerie-lapeyre.fr/

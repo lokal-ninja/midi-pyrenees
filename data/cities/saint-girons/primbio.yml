@@ -4,8 +4,8 @@ latitude: 42.98531
 longitude: 1.14455
 postcode: "09200"
 city: Saint-Girons
-street: "Rue de la République"
-housenumber: 31
-phone: "+33 7 87 47 66 48"
-opening_hours: "Tu-Fr 9:00-12:30,14:00-18:00"
+street: Rue de la République
+housenumber: "31"
+phone: +33 7 87 47 66 48
+opening_hours: Tu-Fr 9:00-12:30,14:00-18:00
 website: ""

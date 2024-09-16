@@ -4,8 +4,8 @@ latitude: 43.23215
 longitude: 0.06124
 postcode: "65000"
 city: Tarbes
-street: "Rue Simin Palay"
-housenumber: 2
-phone: "+33 5 62 36 15 17"
-opening_hours: "Tu-Th 09:00-12:00, 14:00-18:00; Fr 09:00-18:00; Sa 9:00-15:00"
-website: "https://www.questiondecoupe-coiffure-tarbes-65.fr/"
+street: Rue Simin Palay
+housenumber: "2"
+phone: +33 5 62 36 15 17
+opening_hours: Tu-Th 09:00-12:00, 14:00-18:00; Fr 09:00-18:00; Sa 9:00-15:00
+website: https://www.questiondecoupe-coiffure-tarbes-65.fr/

@@ -1,11 +1,11 @@
 id: 1300905409
-type: way
+type: node
 latitude: 43.50939
 longitude: 1.38939
 postcode: "31120"
 city: Pinsaguel
-street: "Rue d'Andorre"
-housenumber: 33
+street: Rue d'Andorre
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

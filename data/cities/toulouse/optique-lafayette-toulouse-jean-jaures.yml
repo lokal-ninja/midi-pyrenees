@@ -4,8 +4,8 @@ latitude: 43.60671
 longitude: 1.44801
 postcode: "31000"
 city: Toulouse
-street: "Boulevard de Strasbourg"
-housenumber: 10
-phone: "+33 5 61 23 94 28"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.optiquelafayette.com/coscommercestore/optique-lafayette-toulouse-strasbourg"
+street: Boulevard de Strasbourg
+housenumber: "10"
+phone: +33 5 61 23 94 28
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.optiquelafayette.com/coscommercestore/optique-lafayette-toulouse-strasbourg

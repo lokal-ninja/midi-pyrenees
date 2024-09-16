@@ -1,11 +1,11 @@
 id: 303640699
-type: way
+type: node
 latitude: 43.09875
 longitude: 1.62407
 postcode: "09100"
 city: Saint-Jean-du-Falga
-street: "Avenue des Pyrénées"
-housenumber: 2
-phone: "+33 5 61 60 96 60"
-opening_hours: "Mo-Sa 09:00-12:00, 14:00-19:00"
-website: "https://www.home-stock.fr/"
+street: Avenue des Pyrénées
+housenumber: "2"
+phone: +33 5 61 60 96 60
+opening_hours: Mo-Sa 09:00-12:00, 14:00-19:00
+website: https://www.home-stock.fr/

@@ -1,11 +1,11 @@
 id: 84369211
-type: way
+type: node
 latitude: 43.53381
 longitude: 1.40486
 postcode: "31120"
 city: Portet-sur-Garonne
-street: "Boulevard de l'Europe"
-housenumber: 
-phone: "+33 5 61 72 85 72"
-opening_hours: "Mo-Sa 08:30-22:00"
-website: "https://portet.klepierre.fr/"
+street: Boulevard de l'Europe
+housenumber: ""
+phone: +33 5 61 72 85 72
+opening_hours: Mo-Sa 08:30-22:00
+website: https://portet.klepierre.fr/

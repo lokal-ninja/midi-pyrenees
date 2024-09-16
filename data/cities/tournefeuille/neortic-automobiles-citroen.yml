@@ -1,11 +1,11 @@
 id: 74790337
-type: way
+type: node
 latitude: 43.57917
 longitude: 1.32995
 postcode: "31170"
 city: Tournefeuille
-street: "Route de Tarbes"
+street: Route de Tarbes
 housenumber: 83-85
-phone: "+33 5 62 48 83 08"
-opening_hours: "Mo-Fr 08:30-12:00, 14:00-18:00"
-website: "https://neortic-automobiles.fr/"
+phone: +33 5 62 48 83 08
+opening_hours: Mo-Fr 08:30-12:00, 14:00-18:00
+website: https://neortic-automobiles.fr/

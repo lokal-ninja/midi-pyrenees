@@ -1,11 +1,11 @@
 id: 320384565
-type: way
+type: node
 latitude: 43.59689
 longitude: 1.29288
 postcode: "31830"
 city: Plaisance-du-Touch
-street: "Rue Antoine Laurent de Lavoisier"
-housenumber: 
+street: Rue Antoine Laurent de Lavoisier
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00; Su 08:30-12:30"
-website: "https://www.aldi.fr/"
+opening_hours: Mo-Sa 08:00-19:00; Su 08:30-12:30
+website: https://www.aldi.fr/

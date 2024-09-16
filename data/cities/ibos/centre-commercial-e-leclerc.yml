@@ -1,11 +1,11 @@
 id: 249510530
-type: way
+type: node
 latitude: 43.2402
 longitude: 0.01319
 postcode: "65420"
 city: Ibos
-street: "Route de Pau"
-housenumber: 
+street: Route de Pau
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

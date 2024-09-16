@@ -1,11 +1,11 @@
 id: 419962151
-type: way
+type: node
 latitude: 43.62267
 longitude: 2.31931
 postcode: "81100"
 city: Burlats
-street: "Lieu dit Montplaisir"
-housenumber: 
-phone: "+33 5 63 51 09 86"
+street: Lieu dit Montplaisir
+housenumber: ""
+phone: +33 5 63 51 09 86
 opening_hours: ""
-website: "https://missegle.com/"
+website: https://missegle.com/

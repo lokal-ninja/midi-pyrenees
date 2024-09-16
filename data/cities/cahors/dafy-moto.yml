@@ -1,11 +1,11 @@
 id: 1202699923
-type: way
+type: node
 latitude: 44.41616
 longitude: 1.43829
 postcode: "46000"
 city: Cahors
-street: "Route de Toulouse"
-housenumber: 5016
-phone: "+33 5 65 23 52 41"
-opening_hours: "Mo 15:00-19:00; Tu-Fr 09:30-12:00,14:00-19:00; Sa 09:30-12:00,14:00-18:00"
-website: "https://www.dafy-moto.com/"
+street: Route de Toulouse
+housenumber: "5016"
+phone: +33 5 65 23 52 41
+opening_hours: Mo 15:00-19:00; Tu-Fr 09:30-12:00,14:00-19:00; Sa 09:30-12:00,14:00-18:00
+website: https://www.dafy-moto.com/

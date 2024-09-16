@@ -4,8 +4,8 @@ latitude: 43.63512
 longitude: 1.47364
 postcode: "31200"
 city: Toulouse
-street: "Impasse Gaston Monnerville"
-housenumber: 6
-phone: "+33 5 61 58 26 76"
-opening_hours: "Tu 09:30-12:00, 14:00-19:00; We-Sa 09:15-12:00, 14:00-19:00"
-website: "http://www.american-motos.com/"
+street: Impasse Gaston Monnerville
+housenumber: "6"
+phone: +33 5 61 58 26 76
+opening_hours: Tu 09:30-12:00, 14:00-19:00; We-Sa 09:15-12:00, 14:00-19:00
+website: http://www.american-motos.com/

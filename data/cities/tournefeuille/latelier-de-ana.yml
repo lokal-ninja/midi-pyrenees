@@ -1,11 +1,11 @@
 id: 74792016
-type: way
+type: node
 latitude: 43.59132
 longitude: 1.35287
 postcode: "31170"
 city: Tournefeuille
-street: "Avenue François Verdier"
-housenumber: 45
+street: Avenue François Verdier
+housenumber: "45"
 phone: "+33561067173"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:30"
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:30
 website: ""

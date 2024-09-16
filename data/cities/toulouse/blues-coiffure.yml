@@ -4,8 +4,8 @@ latitude: 43.54891
 longitude: 1.45592
 postcode: "31400"
 city: Toulouse
-street: "Rue de Fondeville"
-housenumber: 16
-phone: "+33 5 62 17 19 75"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-18:00"
+street: Rue de Fondeville
+housenumber: "16"
+phone: +33 5 62 17 19 75
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

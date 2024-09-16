@@ -1,11 +1,11 @@
 id: 153152545
-type: way
+type: node
 latitude: 43.37822
 longitude: 1.17956
 postcode: "31370"
 city: Bérat
-street: "Route de Longages"
-housenumber: 166
-phone: "+33 5 61 91 84 11"
+street: Route de Longages
+housenumber: "166"
+phone: +33 5 61 91 84 11
 opening_hours: ""
-website: "https://www.magasin-point-vert.fr/magasin/berat"
+website: https://www.magasin-point-vert.fr/magasin/berat

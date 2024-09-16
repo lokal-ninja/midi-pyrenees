@@ -1,11 +1,11 @@
 id: 91351040
-type: way
+type: node
 latitude: 43.02674
 longitude: 0.16984
 postcode: "65200"
 city: Beaudéan
-street: "Route des Cols"
-housenumber: 125
+street: Route des Cols
+housenumber: "125"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:00,14:00-18:30"
-website: "https://www.aneto-sports.com/"
+opening_hours: Mo-Sa 09:00-12:00,14:00-18:30
+website: https://www.aneto-sports.com/

@@ -4,8 +4,8 @@ latitude: 43.62814
 longitude: 1.43308
 postcode: "31200"
 city: Toulouse
-street: "Avenue des États-Unis"
-housenumber: 23
-phone: "+33 5 61 47 53 56"
-opening_hours: "Tu-Sa 07:00-13:00,16:00-19:45; Su 08:00-14:00"
-website: "https://boucherie-germain.odoo.com"
+street: Avenue des États-Unis
+housenumber: "23"
+phone: +33 5 61 47 53 56
+opening_hours: Tu-Sa 07:00-13:00,16:00-19:45; Su 08:00-14:00
+website: https://boucherie-germain.odoo.com

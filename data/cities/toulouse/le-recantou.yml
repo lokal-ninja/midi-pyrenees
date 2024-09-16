@@ -4,8 +4,8 @@ latitude: 43.60688
 longitude: 1.45264
 postcode: "31000"
 city: Toulouse
-street: "Rue des Sept Troubadours"
-housenumber: 42
+street: Rue des Sept Troubadours
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:30,15:30-19:00; Sa 10:00-13:30,15:30-18:00"
+opening_hours: Mo-Fr 10:00-13:30,15:30-19:00; Sa 10:00-13:30,15:30-18:00
 website: ""

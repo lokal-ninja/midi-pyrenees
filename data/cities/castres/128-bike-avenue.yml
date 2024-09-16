@@ -1,11 +1,11 @@
 id: 826515948
-type: way
+type: node
 latitude: 43.59852
 longitude: 2.2577
 postcode: "81100"
 city: Castres
-street: "Avenue Charles de Gaulle"
-housenumber: 128
-phone: "+33 5 63 35 10 40"
+street: Avenue Charles de Gaulle
+housenumber: "128"
+phone: +33 5 63 35 10 40
 opening_hours: ""
-website: "https://www.facebook.com/128bikeavenue/"
+website: https://www.facebook.com/128bikeavenue/

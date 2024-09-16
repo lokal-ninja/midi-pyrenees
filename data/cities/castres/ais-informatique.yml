@@ -1,11 +1,11 @@
 id: 83083274
-type: way
+type: node
 latitude: 43.59367
 longitude: 2.21766
 postcode: "81100"
 city: Castres
-street: "Route de Toulouse"
-housenumber: 54
-phone: "+33 5 67 27 54 40"
+street: Route de Toulouse
+housenumber: "54"
+phone: +33 5 67 27 54 40
 opening_hours: ""
-website: "https://aisinformatique.fr/"
+website: https://aisinformatique.fr/

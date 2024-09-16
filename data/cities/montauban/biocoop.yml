@@ -1,11 +1,11 @@
 id: 127858927
-type: way
+type: node
 latitude: 44.03512
 longitude: 1.37067
 postcode: "82000"
 city: Montauban
-street: "Avenue de Fontneuve"
-housenumber: 1630
+street: Avenue de Fontneuve
+housenumber: "1630"
 phone: ""
-opening_hours: "Mo 14:30-19:30; Tu-Sa 09:30-19:30"
-website: "https://www.biocoop-montauban.com"
+opening_hours: Mo 14:30-19:30; Tu-Sa 09:30-19:30
+website: https://www.biocoop-montauban.com

@@ -4,8 +4,8 @@ latitude: 43.62395
 longitude: 1.43858
 postcode: "31200"
 city: Toulouse
-street: "Avenue des Mazades"
-housenumber: 10
-phone: "+33 9 51 07 38 83"
-opening_hours: "Mo-Fr 09:30-13:00,16:00-19:00; Sa 10:00-13:00,16:00-19:00"
-website: "https://omazettes.org/"
+street: Avenue des Mazades
+housenumber: "10"
+phone: +33 9 51 07 38 83
+opening_hours: Mo-Fr 09:30-13:00,16:00-19:00; Sa 10:00-13:00,16:00-19:00
+website: https://omazettes.org/

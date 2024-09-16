@@ -1,11 +1,11 @@
 id: 76327239
-type: way
+type: node
 latitude: 43.61287
 longitude: 1.41919
 postcode: "31200"
 city: Toulouse
-street: "Boulevard de Suisse"
-housenumber: 21
-phone: "07 85 45 25 41"
-opening_hours: "Mo-Fr 09:30-12:30, 14:00-18:30; We 14:00-18:30"
-website: "https://chauxroom.fr/"
+street: Boulevard de Suisse
+housenumber: "21"
+phone: 07 85 45 25 41
+opening_hours: Mo-Fr 09:30-12:30, 14:00-18:30; We 14:00-18:30
+website: https://chauxroom.fr/

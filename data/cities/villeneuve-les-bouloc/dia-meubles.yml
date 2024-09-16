@@ -1,11 +1,11 @@
 id: 587552613
-type: way
+type: node
 latitude: 43.77159
 longitude: 1.38297
 postcode: "31620"
 city: Villeneuve-lès-Bouloc
-street: "Rue Pythagore"
-housenumber: 2
-phone: "+33 782568828"
+street: Rue Pythagore
+housenumber: "2"
+phone: +33 782568828
 opening_hours: ""
 website: ""

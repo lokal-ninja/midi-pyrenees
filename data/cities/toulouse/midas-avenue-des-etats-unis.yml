@@ -1,11 +1,11 @@
 id: 76297626
-type: way
+type: node
 latitude: 43.62739
 longitude: 1.43324
 postcode: "31200"
 city: Toulouse
-street: "Avenue des États-Unis"
-housenumber: 1
-phone: "+33 5 61 13 35 35"
+street: Avenue des États-Unis
+housenumber: "1"
+phone: +33 5 61 13 35 35
 opening_hours: ""
-website: "https://www.midas.fr/"
+website: https://www.midas.fr/

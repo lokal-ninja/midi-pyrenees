@@ -4,8 +4,8 @@ latitude: 42.8178
 longitude: 0.32403
 postcode: "65170"
 city: Saint-Lary-Soulan
-street: "Rue Vincent Mir"
-housenumber: 17
+street: Rue Vincent Mir
+housenumber: "17"
 phone: "+33562396290"
-opening_hours: "09:00-13:00,14:30-19:30"
-website: "https://www.saintlary.com/hiver/infos-pratiques/commerces-et-services/commerces/librairie-bleu-et-aure-589991"
+opening_hours: 09:00-13:00,14:30-19:30
+website: https://www.saintlary.com/hiver/infos-pratiques/commerces-et-services/commerces/librairie-bleu-et-aure-589991

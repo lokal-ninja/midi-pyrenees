@@ -1,11 +1,11 @@
 id: 1240458848
-type: way
+type: node
 latitude: 43.96205
 longitude: 2.16833
 postcode: "81380"
 city: Lescure-d'Albigeois
-street: "Rue Simone Signoret"
-housenumber: 
-phone: "+33 5 63 54 09 09"
+street: Rue Simone Signoret
+housenumber: ""
+phone: +33 5 63 54 09 09
 opening_hours: ""
-website: "https://sepautomobiles.com/"
+website: https://sepautomobiles.com/

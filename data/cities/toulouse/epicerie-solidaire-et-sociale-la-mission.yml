@@ -4,8 +4,8 @@ latitude: 43.5828
 longitude: 1.44402
 postcode: "31400"
 city: Toulouse
-street: "Rue du Feretra"
-housenumber: 161
+street: Rue du Feretra
+housenumber: "161"
 phone: ""
-opening_hours: "Mo,Tu,Th-Sa 10:00-12:00,13:00-18:00; We 10:00-12:00,13:00-15:00"
+opening_hours: Mo,Tu,Th-Sa 10:00-12:00,13:00-18:00; We 10:00-12:00,13:00-15:00
 website: ""

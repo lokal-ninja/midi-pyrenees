@@ -4,8 +4,8 @@ latitude: 43.61686
 longitude: 1.43721
 postcode: "31200"
 city: Toulouse
-street: "Avenue des Minimes"
-housenumber: 16
-phone: "+33 5 31 22 57 05"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://ceci-et-cela.fr/"
+street: Avenue des Minimes
+housenumber: "16"
+phone: +33 5 31 22 57 05
+opening_hours: Mo-Sa 09:30-20:00
+website: https://ceci-et-cela.fr/

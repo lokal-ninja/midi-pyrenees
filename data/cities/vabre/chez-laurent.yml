@@ -1,11 +1,11 @@
 id: 408320178
-type: way
+type: node
 latitude: 43.69318
 longitude: 2.42534
 postcode: "81330"
 city: Vabre
-street: "Place du Maquis"
-housenumber: 6
+street: Place du Maquis
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

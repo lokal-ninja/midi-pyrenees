@@ -1,11 +1,11 @@
 id: 70293472
-type: way
+type: node
 latitude: 43.95428
 longitude: 2.8459
 postcode: "12400"
 city: Vabres-l'Abbaye
-street: "Chemin des Cerisiers"
-housenumber: 
+street: Chemin des Cerisiers
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

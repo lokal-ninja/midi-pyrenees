@@ -1,11 +1,11 @@
 id: 705286832
-type: way
+type: node
 latitude: 44.77941
 longitude: 1.72816
 postcode: "46500"
 city: Gramat
-street: "Avenue du 8 Mai 1945"
-housenumber: 
+street: Avenue du 8 Mai 1945
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

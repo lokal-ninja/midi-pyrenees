@@ -4,8 +4,8 @@ latitude: 43.59309
 longitude: 1.44412
 postcode: "31000"
 city: Toulouse
-street: "Allées Paul Feuga"
-housenumber: 13
-phone: "+33 5 62 26 79 39"
-opening_hours: "Tu-Sa 10:00-14:00,15:00-19:30"
-website: "https://www.ecox.fr/nos-magasins/toulouse"
+street: Allées Paul Feuga
+housenumber: "13"
+phone: +33 5 62 26 79 39
+opening_hours: Tu-Sa 10:00-14:00,15:00-19:30
+website: https://www.ecox.fr/nos-magasins/toulouse

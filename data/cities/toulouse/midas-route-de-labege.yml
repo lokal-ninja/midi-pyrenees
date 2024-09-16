@@ -4,8 +4,8 @@ latitude: 43.57085
 longitude: 1.49818
 postcode: "31400"
 city: Toulouse
-street: "Route de Labège"
-housenumber: 166
-phone: "+33 5 61 34 95 60"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-17:00"
-website: "https://www.midas.fr/"
+street: Route de Labège
+housenumber: "166"
+phone: +33 5 61 34 95 60
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-17:00
+website: https://www.midas.fr/

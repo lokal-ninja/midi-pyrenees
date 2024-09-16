@@ -1,11 +1,11 @@
 id: 76308718
-type: way
+type: node
 latitude: 43.63607
 longitude: 1.47247
 postcode: "31200"
 city: Toulouse
-street: "Rue André Vasseur"
-housenumber: 31
+street: Rue André Vasseur
+housenumber: "31"
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:30,14:00-18:00; Sa 10:00-13:00,14:00-18:00"
-website: "https://www.alize-autos.fr/"
+opening_hours: Tu-Fr 09:00-12:30,14:00-18:00; Sa 10:00-13:00,14:00-18:00
+website: https://www.alize-autos.fr/

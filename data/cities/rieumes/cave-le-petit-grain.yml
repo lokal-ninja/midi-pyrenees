@@ -4,8 +4,8 @@ latitude: 43.41244
 longitude: 1.12003
 postcode: "31370"
 city: Rieumes
-street: "Place des Marchands"
-housenumber: 4
+street: Place des Marchands
+housenumber: "4"
 phone: "+33561915840"
-opening_hours: "Tu-Sa 09:30-12:30,15:30-19:00"
-website: "https://www.cavelepetitgrain.com/"
+opening_hours: Tu-Sa 09:30-12:30,15:30-19:00
+website: https://www.cavelepetitgrain.com/

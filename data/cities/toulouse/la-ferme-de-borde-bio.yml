@@ -4,8 +4,8 @@ latitude: 43.64473
 longitude: 1.44367
 postcode: "31200"
 city: Toulouse
-street: "Chemin des Izards"
-housenumber: 79
-phone: "+33 5 62 72 02 90"
-opening_hours: "Mo-Fr 16:30-19:00; Su 09:00-18:00"
+street: Chemin des Izards
+housenumber: "79"
+phone: +33 5 62 72 02 90
+opening_hours: Mo-Fr 16:30-19:00; Su 09:00-18:00
 website: ""

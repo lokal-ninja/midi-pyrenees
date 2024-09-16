@@ -4,8 +4,8 @@ latitude: 43.23537
 longitude: 1.5755
 postcode: "09700"
 city: Saverdun
-street: "Rue du Lion d'Or"
-housenumber: 3
-phone: "+33 5 61 60 47 53"
-opening_hours: "Mo-We,Fr,Sa 06:30-13:00,14:30-20:00; Su 06:30-13:00"
-website: "https://www.lepointchaud.com/"
+street: Rue du Lion d'Or
+housenumber: "3"
+phone: +33 5 61 60 47 53
+opening_hours: Mo-We,Fr,Sa 06:30-13:00,14:30-20:00; Su 06:30-13:00
+website: https://www.lepointchaud.com/

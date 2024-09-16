@@ -4,8 +4,8 @@ latitude: 43.10079
 longitude: 1.62391
 postcode: "09100"
 city: Pamiers
-street: "Route de Foix"
-housenumber: 25
+street: Route de Foix
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:00,14:00-19:00; Sa 10:00-19:00"
-website: "https://www.intersport.fr/Ari%c3%a8ge-09/PAMIERS-09104/INTERSPORT-PAMIERSCEDEX/00662_000/"
+opening_hours: Mo-Fr 10:00-12:00,14:00-19:00; Sa 10:00-19:00
+website: https://www.intersport.fr/Ari%c3%a8ge-09/PAMIERS-09104/INTERSPORT-PAMIERSCEDEX/00662_000/

@@ -4,8 +4,8 @@ latitude: 43.61641
 longitude: 1.42195
 postcode: "31200"
 city: Toulouse
-street: "Boulevard de Suisse"
-housenumber: 94
-phone: "+33 5 31 61 42 86"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-13:00,14:00-18:00"
-website: "https://giroscop.com/"
+street: Boulevard de Suisse
+housenumber: "94"
+phone: +33 5 31 61 42 86
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-13:00,14:00-18:00
+website: https://giroscop.com/

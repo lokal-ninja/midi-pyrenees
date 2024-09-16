@@ -1,11 +1,11 @@
 id: 72247298
-type: way
+type: node
 latitude: 43.788
 longitude: 1.34515
 postcode: "31620"
 city: Castelnau-d'Estrétefonds
-street: "Route départementale"
-housenumber: 820
+street: Route départementale
+housenumber: "820"
 phone: "+33561090951"
 opening_hours: ""
-website: "https://www.profilmoto31.fr/"
+website: https://www.profilmoto31.fr/

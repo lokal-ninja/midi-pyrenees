@@ -4,8 +4,8 @@ latitude: 43.21879
 longitude: 0.08801
 postcode: "65000"
 city: Tarbes
-street: "Rue Youri Gagarine"
-housenumber: 2
-phone: "+33 5 62 56 92 76"
-opening_hours: "Mo-Th 09:00-12:30,13:30-18:00; Fr 09:00-12:30,13:30-17:00"
-website: "https://www.ateliernumeric.COM/index.php?page=contact"
+street: Rue Youri Gagarine
+housenumber: "2"
+phone: +33 5 62 56 92 76
+opening_hours: Mo-Th 09:00-12:30,13:30-18:00; Fr 09:00-12:30,13:30-17:00
+website: https://www.ateliernumeric.COM/index.php?page=contact

@@ -4,8 +4,8 @@ latitude: 43.49829
 longitude: 2.36309
 postcode: "81200"
 city: Aussillon
-street: "Rue Blériot"
-housenumber: 13
-phone: "+33 6 37 86 26 28"
-opening_hours: "Sa 09:30-13:00"
-website: "http://atelierveloaussillon.free.fr/"
+street: Rue Blériot
+housenumber: "13"
+phone: +33 6 37 86 26 28
+opening_hours: Sa 09:30-13:00
+website: http://atelierveloaussillon.free.fr/

@@ -1,11 +1,11 @@
 id: 75190744
-type: way
+type: node
 latitude: 43.92709
 longitude: 2.13656
 postcode: "81000"
 city: Albi
-street: "Place du Foirail du Castelviel"
-housenumber: 8
+street: Place du Foirail du Castelviel
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-13:00,16:00-19:00; We closed; Su 07:00-12:30"
+opening_hours: Mo-Sa 07:00-13:00,16:00-19:00; We closed; Su 07:00-12:30
 website: ""

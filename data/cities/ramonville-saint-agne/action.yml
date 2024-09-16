@@ -4,8 +4,8 @@ latitude: 43.53598
 longitude: 1.48247
 postcode: "31500"
 city: Ramonville-Saint-Agne
-street: "Avenue des Crêtes"
-housenumber: 2
+street: Avenue des Crêtes
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30"
-website: "https://www.action.com/"
+opening_hours: Mo-Sa 08:30-19:30
+website: https://www.action.com/

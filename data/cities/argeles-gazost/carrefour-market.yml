@@ -1,11 +1,11 @@
 id: 129880802
-type: way
+type: node
 latitude: 43.00513
 longitude: -0.08782
 postcode: "65400"
 city: Argelès-Gazost
-street: "Route du Stade"
-housenumber: 
-phone: "+33 5 62 97 21 89"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-19:00"
-website: "https://www.carrefour.fr/magasin/market-argeles-gazost"
+street: Route du Stade
+housenumber: ""
+phone: +33 5 62 97 21 89
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-19:00
+website: https://www.carrefour.fr/magasin/market-argeles-gazost

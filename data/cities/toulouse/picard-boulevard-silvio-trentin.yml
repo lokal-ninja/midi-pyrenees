@@ -4,8 +4,8 @@ latitude: 43.62704
 longitude: 1.43288
 postcode: "31200"
 city: Toulouse
-street: "Boulevard Silvio Trentin"
-housenumber: 83
-phone: "+33 5 61 25 86 40"
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-12:30"
-website: "https://magasins.picard.fr/942-picard-toulouse-minimes"
+street: Boulevard Silvio Trentin
+housenumber: "83"
+phone: +33 5 61 25 86 40
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-12:30
+website: https://magasins.picard.fr/942-picard-toulouse-minimes

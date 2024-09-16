@@ -1,11 +1,11 @@
 id: 1053149814
-type: way
+type: node
 latitude: 43.59236
 longitude: 2.2659
 postcode: "81100"
 city: Castres
-street: "Rue Jean Souterène"
-housenumber: 
-phone: "+33 5 63 35 63 95"
+street: Rue Jean Souterène
+housenumber: ""
+phone: +33 5 63 35 63 95
 opening_hours: ""
-website: "https://www.cashconverters.fr/"
+website: https://www.cashconverters.fr/

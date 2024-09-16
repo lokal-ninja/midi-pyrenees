@@ -1,11 +1,11 @@
 id: 213508644
-type: way
+type: node
 latitude: 43.63264
 longitude: 1.48526
 postcode: "31200"
 city: Toulouse
-street: "Chemin de Gabardie"
-housenumber: 2
+street: Chemin de Gabardie
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:30-21:30; Su 08:30-12:30"
+opening_hours: Mo-Sa 08:30-21:30; Su 08:30-12:30
 website: ""

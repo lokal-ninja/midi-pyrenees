@@ -4,8 +4,8 @@ latitude: 43.62127
 longitude: 1.43517
 postcode: "31200"
 city: Toulouse
-street: "Avenue des Minimes"
-housenumber: 79
+street: Avenue des Minimes
+housenumber: "79"
 phone: ""
-opening_hours: "09:00-19:30"
+opening_hours: 09:00-19:30
 website: ""

@@ -1,11 +1,11 @@
 id: 543649183
-type: way
+type: node
 latitude: 43.53762
 longitude: 1.40908
 postcode: "31120"
 city: Portet-sur-Garonne
-street: "Allée Pablo Picasso"
-housenumber: 8
-phone: "+335 61 16 13 06"
-opening_hours: "Mo 10:30-19:30; Tu-Sa 09:30-19:30"
+street: Allée Pablo Picasso
+housenumber: "8"
+phone: +335 61 16 13 06
+opening_hours: Mo 10:30-19:30; Tu-Sa 09:30-19:30
 website: ""

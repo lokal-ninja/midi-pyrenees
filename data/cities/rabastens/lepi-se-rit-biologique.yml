@@ -4,8 +4,8 @@ latitude: 43.82079
 longitude: 1.72329
 postcode: "81800"
 city: Rabastens
-street: "place Guillaume de Cunh"
-housenumber: 13
-phone: "05 63 33 85 20"
-opening_hours: "Mo 15:00-19:00; Tu-Fr 09:00-12:30,15:00-19:00; Sa 09:00-13:00,15:00-19:00"
-website: "https://epi-se-rit.fr/"
+street: place Guillaume de Cunh
+housenumber: "13"
+phone: 05 63 33 85 20
+opening_hours: Mo 15:00-19:00; Tu-Fr 09:00-12:30,15:00-19:00; Sa 09:00-13:00,15:00-19:00
+website: https://epi-se-rit.fr/

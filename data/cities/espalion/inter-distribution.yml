@@ -4,8 +4,8 @@ latitude: 44.524
 longitude: 2.76622
 postcode: "12500"
 city: Espalion
-street: "Avenue de Saint-Côme"
-housenumber: 1
-phone: "+33 5 65 44 11 31"
-opening_hours: "Mo 14:00-19:00; Tu,We,Th,Fr,Sa 09:15-12:00,14:15-19:00"
+street: Avenue de Saint-Côme
+housenumber: "1"
+phone: +33 5 65 44 11 31
+opening_hours: Mo 14:00-19:00; Tu,We,Th,Fr,Sa 09:15-12:00,14:15-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 114487851
-type: way
+type: node
 latitude: 43.54335
 longitude: 1.23953
 postcode: "31470"
 city: fonsforbes
-street: "Rue Jean Monnet"
-housenumber: 9
+street: Rue Jean Monnet
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

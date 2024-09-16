@@ -4,8 +4,8 @@ latitude: 43.63948
 longitude: 1.48371
 postcode: "31200"
 city: Toulouse
-street: "Rue paule raymondis"
-housenumber: 9
+street: Rue paule raymondis
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00, 14:00-17:00; Fr 08:00-12:00, 14:00-16:00"
-website: "https://www.pieces-volets-roulants.fr/"
+opening_hours: Mo-Th 08:00-12:00, 14:00-17:00; Fr 08:00-12:00, 14:00-16:00
+website: https://www.pieces-volets-roulants.fr/

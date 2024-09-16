@@ -4,8 +4,8 @@ latitude: 43.64901
 longitude: 0.58885
 postcode: "32000"
 city: auch
-street: "Rue de Lorraine"
-housenumber: 46
+street: Rue de Lorraine
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.cashexpress.fr/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.cashexpress.fr/

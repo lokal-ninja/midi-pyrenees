@@ -1,11 +1,11 @@
 id: 549964342
-type: way
+type: node
 latitude: 43.55297
 longitude: 1.50378
 postcode: "31670"
 city: Labège
-street: "Place du Commerce"
-housenumber: 108
+street: Place du Commerce
+housenumber: "108"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://fr.casashops.com/fr/magasins/toulouse-labege/633/"
+opening_hours: Mo-Sa 09:30-19:30
+website: https://fr.casashops.com/fr/magasins/toulouse-labege/633/

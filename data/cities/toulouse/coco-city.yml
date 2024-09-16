@@ -1,11 +1,11 @@
 id: 76326234
-type: way
+type: node
 latitude: 43.61274
 longitude: 1.41883
 postcode: "31200"
 city: Toulouse
-street: "Boulevard de Genève"
-housenumber: 17
+street: Boulevard de Genève
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1047725478
-type: way
+type: node
 latitude: 43.59335
 longitude: 2.26502
 postcode: "81100"
 city: Castres
-street: "Rue Ignace Schabaver"
-housenumber: 8
+street: Rue Ignace Schabaver
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.aldi.fr/"
+website: https://www.aldi.fr/

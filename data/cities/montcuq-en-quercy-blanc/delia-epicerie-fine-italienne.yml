@@ -1,11 +1,11 @@
 id: 151732901
-type: way
+type: node
 latitude: 44.33796
 longitude: 1.2097
 postcode: "46800"
 city: Montcuq-en-Quercy-Blanc
-street: "Rue de la Promenade"
-housenumber: 2
+street: Rue de la Promenade
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

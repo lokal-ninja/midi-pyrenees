@@ -1,11 +1,11 @@
 id: 75085881
-type: way
+type: node
 latitude: 43.58963
 longitude: 1.35942
 postcode: "31170"
 city: Colomiers
-street: "Allée des Corbieres"
-housenumber: 1
-phone: "+33 5 61 61 24 93"
-opening_hours: "Tu-Sa 11:00-19:00"
-website: "https://www.cyclable.com/"
+street: Allée des Corbieres
+housenumber: "1"
+phone: +33 5 61 61 24 93
+opening_hours: Tu-Sa 11:00-19:00
+website: https://www.cyclable.com/

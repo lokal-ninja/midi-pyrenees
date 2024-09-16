@@ -4,8 +4,8 @@ latitude: 43.10413
 longitude: 1.62482
 postcode: "09100"
 city: Pamiers
-street: "Route de Mirepoix"
-housenumber: 7
-phone: "+33 5 34 02 69 75"
-opening_hours: "Tu-Fr 12:00-12:00, 15:00-19:00; Sa 10:00-19:00"
+street: Route de Mirepoix
+housenumber: "7"
+phone: +33 5 34 02 69 75
+opening_hours: Tu-Fr 12:00-12:00, 15:00-19:00; Sa 10:00-19:00
 website: ""

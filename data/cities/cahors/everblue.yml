@@ -1,11 +1,11 @@
 id: 1110271433
-type: way
+type: node
 latitude: 44.42265
 longitude: 1.43758
 postcode: "46000"
 city: Cahors
-street: "Chemin de Belle Croix"
-housenumber: 550
+street: Chemin de Belle Croix
+housenumber: "550"
 phone: ""
 opening_hours: ""
 website: ""

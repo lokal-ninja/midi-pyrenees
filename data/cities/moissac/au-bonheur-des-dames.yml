@@ -1,11 +1,11 @@
 id: 59129650
-type: way
+type: node
 latitude: 44.10394
 longitude: 1.08649
 postcode: "82200"
 city: Moissac
-street: "Rue Flandres-Dunkerque 40"
-housenumber: 3
+street: Rue Flandres-Dunkerque 40
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

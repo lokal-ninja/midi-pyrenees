@@ -1,11 +1,11 @@
 id: 498069988
-type: way
+type: node
 latitude: 43.59859
 longitude: 1.48758
 postcode: ""
 city: Toulouse
 street: ""
-housenumber: 
-phone: "+33 5 62 47 84 10"
-opening_hours: "Mo-Sa 08:30-20:00;Su 08:30-12:45"
-website: "https://www.carrefour.fr/magasin/market-toulouse-hers"
+housenumber: ""
+phone: +33 5 62 47 84 10
+opening_hours: Mo-Sa 08:30-20:00;Su 08:30-12:45
+website: https://www.carrefour.fr/magasin/market-toulouse-hers

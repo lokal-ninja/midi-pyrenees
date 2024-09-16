@@ -1,11 +1,11 @@
 id: 1003553184
-type: way
+type: node
 latitude: 43.96937
 longitude: 1.42307
 postcode: "82370"
 city: Saint-Nauphary
-street: "Route d'Albi"
-housenumber: 217
-phone: "+33 5 63 93 45 22"
+street: Route d'Albi
+housenumber: "217"
+phone: +33 5 63 93 45 22
 opening_hours: ""
 website: ""

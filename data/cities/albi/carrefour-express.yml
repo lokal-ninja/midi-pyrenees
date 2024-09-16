@@ -4,8 +4,8 @@ latitude: 43.92659
 longitude: 2.15382
 postcode: "81000"
 city: Albi
-street: "Place du Maquis"
-housenumber: 12
-phone: "+33 5 63 36 19 10"
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/express-albi-maquis"
+street: Place du Maquis
+housenumber: "12"
+phone: +33 5 63 36 19 10
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/express-albi-maquis

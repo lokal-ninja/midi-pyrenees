@@ -4,8 +4,8 @@ latitude: 43.52371
 longitude: 0.1603
 postcode: "32230"
 city: Marciac
-street: "Place de l'Hôtel de Ville"
-housenumber: 37
-phone: "+33 5 62082926"
-opening_hours: "08:00-20:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/express-marciac"
+street: Place de l'Hôtel de Ville
+housenumber: "37"
+phone: +33 5 62082926
+opening_hours: 08:00-20:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/express-marciac

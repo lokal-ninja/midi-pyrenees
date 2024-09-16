@@ -1,11 +1,11 @@
 id: 63969893
-type: way
+type: node
 latitude: 43.58175
 longitude: 1.4437
 postcode: "31400"
 city: Toulouse
-street: "Rue du Feretra"
-housenumber: 147
+street: Rue du Feretra
+housenumber: "147"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 44.52214
 longitude: 2.76346
 postcode: "12500"
 city: Espalion
-street: "Rue Saint-Antoine"
-housenumber: 2
-phone: "+33 5 65 44 91 41"
-opening_hours: "Tu,We,Th,Fr,Sa 09:30-12:00,14:00-19:00"
+street: Rue Saint-Antoine
+housenumber: "2"
+phone: +33 5 65 44 91 41
+opening_hours: Tu,We,Th,Fr,Sa 09:30-12:00,14:00-19:00
 website: ""

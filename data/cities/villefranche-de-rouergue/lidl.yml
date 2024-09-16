@@ -1,11 +1,11 @@
 id: 80619396
-type: way
+type: node
 latitude: 44.36159
 longitude: 2.00205
 postcode: "12200"
 city: Villefranche-de-Rouergue
-street: "Route de Montauban"
-housenumber: 670
+street: Route de Montauban
+housenumber: "670"
 phone: ""
 opening_hours: ""
 website: ""

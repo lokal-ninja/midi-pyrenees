@@ -1,11 +1,11 @@
 id: 900916246
-type: way
+type: node
 latitude: 44.11922
 longitude: 3.06888
 postcode: "12100"
 city: Millau
-street: "Boulevard du Puech d'Andan"
-housenumber: 295
+street: Boulevard du Puech d'Andan
+housenumber: "295"
 phone: ""
-opening_hours: "Mo 14:00-18:30; Tu-Sa 09:30-12:30,14:00-18:30"
-website: "https://www.facebook.com/La-foire-aux-tissus-Millau-284040492083114/"
+opening_hours: Mo 14:00-18:30; Tu-Sa 09:30-12:30,14:00-18:30
+website: https://www.facebook.com/La-foire-aux-tissus-Millau-284040492083114/

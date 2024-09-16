@@ -1,11 +1,11 @@
 id: 79896057
-type: way
+type: node
 latitude: 44.08557
 longitude: 3.04931
 postcode: "12100"
 city: Creissels
-street: "Avenue Jean Monnet"
-housenumber: 19
+street: Avenue Jean Monnet
+housenumber: "19"
 phone: ""
-opening_hours: "Mo 12:00-19:00; We-Sa 09:00-12:00,14:00-19:00"
-website: "https://www.literie12.fr/"
+opening_hours: Mo 12:00-19:00; We-Sa 09:00-12:00,14:00-19:00
+website: https://www.literie12.fr/

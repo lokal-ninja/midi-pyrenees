@@ -1,11 +1,11 @@
 id: 480750303
-type: way
+type: node
 latitude: 43.9355
 longitude: -0.06191
 postcode: "32150"
 city: Cazaubon
-street: "Rue Cousiné"
-housenumber: 
+street: Rue Cousiné
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 450869443
-type: way
+type: node
 latitude: 43.21062
 longitude: 1.08504
 postcode: "31220"
 city: Cazères
-street: "Avenue Pasteur"
-housenumber: 65
-phone: "+33 5 61 90 35 94"
+street: Avenue Pasteur
+housenumber: "65"
+phone: +33 5 61 90 35 94
 opening_hours: ""
-website: "https://www.tollens.com/nos-magasins/31-haute-garonne/cazeres"
+website: https://www.tollens.com/nos-magasins/31-haute-garonne/cazeres

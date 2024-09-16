@@ -4,8 +4,8 @@ latitude: 43.61755
 longitude: 1.45502
 postcode: "31500"
 city: Toulouse
-street: "Rue du Faubourg Bonnefoy"
-housenumber: 32
+street: Rue du Faubourg Bonnefoy
+housenumber: "32"
 phone: ""
 opening_hours: ""
-website: "http://www.seranotraiteur.com"
+website: http://www.seranotraiteur.com

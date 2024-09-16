@@ -1,11 +1,11 @@
 id: 220120216
-type: way
+type: node
 latitude: 44.09184
 longitude: 1.34906
 postcode: "82130"
 city: L'Honor-de-Cos
-street: "Route de Molières"
-housenumber: 45
-phone: "+33 5 63 31 33 85"
-opening_hours: "Tu-Sa 08:30-12:30,16:00-19:30; Su 09:00-12:30"
+street: Route de Molières
+housenumber: "45"
+phone: +33 5 63 31 33 85
+opening_hours: Tu-Sa 08:30-12:30,16:00-19:30; Su 09:00-12:30
 website: ""

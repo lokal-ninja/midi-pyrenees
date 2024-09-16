@@ -4,8 +4,8 @@ latitude: 43.58432
 longitude: 1.34735
 postcode: "31170"
 city: Tournefeuille
-street: "Rue Gaston Doumergue"
-housenumber: 86
+street: Rue Gaston Doumergue
+housenumber: "86"
 phone: ""
-opening_hours: "Tu-Th 10:00-13:00,16:00-20:00; Fr,Sa 10:00-13:00,16:00-22:00; Su 10:00-13:00"
-website: "http://lvdlv-tolosa.com/"
+opening_hours: Tu-Th 10:00-13:00,16:00-20:00; Fr,Sa 10:00-13:00,16:00-22:00; Su 10:00-13:00
+website: http://lvdlv-tolosa.com/

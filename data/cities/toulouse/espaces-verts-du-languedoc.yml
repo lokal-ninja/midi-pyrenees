@@ -4,8 +4,8 @@ latitude: 43.60688
 longitude: 1.37241
 postcode: "31300"
 city: Toulouse
-street: "243 route de Bayonne"
-housenumber: 
-phone: "+33 5 61 49 21 71"
-opening_hours: "Mo-Sa 09:30-12:30,14:00-18:00"
-website: "https://www.espaces-verts-du-languedoc.fr/"
+street: 243 route de Bayonne
+housenumber: ""
+phone: +33 5 61 49 21 71
+opening_hours: Mo-Sa 09:30-12:30,14:00-18:00
+website: https://www.espaces-verts-du-languedoc.fr/

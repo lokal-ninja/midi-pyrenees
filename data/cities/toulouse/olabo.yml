@@ -4,8 +4,8 @@ latitude: 43.60293
 longitude: 1.44184
 postcode: "31000"
 city: Toulouse
-street: "Rue Léon Gambetta"
-housenumber: 6
-phone: "+33 5 31 21 68 72"
-opening_hours: "Mo-Su 10:00-19:00"
+street: Rue Léon Gambetta
+housenumber: "6"
+phone: +33 5 31 21 68 72
+opening_hours: Mo-Su 10:00-19:00
 website: ""

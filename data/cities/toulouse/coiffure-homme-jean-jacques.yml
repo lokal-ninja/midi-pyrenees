@@ -4,8 +4,8 @@ latitude: 43.60593
 longitude: 1.4532
 postcode: "31000"
 city: Toulouse
-street: "Rue Gabriel Péri"
-housenumber: 22
-phone: "+33 5 61 62 49 24"
-opening_hours: "Tu-Fr 08:30-12:00, Tu-Fr 13:30-18:00, Sa 08:00-15:30"
+street: Rue Gabriel Péri
+housenumber: "22"
+phone: +33 5 61 62 49 24
+opening_hours: Tu-Fr 08:30-12:00, Tu-Fr 13:30-18:00, Sa 08:00-15:30
 website: ""

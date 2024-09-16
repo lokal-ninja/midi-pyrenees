@@ -1,11 +1,11 @@
 id: 59128291
-type: way
+type: node
 latitude: 44.10409
 longitude: 1.0852
 postcode: "82200"
 city: Moissac
-street: "Rue Malaveille"
-housenumber: 7
+street: Rue Malaveille
+housenumber: "7"
 phone: ""
-opening_hours: "Tu-Sa 09:00-12:30,14:00-19:00"
+opening_hours: Tu-Sa 09:00-12:30,14:00-19:00
 website: ""

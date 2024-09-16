@@ -1,11 +1,11 @@
 id: 520246407
-type: way
+type: node
 latitude: 43.73082
 longitude: 1.05818
 postcode: "31480"
 city: Cadours
-street: "Chemin d'En Palanque"
-housenumber: 
+street: Chemin d'En Palanque
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.82981
 longitude: 1.39279
 postcode: "31620"
 city: Fronton
-street: "Route de Toulouse"
-housenumber: 800
-phone: "+33 5 32 09 20 59"
+street: Route de Toulouse
+housenumber: "800"
+phone: +33 5 32 09 20 59
 opening_hours: ""
-website: "https://www.midas.fr/"
+website: https://www.midas.fr/

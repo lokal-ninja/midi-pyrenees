@@ -1,11 +1,11 @@
 id: 59122282
-type: way
+type: node
 latitude: 44.10369
 longitude: 1.08466
 postcode: "82200"
 city: Moissac
-street: "Rue Sainte-Catherine"
-housenumber: 3
+street: Rue Sainte-Catherine
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

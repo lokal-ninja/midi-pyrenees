@@ -4,8 +4,8 @@ latitude: 43.5967
 longitude: 1.42221
 postcode: "31300"
 city: Toulouse
-street: "Avenue de Grande Bretagne"
-housenumber: 5
+street: Avenue de Grande Bretagne
+housenumber: "5"
 phone: "+33980348080"
 opening_hours: ""
 website: ""

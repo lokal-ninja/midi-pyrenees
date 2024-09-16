@@ -4,8 +4,8 @@ latitude: 43.60046
 longitude: 1.44242
 postcode: "31000"
 city: Toulouse
-street: "Rue de la Bourse"
-housenumber: 9
-phone: "+33 5 61 21 96 17"
-opening_hours: "Mo-Sa 11:00-19:00"
+street: Rue de la Bourse
+housenumber: "9"
+phone: +33 5 61 21 96 17
+opening_hours: Mo-Sa 11:00-19:00
 website: ""

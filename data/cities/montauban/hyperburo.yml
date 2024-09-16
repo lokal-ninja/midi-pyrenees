@@ -1,11 +1,11 @@
 id: 647201588
-type: way
+type: node
 latitude: 43.99558
 longitude: 1.33727
 postcode: "82000"
 city: Montauban
-street: "Avenue de Toulouse"
-housenumber: 1270
+street: Avenue de Toulouse
+housenumber: "1270"
 phone: ""
 opening_hours: ""
 website: ""

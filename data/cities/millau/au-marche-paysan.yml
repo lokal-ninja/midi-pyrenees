@@ -1,11 +1,11 @@
 id: 68653834
-type: way
+type: node
 latitude: 44.10443
 longitude: 3.08156
 postcode: "12100"
 city: Millau
-street: "Rue Mathieu Prévot"
-housenumber: 16
+street: Rue Mathieu Prévot
+housenumber: "16"
 phone: ""
-opening_hours: "Tu-Sa 10:00-13:00,15:00-17:00"
+opening_hours: Tu-Sa 10:00-13:00,15:00-17:00
 website: ""

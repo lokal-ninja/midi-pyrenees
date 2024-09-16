@@ -1,11 +1,12 @@
 id: 220499008
-type: way
+type: node
 latitude: 44.192
 longitude: 1.2864
 postcode: "82220"
 city: Vazerac
-street: "Rue du Tucol"
-housenumber: 2
-phone: "+33 5 63 67 19 01"
-opening_hours: "Apr-Oct: Mo-Sa 09:00-12:30,15:00-19:30; Nov-Mar: Mo-Sa 09:00-12:30,15:00-19:00; Su 09:00-12:00"
-website: "https://www.intermarche.com/home/magasins/accueil/tarn-et-garonne/vazerac-05825.html"
+street: Rue du Tucol
+housenumber: "2"
+phone: +33 5 63 67 19 01
+opening_hours: 'Apr-Oct: Mo-Sa 09:00-12:30,15:00-19:30; Nov-Mar: Mo-Sa 09:00-12:30,15:00-19:00;
+    Su 09:00-12:00'
+website: https://www.intermarche.com/home/magasins/accueil/tarn-et-garonne/vazerac-05825.html

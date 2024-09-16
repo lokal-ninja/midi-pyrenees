@@ -4,8 +4,8 @@ latitude: 43.66648
 longitude: 1.36445
 postcode: "31700"
 city: Beauzelle
-street: "Rue de la Sur"
-housenumber: 280
+street: Rue de la Sur
+housenumber: "280"
 phone: ""
-opening_hours: "Mo 15:00-19:00; Tu-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://ledrivetoutnu.com/"
+opening_hours: Mo 15:00-19:00; Tu-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://ledrivetoutnu.com/

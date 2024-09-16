@@ -1,11 +1,11 @@
 id: 208975700
-type: way
+type: node
 latitude: 44.10297
 longitude: 1.0852
 postcode: "82200"
 city: Moissac
-street: "Rue Jean Moura"
-housenumber: 2
+street: Rue Jean Moura
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 09:00-12:30,14:00-17:30"
+opening_hours: Mo-Th 09:00-12:30,14:00-17:30
 website: ""

@@ -1,11 +1,11 @@
 id: 900916247
-type: way
+type: node
 latitude: 44.11895
 longitude: 3.06906
 postcode: "12100"
 city: Millau
-street: "Boulevard du Puech d'Andan"
-housenumber: 321
+street: Boulevard du Puech d'Andan
+housenumber: "321"
 phone: ""
 opening_hours: ""
 website: ""

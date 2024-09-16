@@ -1,11 +1,11 @@
 id: 127750199
-type: way
+type: node
 latitude: 44.00117
 longitude: 1.35525
 postcode: "82000"
 city: Montauban
-street: "Avenue Henri Dunant"
-housenumber: 901
+street: Avenue Henri Dunant
+housenumber: "901"
 phone: ""
 opening_hours: ""
-website: "https://nozarrivages.com/magasin/montauban/"
+website: https://nozarrivages.com/magasin/montauban/

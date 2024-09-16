@@ -1,11 +1,11 @@
 id: 985640878
-type: way
+type: node
 latitude: 43.96511
 longitude: 2.18359
 postcode: "81380"
 city: Lescure-d'Albigeois
-street: "Route de Carmaux"
-housenumber: 
-phone: "+33 5 63 60 76 90"
-opening_hours: "Mo-Sa 08:00-12:00,14:00-18:30"
-website: "https://www.fournialsmotoculture.fr/"
+street: Route de Carmaux
+housenumber: ""
+phone: +33 5 63 60 76 90
+opening_hours: Mo-Sa 08:00-12:00,14:00-18:30
+website: https://www.fournialsmotoculture.fr/

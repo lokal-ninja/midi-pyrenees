@@ -1,11 +1,11 @@
 id: 189998929
-type: way
+type: node
 latitude: 43.51365
 longitude: 1.17582
 postcode: "31470"
 city: Saint-Lys
-street: "Avenue de la Gascogne"
-housenumber: 1
+street: Avenue de la Gascogne
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 44.55529
 longitude: 1.44462
 postcode: "46090"
 city: MAXOU
-street: "Chemin de la fontaine du Barry"
-housenumber: 236
-phone: "+33 6 11 91 84 56"
-opening_hours: "sur rendez-vous"
+street: Chemin de la fontaine du Barry
+housenumber: "236"
+phone: +33 6 11 91 84 56
+opening_hours: '"sur rendez-vous"'
 website: ""

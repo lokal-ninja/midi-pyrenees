@@ -1,11 +1,11 @@
 id: 75008685
-type: way
+type: node
 latitude: 43.61576
 longitude: 1.34238
 postcode: "31770"
 city: Colomiers
-street: "Avenue Georges Guynemer"
-housenumber: 1
+street: Avenue Georges Guynemer
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

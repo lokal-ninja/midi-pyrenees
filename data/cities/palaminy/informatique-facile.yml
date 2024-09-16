@@ -1,11 +1,11 @@
 id: 94013357
-type: way
+type: node
 latitude: 43.20031
 longitude: 1.06062
 postcode: "31220"
 city: Palaminy
-street: "Avenue de Martres"
-housenumber: 29
+street: Avenue de Martres
+housenumber: "29"
 phone: ""
 opening_hours: ""
-website: "https://info-facile.com"
+website: https://info-facile.com

@@ -4,8 +4,8 @@ latitude: 43.67684
 longitude: 1.42481
 postcode: "31140"
 city: Fonbeauzard
-street: "Route de Fronton"
-housenumber: 102
-phone: "+33 5 61 70 00 16"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-12:30"
-website: "https://www.auchan.fr/magasins/supermarche-fonbeauzard-aucamville/sl-1048"
+street: Route de Fronton
+housenumber: "102"
+phone: +33 5 61 70 00 16
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-12:30
+website: https://www.auchan.fr/magasins/supermarche-fonbeauzard-aucamville/sl-1048

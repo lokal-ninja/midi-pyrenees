@@ -1,11 +1,11 @@
 id: 1159629708
-type: way
+type: node
 latitude: 43.69281
 longitude: 1.39957
 postcode: "31150"
 city: Fenouillet
-street: "Rue des usines"
-housenumber: 
+street: Rue des usines
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30; Su 10:00-12:30, 14:00-18:30"
-website: "https://www.besson-chaussures.com/nos-boutiques/besson-chaussures-toulouse-fenouillet_fenouillet_31150/186.html"
+opening_hours: Mo-Sa 09:30-19:30; Su 10:00-12:30, 14:00-18:30
+website: https://www.besson-chaussures.com/nos-boutiques/besson-chaussures-toulouse-fenouillet_fenouillet_31150/186.html

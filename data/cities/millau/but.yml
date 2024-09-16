@@ -1,11 +1,11 @@
 id: 435050854
-type: way
+type: node
 latitude: 44.11532
 longitude: 3.06993
 postcode: "12100"
 city: Millau
-street: "Rue de la Garde"
-housenumber: 300
+street: Rue de la Garde
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

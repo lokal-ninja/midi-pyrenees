@@ -1,11 +1,11 @@
 id: 96274871
-type: way
+type: node
 latitude: 43.20547
 longitude: 1.0855
 postcode: "31220"
 city: Cazères
-street: "Rue du 4 Septembre"
-housenumber: 6
-phone: "+33 5 61 97 06 73"
+street: Rue du 4 Septembre
+housenumber: "6"
+phone: +33 5 61 97 06 73
 opening_hours: ""
 website: ""

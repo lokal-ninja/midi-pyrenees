@@ -1,11 +1,11 @@
 id: 144666725
-type: way
+type: node
 latitude: 43.68974
 longitude: 1.40518
 postcode: "31140"
 city: Saint-Alban
-street: "Rue de Fenouillet"
-housenumber: 56
+street: Rue de Fenouillet
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

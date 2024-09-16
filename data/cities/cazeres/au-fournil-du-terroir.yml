@@ -1,11 +1,11 @@
 id: 445315607
-type: way
+type: node
 latitude: 43.21102
 longitude: 1.08585
 postcode: "31220"
 city: Cazères
-street: "Avenue Pasteur"
-housenumber: 32
-phone: "+33 5 62 01 24 87"
-opening_hours: "Mo-Su 06:00-20:00"
-website: "https://boulangeries.marieblachere.com/Cazeres/"
+street: Avenue Pasteur
+housenumber: "32"
+phone: +33 5 62 01 24 87
+opening_hours: Mo-Su 06:00-20:00
+website: https://boulangeries.marieblachere.com/Cazeres/

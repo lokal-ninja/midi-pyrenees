@@ -1,11 +1,11 @@
 id: 96271442
-type: way
+type: node
 latitude: 43.21055
 longitude: 1.08308
 postcode: "31220"
 city: Cazères
 street: ""
-housenumber: 
+housenumber: ""
 phone: "+33561971010"
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:30-12:30"
-website: "https://www.carrefour.fr/magasin/market-cazeres"
+opening_hours: Mo-Sa 08:30-19:30; Su 09:30-12:30
+website: https://www.carrefour.fr/magasin/market-cazeres

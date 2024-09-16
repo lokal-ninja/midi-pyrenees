@@ -1,11 +1,11 @@
 id: 127764901
-type: way
+type: node
 latitude: 43.98688
 longitude: 1.33345
 postcode: "82000"
 city: Montauban
-street: "Avenue du Luxembourg"
-housenumber: 
+street: Avenue du Luxembourg
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

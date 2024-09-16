@@ -1,11 +1,11 @@
 id: 52443601
-type: way
+type: node
 latitude: 43.57198
 longitude: 1.49284
 postcode: "31400"
 city: Toulouse
-street: "Avenue Didier Daurat"
-housenumber: 28
+street: Avenue Didier Daurat
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:00"
-website: "https://concessions.peugeot.fr/sial.montaudran"
+opening_hours: Mo-Sa 08:30-19:00
+website: https://concessions.peugeot.fr/sial.montaudran

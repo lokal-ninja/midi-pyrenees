@@ -4,8 +4,8 @@ latitude: 43.22898
 longitude: 0.07086
 postcode: ""
 city: Tarbes
-street: "Rue de Cronstadt"
-housenumber: 6
+street: Rue de Cronstadt
+housenumber: "6"
 phone: ""
-opening_hours: "Sur rendez-vous"
+opening_hours: '"Sur rendez-vous"'
 website: ""

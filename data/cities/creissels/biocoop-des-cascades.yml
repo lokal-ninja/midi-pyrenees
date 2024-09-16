@@ -1,11 +1,11 @@
 id: 759047398
-type: way
+type: node
 latitude: 44.08295
 longitude: 3.04423
 postcode: "12100"
 city: Creissels
-street: "Avenue Jean Monnet"
-housenumber: 
+street: Avenue Jean Monnet
+housenumber: ""
 phone: ""
-opening_hours: "Tu-Sa 09:00-12:30, Mo-Sa 14:00-19:00"
-website: "https://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Occitanie2/Aveyron/BIOCOOP-DES-CASCADES"
+opening_hours: Tu-Sa 09:00-12:30, Mo-Sa 14:00-19:00
+website: https://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Occitanie2/Aveyron/BIOCOOP-DES-CASCADES

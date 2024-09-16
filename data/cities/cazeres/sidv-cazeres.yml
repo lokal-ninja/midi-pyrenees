@@ -1,11 +1,11 @@
 id: 445310803
-type: way
+type: node
 latitude: 43.22507
 longitude: 1.0837
 postcode: "31220"
 city: Cazères
-street: "Chemin de Carsalade"
-housenumber: 82
-phone: "+33 5 61 98 92 78"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-17:00"
+street: Chemin de Carsalade
+housenumber: "82"
+phone: +33 5 61 98 92 78
+opening_hours: Mo-Fr 08:00-12:00,14:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 127861456
-type: way
+type: node
 latitude: 44.03817
 longitude: 1.36712
 postcode: "82000"
 city: Montauban
-street: "Rue Paul Riquet"
-housenumber: 5
+street: Rue Paul Riquet
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

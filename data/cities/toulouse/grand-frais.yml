@@ -4,8 +4,8 @@ latitude: 43.65395
 longitude: 1.42498
 postcode: "31200"
 city: Toulouse
-street: "Avenue des États-Unis"
-housenumber: 308
-phone: "+33 5 62 75 57 01"
-opening_hours: "Mo-Sa 09:00-20:00"
+street: Avenue des États-Unis
+housenumber: "308"
+phone: +33 5 62 75 57 01
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

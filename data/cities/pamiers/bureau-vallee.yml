@@ -1,11 +1,11 @@
 id: 91393684
-type: way
+type: node
 latitude: 43.10209
 longitude: 1.627
 postcode: "09100"
 city: Pamiers
-street: "Route de Mirepoix"
-housenumber: 36
+street: Route de Mirepoix
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:30,14:00-19:00"
-website: "https://www.bureau-vallee.fr/nos-magasins/magasin-pamiers-245/"
+opening_hours: Mo-Sa 09:00-12:30,14:00-19:00
+website: https://www.bureau-vallee.fr/nos-magasins/magasin-pamiers-245/

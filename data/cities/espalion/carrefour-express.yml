@@ -1,11 +1,11 @@
 id: 152865482
-type: way
+type: node
 latitude: 44.52019
 longitude: 2.76254
 postcode: "12500"
 city: Espalion
-street: "Avenue de Calmont"
-housenumber: 1
-phone: "+33 5 65 44 06 18"
-opening_hours: "Mo-Sa 07:30-20:00"
-website: "https://www.carrefour.fr/magasin/express-espalion"
+street: Avenue de Calmont
+housenumber: "1"
+phone: +33 5 65 44 06 18
+opening_hours: Mo-Sa 07:30-20:00
+website: https://www.carrefour.fr/magasin/express-espalion

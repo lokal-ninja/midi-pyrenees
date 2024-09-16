@@ -1,11 +1,11 @@
 id: 59120372
-type: way
+type: node
 latitude: 44.10252
 longitude: 1.08643
 postcode: "82200"
 city: Moissac
-street: "Boulevard Camille Delthil"
-housenumber: 1
+street: Boulevard Camille Delthil
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Su 06:00-20:00"
+opening_hours: Tu-Su 06:00-20:00
 website: ""

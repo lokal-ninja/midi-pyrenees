@@ -4,8 +4,9 @@ latitude: 42.98435
 longitude: 1.14497
 postcode: "09200"
 city: Saint-Girons
-street: "Rue du Bourg"
-housenumber: 4
-phone: "+33 6 88 49 22 23"
-opening_hours: "Tu-Th 09:00-13:00,14:00-17:00; Fr 09:00-13:00; Sa Au marché, à côté du café de l'Union"
-website: "https://biscuiterieloiegourmande.fr/"
+street: Rue du Bourg
+housenumber: "4"
+phone: +33 6 88 49 22 23
+opening_hours: Tu-Th 09:00-13:00,14:00-17:00; Fr 09:00-13:00; Sa "Au marché, à côté
+    du café de l'Union"
+website: https://biscuiterieloiegourmande.fr/

@@ -1,11 +1,11 @@
 id: 151730005
-type: way
+type: node
 latitude: 44.338
 longitude: 1.20916
 postcode: "46800"
 city: Montcuq-en-Quercy-Blanc
-street: "Rue de Montmartre"
-housenumber: 11
+street: Rue de Montmartre
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 10:00-22:00"
-website: "https://www.livresbooksandcompany.com/"
+opening_hours: Mo-Sa 10:00-22:00
+website: https://www.livresbooksandcompany.com/

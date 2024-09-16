@@ -1,11 +1,11 @@
 id: 1004700405
-type: way
+type: node
 latitude: 44.01026
 longitude: 1.35288
 postcode: "82000"
 city: Montauban
-street: "Rue Léo Lagrange"
-housenumber: 
+street: Rue Léo Lagrange
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

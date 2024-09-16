@@ -4,8 +4,8 @@ latitude: 43.64109
 longitude: 1.45439
 postcode: "31200"
 city: Toulouse
-street: "Rue Louise Weiss"
-housenumber: 2
-phone: "+33 5 67 31 16 11"
-opening_hours: "Mo-Fr 08:30-18:30"
-website: "https://www.fun-and-fly.com/fr"
+street: Rue Louise Weiss
+housenumber: "2"
+phone: +33 5 67 31 16 11
+opening_hours: Mo-Fr 08:30-18:30
+website: https://www.fun-and-fly.com/fr

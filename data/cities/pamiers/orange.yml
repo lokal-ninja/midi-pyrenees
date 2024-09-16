@@ -4,8 +4,8 @@ latitude: 43.10321
 longitude: 1.62737
 postcode: "09100"
 city: Pamiers
-street: "Route de Mirepoix"
-housenumber: 
+street: Route de Mirepoix
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-12:30,14:00-18:30"
-website: "https://agence.orange.fr/5955-boutique-orange-pamiers"
+opening_hours: Mo-Sa 10:00-12:30,14:00-18:30
+website: https://agence.orange.fr/5955-boutique-orange-pamiers

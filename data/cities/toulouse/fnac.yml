@@ -4,8 +4,8 @@ latitude: 43.60535
 longitude: 1.44861
 postcode: "31000"
 city: Toulouse
-street: "Allées du Président Franklin Roosevelt"
-housenumber: 16
+street: Allées du Président Franklin Roosevelt
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "https://www.fnac.com"
+opening_hours: Mo-Sa 10:00-19:30
+website: https://www.fnac.com

@@ -4,8 +4,8 @@ latitude: 43.61104
 longitude: 1.43559
 postcode: "31000"
 city: Toulouse
-street: "Esplanade Compans Caffarelli"
-housenumber: 3
-phone: "+33 5 61 22 51 42"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.habitat.fr/shop/fr/toulouse-1"
+street: Esplanade Compans Caffarelli
+housenumber: "3"
+phone: +33 5 61 22 51 42
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.habitat.fr/shop/fr/toulouse-1

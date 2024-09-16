@@ -1,11 +1,11 @@
 id: 585748908
-type: way
+type: node
 latitude: 43.54605
 longitude: 1.51068
 postcode: "31670"
 city: Labège
-street: "La Tolosane"
-housenumber: 380
+street: La Tolosane
+housenumber: "380"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:30; Su 08:00-12:30"
-website: "https://ledrivetoutnu.com/pages/point-relais-labege"
+opening_hours: Mo-Sa 08:00-19:30; Su 08:00-12:30
+website: https://ledrivetoutnu.com/pages/point-relais-labege

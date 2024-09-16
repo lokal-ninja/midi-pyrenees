@@ -1,11 +1,11 @@
 id: 98486452
-type: way
+type: node
 latitude: 43.91875
 longitude: 2.02921
 postcode: "81150"
 city: Marssac-sur-Tarn
-street: "Avenue de Toulouse"
-housenumber: 16
+street: Avenue de Toulouse
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.12585
 longitude: 0.38276
 postcode: "65300"
 city: Lannemezan
-street: "Place du Château"
-housenumber: 55
-phone: "+33 5 62 98 44 69"
-opening_hours: "We 09:00-16:00; Fr 9:00-12:00,14:00-17:00; Sa 9:00-12:00,14:00-18:00"
-website: "https://www.smectom-lannemezan.com/fr/la-recyclerie-du-plateau/horaires-et-plan-d-acces"
+street: Place du Château
+housenumber: "55"
+phone: +33 5 62 98 44 69
+opening_hours: We 09:00-16:00; Fr 9:00-12:00,14:00-17:00; Sa 9:00-12:00,14:00-18:00
+website: https://www.smectom-lannemezan.com/fr/la-recyclerie-du-plateau/horaires-et-plan-d-acces

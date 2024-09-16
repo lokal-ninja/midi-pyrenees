@@ -1,11 +1,11 @@
 id: 697927819
-type: way
+type: node
 latitude: 43.93806
 longitude: 2.17544
 postcode: "81000"
 city: Albi
-street: "Avenue de Saint-Juéry"
-housenumber: 
+street: Avenue de Saint-Juéry
+housenumber: ""
 phone: "+33581402200"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.leroymerlin.fr/magasins/albi.html"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.leroymerlin.fr/magasins/albi.html

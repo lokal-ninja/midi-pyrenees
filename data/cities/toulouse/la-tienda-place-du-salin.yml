@@ -4,8 +4,8 @@ latitude: 43.59497
 longitude: 1.44417
 postcode: "31000"
 city: Toulouse
-street: "Place du Salin"
-housenumber: 23
-phone: "+33 9 53 66 60 46"
-opening_hours: "Mo-Sa 10:00-14:30,16:00-20:00"
-website: "https://fr-fr.facebook.com/Epicerie.La.Tienda/"
+street: Place du Salin
+housenumber: "23"
+phone: +33 9 53 66 60 46
+opening_hours: Mo-Sa 10:00-14:30,16:00-20:00
+website: https://fr-fr.facebook.com/Epicerie.La.Tienda/

@@ -4,8 +4,8 @@ latitude: 43.6116
 longitude: 1.44805
 postcode: "31000"
 city: Toulouse
-street: "Rue Matabiau"
-housenumber: 46
-phone: "+33 5 61 17 40 20"
-opening_hours: "Mo-Sa 07:00-23:00; Su 08:00-21:00"
-website: "https://www.monoprix.fr/monop-toulouse-matabiau-toulouse-31000-s"
+street: Rue Matabiau
+housenumber: "46"
+phone: +33 5 61 17 40 20
+opening_hours: Mo-Sa 07:00-23:00; Su 08:00-21:00
+website: https://www.monoprix.fr/monop-toulouse-matabiau-toulouse-31000-s

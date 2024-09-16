@@ -1,11 +1,11 @@
 id: 393393881
-type: way
+type: node
 latitude: 43.64368
 longitude: 2.04501
 postcode: "81220"
 city: Guitalens-L'Albarède
-street: "Avenue de Cocagne"
-housenumber: 28
+street: Avenue de Cocagne
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

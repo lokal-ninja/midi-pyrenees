@@ -1,11 +1,11 @@
 id: 79059314
-type: way
+type: node
 latitude: 44.36364
 longitude: 2.556
 postcode: "12000"
 city: Rodez
-street: "Avenue de la Gineste"
-housenumber: 92
+street: Avenue de la Gineste
+housenumber: "92"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa, Su off"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa, Su off
 website: ""

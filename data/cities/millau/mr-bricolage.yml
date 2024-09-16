@@ -1,11 +1,11 @@
 id: 68683704
-type: way
+type: node
 latitude: 44.11967
 longitude: 3.07206
 postcode: "12100"
 city: Millau
-street: "Chemin de Sallèles"
-housenumber: 51
+street: Chemin de Sallèles
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

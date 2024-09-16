@@ -4,8 +4,9 @@ latitude: 43.12636
 longitude: 0.38502
 postcode: "65300"
 city: Lannemezan
-street: "Rue Victor Hugo"
-housenumber: 47
-phone: "+33 5 62 39 55 46"
-opening_hours: "Mo 15:00-19:00; Tu 09:00-12:30,15:00-19:00; We 08:30-12:30,15:00-19:00; Th-Sa 09:00-12:30,15:00-19:00"
-website: "https://leventdesmots.site-solocal.com/"
+street: Rue Victor Hugo
+housenumber: "47"
+phone: +33 5 62 39 55 46
+opening_hours: Mo 15:00-19:00; Tu 09:00-12:30,15:00-19:00; We 08:30-12:30,15:00-19:00;
+    Th-Sa 09:00-12:30,15:00-19:00
+website: https://leventdesmots.site-solocal.com/

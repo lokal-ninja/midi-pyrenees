@@ -1,11 +1,11 @@
 id: 997469246
-type: way
+type: node
 latitude: 43.96497
 longitude: 1.42783
 postcode: "82370"
 city: Saint-Nauphary
-street: "Route d'Albi"
-housenumber: 
+street: Route d'Albi
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

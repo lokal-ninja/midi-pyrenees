@@ -1,11 +1,11 @@
 id: 91393925
-type: way
+type: node
 latitude: 43.10465
 longitude: 1.62997
 postcode: "09104"
 city: Pamiers
-street: "Route de Mirepoix"
-housenumber: 
+street: Route de Mirepoix
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://magasin.mr-bricolage.fr/260-mr-bricolage-pamiers"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://magasin.mr-bricolage.fr/260-mr-bricolage-pamiers

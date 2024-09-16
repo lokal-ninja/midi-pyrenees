@@ -4,8 +4,8 @@ latitude: 43.60026
 longitude: 1.45405
 postcode: "31000"
 city: Toulouse
-street: "Place Dominique Martin Dupuy"
-housenumber: 7
-phone: "+33 5 62 73 08 45"
-opening_hours: "Mo-Fr 07:00-20:00; Su 07:00-20:00"
-website: "https://lahalleauxpains-maisonfressinaud.fr/"
+street: Place Dominique Martin Dupuy
+housenumber: "7"
+phone: +33 5 62 73 08 45
+opening_hours: Mo-Fr 07:00-20:00; Su 07:00-20:00
+website: https://lahalleauxpains-maisonfressinaud.fr/

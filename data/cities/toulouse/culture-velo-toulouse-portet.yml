@@ -1,11 +1,11 @@
 id: 659036343
-type: way
+type: node
 latitude: 43.54824
 longitude: 1.42284
 postcode: "31100"
 city: Toulouse
-street: "Impasse Palayre"
-housenumber: 3
-phone: "+33 5 82 95 39 60"
-opening_hours: "Tu-Fr 09:30-12:30,14:00-19:00; Sa 09:30-18:00"
-website: "https://www.culturevelo.com/-Toulouse-Portet-"
+street: Impasse Palayre
+housenumber: "3"
+phone: +33 5 82 95 39 60
+opening_hours: Tu-Fr 09:30-12:30,14:00-19:00; Sa 09:30-18:00
+website: https://www.culturevelo.com/-Toulouse-Portet-

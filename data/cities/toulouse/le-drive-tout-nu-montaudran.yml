@@ -4,8 +4,8 @@ latitude: 43.56512
 longitude: 1.4884
 postcode: "31400"
 city: Toulouse
-street: "Rue René Cornemont"
-housenumber: 2
+street: Rue René Cornemont
+housenumber: "2"
 phone: ""
-opening_hours: "Mo 15:00-19:00; Tu-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://ledrivetoutnu.com/"
+opening_hours: Mo 15:00-19:00; Tu-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://ledrivetoutnu.com/

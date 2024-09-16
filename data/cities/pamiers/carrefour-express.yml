@@ -4,8 +4,8 @@ latitude: 43.11601
 longitude: 1.61118
 postcode: "09100"
 city: Pamiers
-street: "Place de la République"
-housenumber: 10
-phone: "+33 5 61 60 57 82"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/express-pamiers"
+street: Place de la République
+housenumber: "10"
+phone: +33 5 61 60 57 82
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/express-pamiers

@@ -1,11 +1,11 @@
 id: 148377048
-type: way
+type: node
 latitude: 44.37883
 longitude: 2.54475
 postcode: "12850"
 city: Onet-le-Château
-street: "Avenue du Causse"
-housenumber: 136
+street: Avenue du Causse
+housenumber: "136"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00,13:30-17:30"
+opening_hours: Mo-Fr 07:30-12:00,13:30-17:30
 website: ""

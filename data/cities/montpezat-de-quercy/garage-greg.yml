@@ -4,8 +4,8 @@ latitude: 44.23912
 longitude: 1.47605
 postcode: "82270"
 city: Montpezat-de-Quercy
-street: "Avenue de Cahors"
-housenumber: 1
-phone: "+33 5 63 02 07 12"
-opening_hours: "Mo-Fr 08:00-11:45,14:00-18:00"
+street: Avenue de Cahors
+housenumber: "1"
+phone: +33 5 63 02 07 12
+opening_hours: Mo-Fr 08:00-11:45,14:00-18:00
 website: ""

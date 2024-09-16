@@ -4,8 +4,8 @@ latitude: 43.59826
 longitude: 1.43163
 postcode: "31300"
 city: Toulouse
-street: "Place Intérieure Saint-Cyprien"
-housenumber: 13
-phone: "+33 5 61 40 81 73"
-opening_hours: "Tu-Sa 10:00-19:00; Mo 14:00-19:00"
-website: "https://www.fabricadebigote.com/"
+street: Place Intérieure Saint-Cyprien
+housenumber: "13"
+phone: +33 5 61 40 81 73
+opening_hours: Tu-Sa 10:00-19:00; Mo 14:00-19:00
+website: https://www.fabricadebigote.com/

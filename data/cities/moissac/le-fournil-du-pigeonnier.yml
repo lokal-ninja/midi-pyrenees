@@ -1,11 +1,11 @@
 id: 59128146
-type: way
+type: node
 latitude: 44.10372
 longitude: 1.08933
 postcode: "82200"
 city: Moissac
-street: "Rue Poumel"
-housenumber: 4
+street: Rue Poumel
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

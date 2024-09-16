@@ -4,8 +4,8 @@ latitude: 43.60594
 longitude: 1.44142
 postcode: "31000"
 city: Toulouse
-street: "Rue des Lois"
-housenumber: 32
+street: Rue des Lois
+housenumber: "32"
 phone: "+33561217932"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://www.monsieurpignonmadameguidon.com/"
+opening_hours: Tu-Sa 10:00-19:00
+website: https://www.monsieurpignonmadameguidon.com/

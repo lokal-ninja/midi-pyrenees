@@ -1,11 +1,11 @@
 id: 1049732217
-type: way
+type: node
 latitude: 43.5901
 longitude: 2.26638
 postcode: "81100"
 city: Castres
-street: "Rue Jean Bories"
-housenumber: 16
-phone: "+33 5 63 51 84 86"
+street: Rue Jean Bories
+housenumber: "16"
+phone: +33 5 63 51 84 86
 opening_hours: ""
-website: "https://quartierdestissus.com/"
+website: https://quartierdestissus.com/

@@ -1,11 +1,11 @@
 id: 79923943
-type: way
+type: node
 latitude: 44.01178
 longitude: 2.96341
 postcode: "12490"
 city: Saint-Rome-de-Cernon
-street: "Avenue de la République"
-housenumber: 
+street: Avenue de la République
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -4,8 +4,8 @@ latitude: 44.34964
 longitude: 2.57448
 postcode: "12007"
 city: Rodez
-street: "Place Charles de Gaulle"
-housenumber: 12
+street: Place Charles de Gaulle
+housenumber: "12"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-19:00; Su off"
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-19:00; Su off
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.60414
 longitude: 2.24095
 postcode: "81100"
 city: Castres
-street: "Rue de l'Hôtel de Ville"
-housenumber: 7
+street: Rue de l'Hôtel de Ville
+housenumber: "7"
 phone: "+33563590523"
 opening_hours: ""
-website: "https://rivierarm.site-solocal.com/"
+website: https://rivierarm.site-solocal.com/

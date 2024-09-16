@@ -1,11 +1,11 @@
 id: 189997029
-type: way
+type: node
 latitude: 43.51357
 longitude: 1.17594
 postcode: "31470"
 city: Saint-Lys
-street: "Place Nationale"
-housenumber: 9
+street: Place Nationale
+housenumber: "9"
 phone: "0562781432"
 opening_hours: ""
 website: ""

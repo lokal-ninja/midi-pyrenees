@@ -1,11 +1,11 @@
 id: 82475665
-type: way
+type: node
 latitude: 44.15279
 longitude: 1.75257
 postcode: "82140"
 city: Saint-Antonin-Noble-Val
-street: "Place du Pradel"
-housenumber: 21
-phone: "+33 6 44 88 06 38"
-opening_hours: "Mo 14:00-18:00; Tu-Sa 09:00-12:00,13:30-18:00; Su 09:00-13:00"
-website: "https://www.cycledebone.fr/"
+street: Place du Pradel
+housenumber: "21"
+phone: +33 6 44 88 06 38
+opening_hours: Mo 14:00-18:00; Tu-Sa 09:00-12:00,13:30-18:00; Su 09:00-13:00
+website: https://www.cycledebone.fr/

@@ -4,8 +4,8 @@ latitude: 43.6061
 longitude: 0.04837
 postcode: "32160"
 city: Plaisance
-street: "Place du 8 Mai"
-housenumber: 11
-phone: "+33 5 62085620"
+street: Place du 8 Mai
+housenumber: "11"
+phone: +33 5 62085620
 opening_hours: ""
-website: "http://www.candyenscene.com/"
+website: http://www.candyenscene.com/

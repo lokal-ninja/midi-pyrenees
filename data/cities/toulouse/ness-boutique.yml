@@ -4,8 +4,8 @@ latitude: 43.60465
 longitude: 1.44147
 postcode: "31000"
 city: Toulouse
-street: "Rue Jean-Antoine Romiguières"
-housenumber: 5
+street: Rue Jean-Antoine Romiguières
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 10:30-19:30"
-website: "https://www.facebook.com/nessboutiquetoulouse/"
+opening_hours: Mo-Sa 10:30-19:30
+website: https://www.facebook.com/nessboutiquetoulouse/

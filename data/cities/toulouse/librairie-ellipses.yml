@@ -1,11 +1,11 @@
 id: 48394905
-type: way
+type: node
 latitude: 43.55452
 longitude: 1.46721
 postcode: "31400"
 city: Toulouse
-street: "Route de Narbonne"
-housenumber: 251
+street: Route de Narbonne
+housenumber: "251"
 phone: ""
-opening_hours: "Tu-Fr 10:00-12:30,14:00-19:30; Sa 10:00-13:00,14:00-19:00"
-website: "http://www.librairie-ellipses.com"
+opening_hours: Tu-Fr 10:00-12:30,14:00-19:30; Sa 10:00-13:00,14:00-19:00
+website: http://www.librairie-ellipses.com

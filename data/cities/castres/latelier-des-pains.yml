@@ -1,11 +1,11 @@
 id: 1083817439
-type: way
+type: node
 latitude: 43.59258
 longitude: 2.23343
 postcode: "81100"
 city: Castres
-street: "Boulevard Pierre Mendès France"
-housenumber: 66
-phone: "+33 5 63 61 59 25"
+street: Boulevard Pierre Mendès France
+housenumber: "66"
+phone: +33 5 63 61 59 25
 opening_hours: ""
-website: "https://www.latelier-des-pains.fr/"
+website: https://www.latelier-des-pains.fr/

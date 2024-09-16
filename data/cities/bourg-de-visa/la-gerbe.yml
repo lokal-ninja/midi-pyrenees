@@ -1,11 +1,11 @@
 id: 506530249
-type: way
+type: node
 latitude: 44.26048
 longitude: 0.95998
 postcode: "82190"
 city: Bourg-de-Visa
-street: "Route de Moissac"
-housenumber: 22
+street: Route de Moissac
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

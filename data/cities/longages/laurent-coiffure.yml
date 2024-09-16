@@ -1,11 +1,11 @@
 id: 273599297
-type: way
+type: node
 latitude: 43.35461
 longitude: 1.23974
 postcode: "31410"
 city: Longages
-street: "Place de l'Oasis"
-housenumber: 3
+street: Place de l'Oasis
+housenumber: "3"
 phone: "+33561874407"
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.19864
 longitude: 1.01006
 postcode: "31220"
 city: Martres-Tolosane
-street: "Boulevard de la Magdeleine"
-housenumber: 2
-phone: "+33 9 86 47 17 68"
-opening_hours: "Mo 08:00-13:00; Tu-Sa 08:00-13:00,15:30-19:30; Su 08:30-12:30,17:00-19:30"
-website: "https://magasins.vival.fr/fr/vival-martrestolosane"
+street: Boulevard de la Magdeleine
+housenumber: "2"
+phone: +33 9 86 47 17 68
+opening_hours: Mo 08:00-13:00; Tu-Sa 08:00-13:00,15:30-19:30; Su 08:30-12:30,17:00-19:30
+website: https://magasins.vival.fr/fr/vival-martrestolosane

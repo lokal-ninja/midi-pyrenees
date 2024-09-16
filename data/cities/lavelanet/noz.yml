@@ -1,11 +1,11 @@
 id: 603060720
-type: way
+type: node
 latitude: 42.92136
 longitude: 1.83402
 postcode: "09300"
 city: Lavelanet
-street: "Avenue Léon Blum"
-housenumber: 63
+street: Avenue Léon Blum
+housenumber: "63"
 phone: ""
 opening_hours: ""
-website: "https://nozarrivages.com/magasin/lavelanet/"
+website: https://nozarrivages.com/magasin/lavelanet/

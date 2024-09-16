@@ -1,11 +1,11 @@
 id: 696027695
-type: way
+type: node
 latitude: 44.12586
 longitude: 1.23959
 postcode: "82130"
 city: Lafrançaise
-street: "Place Midi Pyrénées"
-housenumber: 9
+street: Place Midi Pyrénées
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "http://garage-delsouc.fr/nous-contacter/"
+website: http://garage-delsouc.fr/nous-contacter/

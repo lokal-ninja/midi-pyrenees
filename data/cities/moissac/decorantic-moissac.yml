@@ -1,11 +1,11 @@
 id: 59123283
-type: way
+type: node
 latitude: 44.10288
 longitude: 1.08525
 postcode: "82200"
 city: Moissac
-street: "Rue Jean Moura"
-housenumber: 4
+street: Rue Jean Moura
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

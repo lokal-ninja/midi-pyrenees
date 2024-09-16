@@ -1,11 +1,11 @@
 id: 176811727
-type: way
+type: node
 latitude: 43.5112
 longitude: 1.36488
 postcode: "31120"
 city: Roques
 street: ""
-housenumber: 
+housenumber: ""
 phone: "+33561414243"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.leroymerlin.fr/magasins/roques-sur-garonne-toulouse.html"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.leroymerlin.fr/magasins/roques-sur-garonne-toulouse.html

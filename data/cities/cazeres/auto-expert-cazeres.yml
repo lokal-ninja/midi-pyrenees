@@ -1,11 +1,11 @@
 id: 450878887
-type: way
+type: node
 latitude: 43.21426
 longitude: 1.08475
 postcode: "31220"
 city: Cazères
-street: "Avenue de Toulouse"
-housenumber: 1
-phone: "+33 5 61 97 03 64"
+street: Avenue de Toulouse
+housenumber: "1"
+phone: +33 5 61 97 03 64
 opening_hours: ""
 website: ""

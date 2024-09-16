@@ -1,11 +1,11 @@
 id: 74674239
-type: way
+type: node
 latitude: 43.75512
 longitude: 1.30341
 postcode: "31330"
 city: Grenade
-street: "route de toulouse"
-housenumber: 
-phone: "+33 5 61 82 17 20"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-19:00"
-website: "https://www.magasin-point-vert.fr/magasin/grenade"
+street: route de toulouse
+housenumber: ""
+phone: +33 5 61 82 17 20
+opening_hours: Mo-Sa 09:00-12:00,14:00-19:00
+website: https://www.magasin-point-vert.fr/magasin/grenade

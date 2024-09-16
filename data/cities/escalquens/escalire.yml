@@ -1,11 +1,11 @@
 id: 188607157
-type: way
+type: node
 latitude: 43.51539
 longitude: 1.5483
 postcode: "31750"
 city: Escalquens
-street: "Avenue de Toulouse"
-housenumber: 61
+street: Avenue de Toulouse
+housenumber: "61"
 phone: ""
 opening_hours: ""
-website: "https://www.escalire.fr"
+website: https://www.escalire.fr

@@ -4,8 +4,8 @@ latitude: 42.78973
 longitude: 0.59158
 postcode: "31110"
 city: Bagnères-de-Luchon
-street: "Allées d'Étigny"
-housenumber: 8
-phone: "+33 5 61 79 35 27"
-opening_hours: "Mo-Su 09:30-12:30, 15:00-19:00"
-website: "https://www.intersport.fr"
+street: Allées d'Étigny
+housenumber: "8"
+phone: +33 5 61 79 35 27
+opening_hours: Mo-Su 09:30-12:30, 15:00-19:00
+website: https://www.intersport.fr

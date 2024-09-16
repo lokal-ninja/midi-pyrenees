@@ -4,8 +4,8 @@ latitude: 43.58529
 longitude: 1.52951
 postcode: "31130"
 city: Quint-Fonsegrives
-street: "Place de la Mairie"
-housenumber: 4
-phone: "+33 5 62 80 19 33"
-opening_hours: "Mo-Sa 10:00-13:00,16:00-19:00"
+street: Place de la Mairie
+housenumber: "4"
+phone: +33 5 62 80 19 33
+opening_hours: Mo-Sa 10:00-13:00,16:00-19:00
 website: ""

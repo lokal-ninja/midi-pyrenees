@@ -4,8 +4,8 @@ latitude: 43.608
 longitude: 2.24056
 postcode: "81100"
 city: Castres
-street: "Boulevard des Docteurs Sicard"
-housenumber: 17
-phone: "+33 5 63 72 50 05"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:30"
-website: "https://multicopyservices.fr/"
+street: Boulevard des Docteurs Sicard
+housenumber: "17"
+phone: +33 5 63 72 50 05
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:30
+website: https://multicopyservices.fr/

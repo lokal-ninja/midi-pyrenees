@@ -4,8 +4,8 @@ latitude: 42.99748
 longitude: -0.05532
 postcode: "65400"
 city: Vier-Bordes
-street: "Place du village"
-housenumber: 1
+street: Place du village
+housenumber: "1"
 phone: ""
-opening_hours: "Th - Fr 14 : 00 - 18 : 00"
+opening_hours: 'Th - Fr 14 : 00 - 18 : 00'
 website: ""

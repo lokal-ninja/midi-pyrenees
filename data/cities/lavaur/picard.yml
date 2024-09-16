@@ -1,11 +1,11 @@
 id: 529474838
-type: way
+type: node
 latitude: 43.70451
 longitude: 1.79922
 postcode: "81500"
 city: Lavaur
 street: ""
-housenumber: 
-phone: "+33 5 63 42 71 32"
-opening_hours: "Mo-Th 09:00-13:00,14:30-19:30; Fr-Sa 09:00-19:30"
-website: "https://magasins.picard.fr/465-picard-lavaur"
+housenumber: ""
+phone: +33 5 63 42 71 32
+opening_hours: Mo-Th 09:00-13:00,14:30-19:30; Fr-Sa 09:00-19:30
+website: https://magasins.picard.fr/465-picard-lavaur

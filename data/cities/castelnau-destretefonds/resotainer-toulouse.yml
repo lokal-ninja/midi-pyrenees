@@ -4,8 +4,8 @@ latitude: 43.77102
 longitude: 1.37009
 postcode: "31626"
 city: Castelnau-d'Estrétefonds
-street: "Avenue de Saint-Guillan"
-housenumber: 14
-phone: "+335 61 09 04 60"
-opening_hours: "Mo-Th 09:00-12:30,13:30-18:00; Fr 09:00-12:30,13:30-17:00; Sa 09:00-17:00"
-website: "https://www.resotainer.fr/agence-toulouse"
+street: Avenue de Saint-Guillan
+housenumber: "14"
+phone: +335 61 09 04 60
+opening_hours: Mo-Th 09:00-12:30,13:30-18:00; Fr 09:00-12:30,13:30-17:00; Sa 09:00-17:00
+website: https://www.resotainer.fr/agence-toulouse

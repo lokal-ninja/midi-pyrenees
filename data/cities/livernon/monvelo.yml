@@ -1,11 +1,11 @@
 id: 255765102
-type: way
+type: node
 latitude: 44.65605
 longitude: 1.85191
 postcode: "46320"
 city: Livernon
-street: "clairière de Coupille"
-housenumber: 
+street: clairière de Coupille
+housenumber: ""
 phone: "+33565114045"
-opening_hours: "tu-sa 10:00-12:00, 14:00-18:30"
-website: "https://www.monvelo.com"
+opening_hours: tu-sa 10:00-12:00, 14:00-18:30
+website: https://www.monvelo.com

@@ -1,11 +1,11 @@
 id: 68386243
-type: way
+type: node
 latitude: 44.60664
 longitude: 2.02594
 postcode: "46100"
 city: Figeac
-street: "Avenue Georges Pompidou"
-housenumber: 1
+street: Avenue Georges Pompidou
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Th 09:00-13:00,15:00-19:00; Fr,Sa 09:00-19:00"
+opening_hours: Tu-Th 09:00-13:00,15:00-19:00; Fr,Sa 09:00-19:00
 website: ""

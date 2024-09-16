@@ -1,11 +1,11 @@
 id: 682910691
-type: way
+type: node
 latitude: 43.66571
 longitude: 0.61222
 postcode: "32000"
 city: Auch
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

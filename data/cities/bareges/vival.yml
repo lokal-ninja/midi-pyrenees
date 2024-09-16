@@ -4,8 +4,9 @@ latitude: 42.89701
 longitude: 0.06527
 postcode: "65120"
 city: Barèges
-street: "Rue Ramond"
-housenumber: 
-phone: "+33 6 68 55 90 68"
-opening_hours: "Mo-We 08:30-13:00,15:00-19:30; Th 08:30-13:00; Fr-Sa 08:30-13:00,15:00-19:30; Su 08:30-13:00"
-website: "https://magasins.vival.fr/fr/vival-bareges"
+street: Rue Ramond
+housenumber: ""
+phone: +33 6 68 55 90 68
+opening_hours: Mo-We 08:30-13:00,15:00-19:30; Th 08:30-13:00; Fr-Sa 08:30-13:00,15:00-19:30;
+    Su 08:30-13:00
+website: https://magasins.vival.fr/fr/vival-bareges

@@ -1,11 +1,11 @@
 id: 874735715
-type: way
+type: node
 latitude: 43.06039
 longitude: 0.58957
 postcode: "31510"
 city: Seilhan
-street: "Rue du Bazert"
-housenumber: 25
-phone: "+33 5 61 88 58 76"
-opening_hours: "Tu-Fr 09:00-18:00"
+street: Rue du Bazert
+housenumber: "25"
+phone: +33 5 61 88 58 76
+opening_hours: Tu-Fr 09:00-18:00
 website: ""

@@ -4,8 +4,9 @@ latitude: 43.7611
 longitude: 1.96444
 postcode: "81300"
 city: Graulhet
-street: "Route de Lavaur"
-housenumber: 
+street: Route de Lavaur
+housenumber: ""
 phone: ""
-opening_hours: "Mo 09:15-13:00, 14:00-19:15; Tu-We 09:15-19:15; Th 09:15-13:00, 14:00-19:15; Fr-Sa 09:15-19:15"
-website: "https://www.juliendorcel.com/bijouterie/graulhet-1025M"
+opening_hours: Mo 09:15-13:00, 14:00-19:15; Tu-We 09:15-19:15; Th 09:15-13:00, 14:00-19:15;
+    Fr-Sa 09:15-19:15
+website: https://www.juliendorcel.com/bijouterie/graulhet-1025M

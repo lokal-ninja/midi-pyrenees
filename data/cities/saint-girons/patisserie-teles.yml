@@ -4,8 +4,8 @@ latitude: 42.98341
 longitude: 1.14336
 postcode: "09200"
 city: Saint-Girons
-street: "Rue du Pont Vieux"
-housenumber: 14
-phone: "+33 5 61 66 23 00"
-opening_hours: "Tu-Sa 07:30-18:30; Su 08:00-12:00"
+street: Rue du Pont Vieux
+housenumber: "14"
+phone: +33 5 61 66 23 00
+opening_hours: Tu-Sa 07:30-18:30; Su 08:00-12:00
 website: ""

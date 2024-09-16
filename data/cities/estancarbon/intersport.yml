@@ -1,11 +1,11 @@
 id: 1284926387
-type: way
+type: node
 latitude: 43.11597
 longitude: 0.76654
 postcode: "31800"
 city: Estancarbon
-street: "Avenue du Crabère"
-housenumber: 
+street: Avenue du Crabère
+housenumber: ""
 phone: "+33562009180"
-opening_hours: "Mo-Sa 09:30-19:00"
+opening_hours: Mo-Sa 09:30-19:00
 website: ""

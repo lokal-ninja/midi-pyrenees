@@ -1,11 +1,11 @@
 id: 244345430
-type: way
+type: node
 latitude: 43.65777
 longitude: 0.59167
 postcode: "32000"
 city: Auch
-street: "Rue du 8 Mai"
-housenumber: 52
+street: Rue du 8 Mai
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,15:00-19:00; Sa 10:00-19:15"
-website: "https://www.biocoop-auch.fr/"
+opening_hours: Mo-Fr 10:00-13:00,15:00-19:00; Sa 10:00-19:15
+website: https://www.biocoop-auch.fr/

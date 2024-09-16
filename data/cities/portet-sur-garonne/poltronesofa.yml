@@ -1,11 +1,11 @@
 id: 84392379
-type: way
+type: node
 latitude: 43.53253
 longitude: 1.4081
 postcode: "31120"
 city: Portet-sur-Garonne
-street: "Route d'Espagne"
-housenumber: 35
-phone: "+33 5 61 08 14 32"
-opening_hours: "Mo-Sa 10:00-19:00"
+street: Route d'Espagne
+housenumber: "35"
+phone: +33 5 61 08 14 32
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 183046784
-type: way
+type: node
 latitude: 44.41689
 longitude: 1.43935
 postcode: "46090"
 city: Le Montat
 street: ""
-housenumber: 
-phone: "+33 5 65 35 02 02"
+housenumber: ""
+phone: +33 5 65 35 02 02
 opening_hours: ""
-website: "https://concessions.peugeot.fr/cahors/"
+website: https://concessions.peugeot.fr/cahors/

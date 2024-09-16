@@ -1,11 +1,11 @@
 id: 697810734
-type: way
+type: node
 latitude: 44.92142
 longitude: 1.84243
 postcode: "46130"
 city: Biars-sur-Cère
-street: "Avenue de la République"
-housenumber: 103
+street: Avenue de la République
+housenumber: "103"
 phone: "0565140780"
 opening_hours: ""
 website: ""

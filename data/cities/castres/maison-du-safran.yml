@@ -4,8 +4,8 @@ latitude: 43.60637
 longitude: 2.24015
 postcode: "81100"
 city: Castres
-street: "Rue Frédéric Thomas"
-housenumber: 14
-phone: "+33 9 62 63 30 83"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://www.safranduterroirtarnais.fr/"
+street: Rue Frédéric Thomas
+housenumber: "14"
+phone: +33 9 62 63 30 83
+opening_hours: Tu-Sa 10:00-19:00
+website: https://www.safranduterroirtarnais.fr/

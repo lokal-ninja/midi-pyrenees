@@ -1,11 +1,11 @@
 id: 451580158
-type: way
+type: node
 latitude: 44.07563
 longitude: 1.09375
 postcode: "82100"
 city: Castelsarrasin
-street: "Chemin de Caussade-Bas"
-housenumber: 22
-phone: "+33 5 63 95 16 16"
+street: Chemin de Caussade-Bas
+housenumber: "22"
+phone: +33 5 63 95 16 16
 opening_hours: ""
-website: "https://concessions.peugeot.fr/castel/"
+website: https://concessions.peugeot.fr/castel/

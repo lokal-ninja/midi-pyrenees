@@ -1,11 +1,11 @@
 id: 91406474
-type: way
+type: node
 latitude: 43.10518
 longitude: 1.61985
 postcode: "09100"
 city: Pamiers
-street: "Route de Mirepoix"
-housenumber: 1
-phone: "+33 5 61 67 02 59"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:00-12:30, 14:00-19:00"
-website: "https://www.krys.com/opticien/france/ariege/opticien-pamiers/pamiers-pavillon"
+street: Route de Mirepoix
+housenumber: "1"
+phone: +33 5 61 67 02 59
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:00-12:30, 14:00-19:00
+website: https://www.krys.com/opticien/france/ariege/opticien-pamiers/pamiers-pavillon

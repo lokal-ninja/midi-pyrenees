@@ -4,8 +4,8 @@ latitude: 43.11754
 longitude: 0.76448
 postcode: "31800"
 city: Estancarbon
-street: "Avenue du Crabère"
-housenumber: 10
-phone: "+33 5 61 95 85 29"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://jca-community.fr/"
+street: Avenue du Crabère
+housenumber: "10"
+phone: +33 5 61 95 85 29
+opening_hours: Mo-Sa 09:00-19:30
+website: https://jca-community.fr/

@@ -4,8 +4,8 @@ latitude: 43.92822
 longitude: 2.14163
 postcode: "81000"
 city: Albi
-street: "Place de la Trébaille"
-housenumber: 3
-phone: "+33 5 63 49 72 48"
-opening_hours: "Tu-Sa 09:00-19:00"
-website: "https://hippomer.fr/"
+street: Place de la Trébaille
+housenumber: "3"
+phone: +33 5 63 49 72 48
+opening_hours: Tu-Sa 09:00-19:00
+website: https://hippomer.fr/

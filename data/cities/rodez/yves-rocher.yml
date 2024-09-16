@@ -4,8 +4,8 @@ latitude: 44.35055
 longitude: 2.57544
 postcode: "12000"
 city: Rodez
-street: "Rue du Touat"
-housenumber: 20
+street: Rue du Touat
+housenumber: "20"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:30-19:00"
-website: "https://www.yves-rocher.fr/tout-sur-les-magasins/occitanie/rodez/rodez/S-FRYROC162"
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:30-19:00
+website: https://www.yves-rocher.fr/tout-sur-les-magasins/occitanie/rodez/rodez/S-FRYROC162

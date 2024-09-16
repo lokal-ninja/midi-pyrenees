@@ -1,11 +1,11 @@
 id: 65481101
-type: way
+type: node
 latitude: 43.66788
 longitude: 0.59498
 postcode: "32000"
 city: Auch
-street: "Route de Roquelaure"
-housenumber: 
+street: Route de Roquelaure
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:15,14:00-19:00; Sa 09:00-19:00"
-website: "https://www.mr-bricolage.fr/"
+opening_hours: Mo-Fr 09:00-12:15,14:00-19:00; Sa 09:00-19:00
+website: https://www.mr-bricolage.fr/

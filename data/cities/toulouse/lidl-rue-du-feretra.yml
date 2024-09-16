@@ -1,11 +1,11 @@
 id: 63970276
-type: way
+type: node
 latitude: 43.57947
 longitude: 1.44351
 postcode: "31400"
 city: Toulouse
-street: "Rue du Feretra"
-housenumber: 84
-phone: "+33 800 005435"
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.lidl.fr/s/fr-FR/supermarch%C3%A9s/toulouse/84-rue-du-feretra/"
+street: Rue du Feretra
+housenumber: "84"
+phone: +33 800 005435
+opening_hours: Mo-Sa 08:30-20:00
+website: https://www.lidl.fr/s/fr-FR/supermarch%C3%A9s/toulouse/84-rue-du-feretra/

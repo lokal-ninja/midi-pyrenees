@@ -1,11 +1,11 @@
 id: 1051141391
-type: way
+type: node
 latitude: 43.58934
 longitude: 2.26717
 postcode: "81100"
 city: Castres
-street: "Rue Jean Bories"
-housenumber: 26
+street: Rue Jean Bories
+housenumber: "26"
 phone: ""
 opening_hours: ""
-website: "https://www.boulevarddelamode.net/"
+website: https://www.boulevarddelamode.net/

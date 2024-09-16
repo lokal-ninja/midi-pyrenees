@@ -4,8 +4,8 @@ latitude: 43.6398
 longitude: 1.46621
 postcode: "31200"
 city: Toulouse
-street: "Route d'Albi"
-housenumber: 164
+street: Route d'Albi
+housenumber: "164"
 phone: ""
-opening_hours: "Mo 14:00-18:00; Tu-Fr 10:00-19:00; Sa 10:00-17:00"
-website: "https://www.institutorchideebleue.com/"
+opening_hours: Mo 14:00-18:00; Tu-Fr 10:00-19:00; Sa 10:00-17:00
+website: https://www.institutorchideebleue.com/

@@ -1,11 +1,11 @@
 id: 128802413
-type: way
+type: node
 latitude: 43.90387
 longitude: 3.17628
 postcode: "12540"
 city: Cornus
-street: "Route des Places"
-housenumber: 479
-phone: "+33 5 65 99 36 58"
+street: Route des Places
+housenumber: "479"
+phone: +33 5 65 99 36 58
 opening_hours: ""
 website: ""

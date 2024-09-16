@@ -1,11 +1,11 @@
 id: 91411179
-type: way
+type: node
 latitude: 43.10891
 longitude: 1.62783
 postcode: "09100"
 city: Pamiers
-street: "Rue André Citroën"
-housenumber: 
-phone: "+33 5 61 67 99 21"
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "https://www.centrakor.com/magasin-centrakor/ctkpamiers/centrakor---zoe-confetti-pamiers-09100.html"
+street: Rue André Citroën
+housenumber: ""
+phone: +33 5 61 67 99 21
+opening_hours: Mo-Sa 08:00-19:00
+website: https://www.centrakor.com/magasin-centrakor/ctkpamiers/centrakor---zoe-confetti-pamiers-09100.html

@@ -1,11 +1,11 @@
 id: 120594227
-type: way
+type: node
 latitude: 43.4983
 longitude: 1.36738
 postcode: "31120"
 city: ROQUETTES
-street: "Rue Clément Ader"
-housenumber: 25
+street: Rue Clément Ader
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

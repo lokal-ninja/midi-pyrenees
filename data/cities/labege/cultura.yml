@@ -1,11 +1,11 @@
 id: 23801485
-type: way
+type: node
 latitude: 43.55271
 longitude: 1.50384
 postcode: "31670"
 city: Labège
-street: "Place du Commerce"
-housenumber: 94
+street: Place du Commerce
+housenumber: "94"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.cultura.com/les-magasins/cultura-labege.html"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.cultura.com/les-magasins/cultura-labege.html

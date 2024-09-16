@@ -1,11 +1,11 @@
 id: 148364806
-type: way
+type: node
 latitude: 44.36312
 longitude: 2.58819
 postcode: "12850"
 city: Onet-le-Château
-street: "route de sévérac"
-housenumber: 14
+street: route de sévérac
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Th 08:30-19:30; Fr 08:30-20:00; Sa 08:30-19:30"
+opening_hours: Mo-Th 08:30-19:30; Fr 08:30-20:00; Sa 08:30-19:30
 website: ""

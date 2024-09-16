@@ -1,11 +1,11 @@
 id: 1008168214
-type: way
+type: node
 latitude: 43.58952
 longitude: 2.26697
 postcode: "81100"
 city: Castres
-street: "Rue Jean Bories"
-housenumber: 24
+street: Rue Jean Bories
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "https://www.action.com/"
+website: https://www.action.com/

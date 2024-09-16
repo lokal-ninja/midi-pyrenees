@@ -4,8 +4,8 @@ latitude: 43.6228
 longitude: 1.46194
 postcode: "31500"
 city: Toulouse
-street: "Avenue de Lavaur"
-housenumber: 76
+street: Avenue de Lavaur
+housenumber: "76"
 phone: ""
-opening_hours: "Mo-Sa 06:30-19:30; Su 06:30-13:00"
+opening_hours: Mo-Sa 06:30-19:30; Su 06:30-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.80479
 longitude: 0.59799
 postcode: "31110"
 city: Bagnères-de-Luchon
-street: "Avenue de Toulouse"
-housenumber: 43
-phone: "+33 5 61 79 14 91"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.batideco-luchon.fr/"
+street: Avenue de Toulouse
+housenumber: "43"
+phone: +33 5 61 79 14 91
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.batideco-luchon.fr/

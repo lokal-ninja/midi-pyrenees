@@ -1,11 +1,11 @@
 id: 445315609
-type: way
+type: node
 latitude: 43.21076
 longitude: 1.08604
 postcode: "31220"
 city: Cazères
-street: "Avenue Pasteur"
-housenumber: 32
+street: Avenue Pasteur
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

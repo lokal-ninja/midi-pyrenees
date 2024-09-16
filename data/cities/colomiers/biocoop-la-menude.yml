@@ -1,11 +1,11 @@
 id: 857815910
-type: way
+type: node
 latitude: 43.59813
 longitude: 1.29345
 postcode: "31770"
 city: Colomiers
-street: "Chemin de la Salvetat"
-housenumber: 45
-phone: "+33 5 32 10 82 56"
-opening_hours: "Mo-Sa 09:00-19:30; Su 09:30-12:30"
-website: "https://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Occitanie2/Haute-Garonne/BIOCOOP-LA-MENUDE"
+street: Chemin de la Salvetat
+housenumber: "45"
+phone: +33 5 32 10 82 56
+opening_hours: Mo-Sa 09:00-19:30; Su 09:30-12:30
+website: https://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Occitanie2/Haute-Garonne/BIOCOOP-LA-MENUDE

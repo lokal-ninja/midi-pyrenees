@@ -4,8 +4,9 @@ latitude: 44.28983
 longitude: 2.55719
 postcode: "12450"
 city: Luc-la-Primaube
-street: "Place du Ségala"
-housenumber: 10
+street: Place du Ségala
+housenumber: "10"
 phone: "+33565694576"
-opening_hours: "Tu-We 09:00-12:00,14:00-18:30; Th  09:00-12:00; Fr 09:00-12:00, 13:30-19:00; Sa 09:00-16:00"
+opening_hours: Tu-We 09:00-12:00,14:00-18:30; Th  09:00-12:00; Fr 09:00-12:00, 13:30-19:00;
+    Sa 09:00-16:00
 website: ""

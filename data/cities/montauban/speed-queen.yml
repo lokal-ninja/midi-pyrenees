@@ -4,8 +4,8 @@ latitude: 44.0202
 longitude: 1.35519
 postcode: "82000"
 city: Montauban
-street: "Grande Rue Villenouvelle"
-housenumber: 54
-phone: "+33 7 67 04 76 97"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "http://laverie-montauban.com"
+street: Grande Rue Villenouvelle
+housenumber: "54"
+phone: +33 7 67 04 76 97
+opening_hours: Mo-Su 07:00-22:00
+website: http://laverie-montauban.com

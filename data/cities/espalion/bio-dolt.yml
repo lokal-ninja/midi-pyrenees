@@ -4,8 +4,8 @@ latitude: 44.52441
 longitude: 2.76542
 postcode: "12500"
 city: Espalion
-street: "Boulevard de Guizard"
-housenumber: 34
-phone: "+33 5 65 44 68 31"
-opening_hours: "Tu-Sa 09:00-12:30,14:15-19:00; Fr 09:00-19:00"
+street: Boulevard de Guizard
+housenumber: "34"
+phone: +33 5 65 44 68 31
+opening_hours: Tu-Sa 09:00-12:30,14:15-19:00; Fr 09:00-19:00
 website: ""

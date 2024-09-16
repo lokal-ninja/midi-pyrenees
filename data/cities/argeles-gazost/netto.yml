@@ -4,8 +4,8 @@ latitude: 43.00029
 longitude: -0.09553
 postcode: "65400"
 city: Argelès-Gazost
-street: "Avenue Pierre de Coubertin"
-housenumber: 4
-phone: "+33 5 62 46 18 02"
-opening_hours: "Mo-Sa 09:00-12:30,14:30-19:30; Su 09:00-12:00"
-website: "https://magasin.netto.fr/237-netto-argeles-gazost"
+street: Avenue Pierre de Coubertin
+housenumber: "4"
+phone: +33 5 62 46 18 02
+opening_hours: Mo-Sa 09:00-12:30,14:30-19:30; Su 09:00-12:00
+website: https://magasin.netto.fr/237-netto-argeles-gazost

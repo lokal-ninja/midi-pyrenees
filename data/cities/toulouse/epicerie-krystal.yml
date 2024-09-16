@@ -4,8 +4,8 @@ latitude: 43.60976
 longitude: 1.44414
 postcode: "31000"
 city: Toulouse
-street: "Boulevard de Strasbourg"
-housenumber: 63
-phone: "+33 5 67 11 15 91"
-opening_hours: "Mo-Su 09:30-21:00"
-website: "https://www.facebook.com/russekrystal/"
+street: Boulevard de Strasbourg
+housenumber: "63"
+phone: +33 5 67 11 15 91
+opening_hours: Mo-Su 09:30-21:00
+website: https://www.facebook.com/russekrystal/

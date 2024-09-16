@@ -1,11 +1,11 @@
 id: 75740288
-type: way
+type: node
 latitude: 44.86216
 longitude: 1.88941
 postcode: "46400"
 city: Saint-Céré
-street: "Boulevard Carnot"
-housenumber: 36
+street: Boulevard Carnot
+housenumber: "36"
 phone: ""
-opening_hours: "Mo,We,Th,Fr,Sa 06:30-13:00,14:30-19:30; Tu closed; Su 06:30-13:00"
+opening_hours: Mo,We,Th,Fr,Sa 06:30-13:00,14:30-19:30; Tu closed; Su 06:30-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.60224
 longitude: 2.25384
 postcode: "81100"
 city: Castres
-street: "Rue Mérigonde"
-housenumber: 24
+street: Rue Mérigonde
+housenumber: "24"
 phone: ""
-opening_hours: "Th 17:00-20:00"
-website: "https://www.larecycle.fr/"
+opening_hours: Th 17:00-20:00
+website: https://www.larecycle.fr/

@@ -1,11 +1,11 @@
 id: 127862709
-type: way
+type: node
 latitude: 44.03991
 longitude: 1.38415
 postcode: "82000"
 city: Montauban
-street: "Rue Romy Schneider"
-housenumber: 
+street: Rue Romy Schneider
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

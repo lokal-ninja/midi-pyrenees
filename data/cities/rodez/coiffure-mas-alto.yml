@@ -4,8 +4,9 @@ latitude: 44.35719
 longitude: 2.55856
 postcode: "12000"
 city: Rodez
-street: "Avenue Jean Monnet"
-housenumber: 7
+street: Avenue Jean Monnet
+housenumber: "7"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Th 09:00-19:00; Fr 09:00-21:00; Sa 09:00-19:00; Su off"
+opening_hours: Mo 14:00-19:00; Tu-Th 09:00-19:00; Fr 09:00-21:00; Sa 09:00-19:00;
+    Su off
 website: ""

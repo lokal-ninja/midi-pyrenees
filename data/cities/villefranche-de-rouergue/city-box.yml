@@ -1,11 +1,11 @@
 id: 239064750
-type: way
+type: node
 latitude: 44.36024
 longitude: 2.01275
 postcode: "12200"
 city: Villefranche-de-Rouergue
-street: "Route de Montauban"
-housenumber: 
-phone: "+33 5 65 45 75 93"
-opening_hours: "09:30 - 12:00, 14:00 - 19:00"
-website: "https://www.facebook.com/CityBox-1712682308969084/"
+street: Route de Montauban
+housenumber: ""
+phone: +33 5 65 45 75 93
+opening_hours: 09:30 - 12:00, 14:00 - 19:00
+website: https://www.facebook.com/CityBox-1712682308969084/

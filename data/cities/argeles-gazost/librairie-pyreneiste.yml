@@ -4,8 +4,8 @@ latitude: 43.00489
 longitude: -0.10091
 postcode: "65400"
 city: Argelès-Gazost
-street: "Place de la République"
-housenumber: 28
-phone: "+33 5 62 97 18 25"
-opening_hours: "Mo-Sa 09:00-12:00,14:30-19:00"
+street: Place de la République
+housenumber: "28"
+phone: +33 5 62 97 18 25
+opening_hours: Mo-Sa 09:00-12:00,14:30-19:00
 website: ""

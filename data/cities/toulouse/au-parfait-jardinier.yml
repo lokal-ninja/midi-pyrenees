@@ -4,8 +4,8 @@ latitude: 43.5999
 longitude: 1.44213
 postcode: "31000"
 city: Toulouse
-street: "Rue de Metz"
-housenumber: 16
-phone: "+33 5 61 53 99 47"
-opening_hours: "Mo-Sa 09:00-12:30,14:00-19:00"
-website: "https://www.jardinerie-esquirol.fr/"
+street: Rue de Metz
+housenumber: "16"
+phone: +33 5 61 53 99 47
+opening_hours: Mo-Sa 09:00-12:30,14:00-19:00
+website: https://www.jardinerie-esquirol.fr/

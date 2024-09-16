@@ -4,8 +4,8 @@ latitude: 44.36059
 longitude: 2.58329
 postcode: "12000"
 city: Rodez
-street: "Avenue de Paris"
-housenumber: 34
+street: Avenue de Paris
+housenumber: "34"
 phone: ""
-opening_hours: "Tu-Sa 09:00-12:00,14:00-19:00"
+opening_hours: Tu-Sa 09:00-12:00,14:00-19:00
 website: ""

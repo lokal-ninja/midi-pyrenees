@@ -1,11 +1,11 @@
 id: 462602236
-type: way
+type: node
 latitude: 43.47408
 longitude: 1.33216
 postcode: "31600"
 city: Muret
-street: "Avenue de l'Europe"
-housenumber: 49
-phone: "+33 5 61 51 94 00"
+street: Avenue de l'Europe
+housenumber: "49"
+phone: +33 5 61 51 94 00
 opening_hours: ""
 website: ""

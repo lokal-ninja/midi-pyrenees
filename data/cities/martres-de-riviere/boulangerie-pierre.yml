@@ -1,11 +1,11 @@
 id: 175574938
-type: way
+type: node
 latitude: 43.07973
 longitude: 0.64373
 postcode: "31210"
 city: Martres-de-Rivière
-street: "Avenue de Luchon"
-housenumber: 12
-phone: "+33 5 61 88 50 65"
-opening_hours: "Tu-Su 05:30-19:00"
+street: Avenue de Luchon
+housenumber: "12"
+phone: +33 5 61 88 50 65
+opening_hours: Tu-Su 05:30-19:00
 website: ""

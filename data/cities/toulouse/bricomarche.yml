@@ -4,8 +4,8 @@ latitude: 43.61119
 longitude: 1.43615
 postcode: "31000"
 city: Toulouse
-street: "Esplanade Compans Caffarelli"
-housenumber: 3
-phone: "+33 5 34 44 63 40"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://magasins.bricomarche.com/magasin-bricolage/toulouse/07846"
+street: Esplanade Compans Caffarelli
+housenumber: "3"
+phone: +33 5 34 44 63 40
+opening_hours: Mo-Sa 09:00-20:00
+website: https://magasins.bricomarche.com/magasin-bricolage/toulouse/07846

@@ -4,8 +4,8 @@ latitude: 44.01462
 longitude: 1.35477
 postcode: "82000"
 city: Montauban
-street: "Rue de la Porte du Moustier"
-housenumber: 3
+street: Rue de la Porte du Moustier
+housenumber: "3"
 phone: "+33581983002"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://www.occitroll.com/"
+opening_hours: Tu-Sa 10:00-19:00
+website: https://www.occitroll.com/

@@ -1,11 +1,11 @@
 id: 1081542261
-type: way
+type: node
 latitude: 44.59731
 longitude: 1.97205
 postcode: "46100"
 city: Camboulit
-street: "Pont du Drauzou"
-housenumber: 
-phone: "+33 5 65 34 38 52"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-19:00"
+street: Pont du Drauzou
+housenumber: ""
+phone: +33 5 65 34 38 52
+opening_hours: Mo-Sa 09:00-12:00,14:00-19:00
 website: ""

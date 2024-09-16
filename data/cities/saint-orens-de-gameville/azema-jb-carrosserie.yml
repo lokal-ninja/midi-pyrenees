@@ -4,8 +4,8 @@ latitude: 43.56333
 longitude: 1.51485
 postcode: "31650"
 city: Saint-Orens-de-Gameville
-street: "Avenue de Toulouse"
-housenumber: 10
+street: Avenue de Toulouse
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:00-17:15"
+opening_hours: Mo-Fr 08:00-12:00,14:00-17:15
 website: ""

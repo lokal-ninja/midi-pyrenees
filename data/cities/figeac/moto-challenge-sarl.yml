@@ -1,11 +1,11 @@
 id: 953050616
-type: way
+type: node
 latitude: 44.60951
 longitude: 2.01939
 postcode: "46100"
 city: Figeac
-street: "avenue Bernard Fontanges"
-housenumber: 10
+street: avenue Bernard Fontanges
+housenumber: "10"
 phone: "+33565500932"
 opening_hours: ""
-website: "https://motochallengecycles.site-solocal.com/"
+website: https://motochallengecycles.site-solocal.com/

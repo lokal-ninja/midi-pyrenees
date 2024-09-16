@@ -4,8 +4,8 @@ latitude: 42.86438
 longitude: 1.20108
 postcode: "09140"
 city: Seix
-street: "Rue Pujole"
-housenumber: 5
+street: Rue Pujole
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-We, Fr-Su 09:00-12:15, 15:30-19:00"
+opening_hours: Mo-We, Fr-Su 09:00-12:15, 15:30-19:00
 website: ""

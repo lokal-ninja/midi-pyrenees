@@ -4,8 +4,9 @@ latitude: 44.03209
 longitude: 1.37626
 postcode: "82000"
 city: Montauban
-street: "Rue Voltaire"
-housenumber: 1
-phone: "+33 5 63 63 00 00"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00; Su,Mo,PH off"
-website: "http://k-extreme.com"
+street: Rue Voltaire
+housenumber: "1"
+phone: +33 5 63 63 00 00
+opening_hours: Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00; Su,Mo,PH
+    off
+website: http://k-extreme.com

@@ -1,11 +1,11 @@
 id: 408318566
-type: way
+type: node
 latitude: 43.69051
 longitude: 2.42531
 postcode: "81330"
 city: Vabre
-street: "Route du Sidobre"
-housenumber: 7
+street: Route du Sidobre
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

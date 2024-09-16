@@ -1,11 +1,11 @@
 id: 1202699926
-type: way
+type: node
 latitude: 44.42161
 longitude: 1.43815
 postcode: "46000"
 city: Cahors
-street: "Route de Toulouse"
-housenumber: 
+street: Route de Toulouse
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

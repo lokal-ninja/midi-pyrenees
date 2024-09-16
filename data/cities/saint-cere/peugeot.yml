@@ -4,8 +4,8 @@ latitude: 44.86194
 longitude: 1.88175
 postcode: "46400"
 city: Saint-Céré
-street: "Avenue de l'Europe"
-housenumber: 
+street: Avenue de l'Europe
+housenumber: ""
 phone: "+33565108837"
-opening_hours: "Mo 14:00-18:00; Tu-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00"
-website: "https://agents.peugeot.fr/saint-cere"
+opening_hours: Mo 14:00-18:00; Tu-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00
+website: https://agents.peugeot.fr/saint-cere

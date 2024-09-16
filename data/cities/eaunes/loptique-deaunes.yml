@@ -4,8 +4,8 @@ latitude: 43.42771
 longitude: 1.35474
 postcode: "31600"
 city: Eaunes
-street: "Place Jean Mermoz"
-housenumber: 2
-phone: "+33 5 61 56 94 85"
-opening_hours: "Tu-Fr 09:15-12:15, 14:00-19:00; Sa 09:15-12:15, 14:00-18:00"
-website: "https://www.optique-eaunes.fr"
+street: Place Jean Mermoz
+housenumber: "2"
+phone: +33 5 61 56 94 85
+opening_hours: Tu-Fr 09:15-12:15, 14:00-19:00; Sa 09:15-12:15, 14:00-18:00
+website: https://www.optique-eaunes.fr

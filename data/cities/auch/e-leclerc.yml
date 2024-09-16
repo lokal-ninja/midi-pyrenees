@@ -1,11 +1,11 @@
 id: 65468061
-type: way
+type: node
 latitude: 43.664
 longitude: 0.59113
 postcode: "32000"
 city: Auch
-street: "Rue François Mauriac"
-housenumber: 3
-phone: "+33 562614282"
+street: Rue François Mauriac
+housenumber: "3"
+phone: +33 562614282
 opening_hours: ""
 website: ""

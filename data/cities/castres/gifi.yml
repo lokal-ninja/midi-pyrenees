@@ -1,11 +1,11 @@
 id: 422239349
-type: way
+type: node
 latitude: 43.59377
 longitude: 2.26464
 postcode: "81100"
 city: Castres
-street: "Rue Ignace Schabaver"
-housenumber: 12
-phone: "+33 5 63 35 13 72"
+street: Rue Ignace Schabaver
+housenumber: "12"
+phone: +33 5 63 35 13 72
 opening_hours: ""
-website: "https://www.gifi.fr/"
+website: https://www.gifi.fr/

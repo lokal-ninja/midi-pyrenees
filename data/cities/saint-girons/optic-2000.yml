@@ -4,8 +4,8 @@ latitude: 42.98599
 longitude: 1.1431
 postcode: "09200"
 city: Saint-Girons
-street: "Avenue François Camel"
-housenumber: 6
-phone: "+33 5 61 04 49 14"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00"
-website: "https://opticiens.optic2000.com/opticien-saint-girons-09200-1286"
+street: Avenue François Camel
+housenumber: "6"
+phone: +33 5 61 04 49 14
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00
+website: https://opticiens.optic2000.com/opticien-saint-girons-09200-1286

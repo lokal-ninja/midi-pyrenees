@@ -1,11 +1,11 @@
 id: 35939527
-type: way
+type: node
 latitude: 43.57943
 longitude: 1.48166
 postcode: "31400"
 city: Toulouse
-street: "Avenue Saint-Exupéry"
-housenumber: 262
-phone: "+33 5 61 20 77 01"
-opening_hours: "Mo-Sa 09:00-19:30; Su 09:00-12:45"
-website: "https://www.picard.fr/"
+street: Avenue Saint-Exupéry
+housenumber: "262"
+phone: +33 5 61 20 77 01
+opening_hours: Mo-Sa 09:00-19:30; Su 09:00-12:45
+website: https://www.picard.fr/

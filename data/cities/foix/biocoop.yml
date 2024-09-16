@@ -4,8 +4,8 @@ latitude: 42.96474
 longitude: 1.60924
 postcode: "09000"
 city: Foix
-street: "Rue Saint-Vincent"
-housenumber: 20
+street: Rue Saint-Vincent
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Th, Sa 10:00-13:00, 15:00-19:00; Fr 09:30-19:00"
-website: "https://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Occitanie2/Ariege/BIOCOOP-MIRABELLE"
+opening_hours: Mo-Th, Sa 10:00-13:00, 15:00-19:00; Fr 09:30-19:00
+website: https://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Occitanie2/Ariege/BIOCOOP-MIRABELLE

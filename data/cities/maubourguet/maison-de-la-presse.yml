@@ -4,8 +4,8 @@ latitude: 43.46835
 longitude: 0.03583
 postcode: "65700"
 city: Maubourguet
-street: "Rue Georges Clemenceau"
-housenumber: 211
-phone: "+33 5 62 96 32 33"
-opening_hours: "Mo-Fr 06:45-12:30,14:00-19:30; Sa 07:00-12:30,14:00-19:00"
+street: Rue Georges Clemenceau
+housenumber: "211"
+phone: +33 5 62 96 32 33
+opening_hours: Mo-Fr 06:45-12:30,14:00-19:30; Sa 07:00-12:30,14:00-19:00
 website: ""

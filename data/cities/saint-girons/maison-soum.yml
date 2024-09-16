@@ -4,8 +4,8 @@ latitude: 42.98485
 longitude: 1.14529
 postcode: "09200"
 city: Saint-Girons
-street: "Place Pasteur"
-housenumber: 1
-phone: "+33 5 61 04 83 88"
-opening_hours: "Mo-Tu,Th-Su 06:30-13:00"
+street: Place Pasteur
+housenumber: "1"
+phone: +33 5 61 04 83 88
+opening_hours: Mo-Tu,Th-Su 06:30-13:00
 website: ""

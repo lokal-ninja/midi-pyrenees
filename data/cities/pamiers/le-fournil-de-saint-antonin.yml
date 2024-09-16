@@ -1,11 +1,11 @@
 id: 91408812
-type: way
+type: node
 latitude: 43.11126
 longitude: 1.61363
 postcode: "09100"
 city: Pamiers
-street: "Rue du Maréchal Clauzel"
-housenumber: 2
-phone: "+33 5 61 62 43 35"
+street: Rue du Maréchal Clauzel
+housenumber: "2"
+phone: +33 5 61 62 43 35
 opening_hours: ""
 website: ""

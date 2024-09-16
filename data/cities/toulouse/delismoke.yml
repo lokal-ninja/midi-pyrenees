@@ -4,8 +4,8 @@ latitude: 43.60241
 longitude: 1.44473
 postcode: "31000"
 city: Toulouse
-street: "Rue des Puits-Clos"
-housenumber: 17
-phone: "+33 5 82 75 14 38"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.delismoke.com/"
+street: Rue des Puits-Clos
+housenumber: "17"
+phone: +33 5 82 75 14 38
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.delismoke.com/

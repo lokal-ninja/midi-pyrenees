@@ -4,8 +4,9 @@ latitude: 43.92961
 longitude: 2.19201
 postcode: "81000"
 city: Albi
-street: "Rue Jean Henri Fabre"
-housenumber: 3
-phone: "+33 5 63 79 01 20"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00; Su,Mo,PH off"
-website: "https://ktm-albi.fr"
+street: Rue Jean Henri Fabre
+housenumber: "3"
+phone: +33 5 63 79 01 20
+opening_hours: Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00; Su,Mo,PH
+    off
+website: https://ktm-albi.fr

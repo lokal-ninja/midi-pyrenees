@@ -4,8 +4,9 @@ latitude: 43.51507
 longitude: 1.32449
 postcode: "31270"
 city: Frouzins
-street: "Rue de la République"
+street: Rue de la République
 housenumber: 26 bis
-phone: "+33 7 49 72 75 10"
-opening_hours: "Mo closed; Tu-Th 10:00-12:30; 15:00-18:30; Fr 10:00-17:00; Sa 09:30-12:30; 15:00-18:30; Su 09:30-12:30; PH unknown"
+phone: +33 7 49 72 75 10
+opening_hours: Mo closed; Tu-Th 10:00-12:30; 15:00-18:30; Fr 10:00-17:00; Sa 09:30-12:30;
+    15:00-18:30; Su 09:30-12:30; PH unknown
 website: ""

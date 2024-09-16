@@ -1,11 +1,11 @@
 id: 72246746
-type: way
+type: node
 latitude: 43.66654
 longitude: 1.44095
 postcode: "31140"
 city: Launaguet
-street: "Chemin de Boudou"
-housenumber: 184
+street: Chemin de Boudou
+housenumber: "184"
 phone: ""
-opening_hours: "Mo 14:30-19:30; Tu-Sa 09:30-19:30"
-website: "https://www.sobio.fr/magasin/launaguet"
+opening_hours: Mo 14:30-19:30; Tu-Sa 09:30-19:30
+website: https://www.sobio.fr/magasin/launaguet

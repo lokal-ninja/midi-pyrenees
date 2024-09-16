@@ -1,11 +1,11 @@
 id: 91980616
-type: way
+type: node
 latitude: 43.93402
 longitude: 0.62373
 postcode: "32700"
 city: Lectoure
-street: "Rue Nationale"
-housenumber: 7
+street: Rue Nationale
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

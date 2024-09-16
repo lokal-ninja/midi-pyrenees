@@ -4,8 +4,8 @@ latitude: 43.61382
 longitude: 1.44546
 postcode: "31000"
 city: Toulouse
-street: "Rue du Printemps"
-housenumber: 18
-phone: "+33 9 72 61 57 49"
-opening_hours: "Tu-Sa 09:30-13:30,15:00-18:30"
-website: "https://bicyclit.fr"
+street: Rue du Printemps
+housenumber: "18"
+phone: +33 9 72 61 57 49
+opening_hours: Tu-Sa 09:30-13:30,15:00-18:30
+website: https://bicyclit.fr

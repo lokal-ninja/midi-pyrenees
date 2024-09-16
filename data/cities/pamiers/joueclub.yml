@@ -1,11 +1,11 @@
 id: 561011725
-type: way
+type: node
 latitude: 43.10619
 longitude: 1.62977
 postcode: "09100"
 city: Pamiers
-street: "Avenue de la Bouriette"
-housenumber: 
+street: Avenue de la Bouriette
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.joueclub.fr/magasin/joueclub-pamiers.html"
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.joueclub.fr/magasin/joueclub-pamiers.html

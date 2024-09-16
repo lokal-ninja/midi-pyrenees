@@ -1,11 +1,11 @@
 id: 190358886
-type: way
+type: node
 latitude: 43.63248
 longitude: 2.27922
 postcode: "81100"
 city: Burlats
-street: "Avenue du Sidobre"
-housenumber: 30
-phone: "+33 5 63 51 87 41"
+street: Avenue du Sidobre
+housenumber: "30"
+phone: +33 5 63 51 87 41
 opening_hours: ""
 website: ""

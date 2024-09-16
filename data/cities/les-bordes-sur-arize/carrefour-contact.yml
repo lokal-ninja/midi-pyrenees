@@ -1,11 +1,11 @@
 id: 389558873
-type: way
+type: node
 latitude: 43.10763
 longitude: 1.37459
 postcode: "09350"
 city: Les Bordes-sur-Arize
-street: "Allée de Marveille"
-housenumber: 
-phone: "+33 5 61 68 89 81"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/contact-les-bordes-sur-arize"
+street: Allée de Marveille
+housenumber: ""
+phone: +33 5 61 68 89 81
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/contact-les-bordes-sur-arize

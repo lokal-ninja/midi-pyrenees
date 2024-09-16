@@ -4,8 +4,8 @@ latitude: 44.46091
 longitude: 1.44824
 postcode: "46000"
 city: Cahors
-street: "Route du Payrat"
-housenumber: 851
+street: Route du Payrat
+housenumber: "851"
 phone: "+33952509807"
-opening_hours: "9h-12h et 14h/19h"
+opening_hours: 9h-12h et 14h/19h
 website: ""

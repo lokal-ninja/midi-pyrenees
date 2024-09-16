@@ -4,8 +4,8 @@ latitude: 43.62915
 longitude: 1.43274
 postcode: "31200"
 city: Toulouse
-street: "Avenue des États-Unis"
-housenumber: 43
-phone: "+33 9 83 69 10 41"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://librairielechameausauvage.fr/"
+street: Avenue des États-Unis
+housenumber: "43"
+phone: +33 9 83 69 10 41
+opening_hours: Tu-Sa 10:00-19:00
+website: https://librairielechameausauvage.fr/

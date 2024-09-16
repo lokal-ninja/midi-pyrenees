@@ -4,8 +4,8 @@ latitude: 43.58584
 longitude: 1.41271
 postcode: "31100"
 city: Toulouse
-street: "Rue Jules Tellier"
-housenumber: 2
+street: Rue Jules Tellier
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 14:00-18:00; Sa 10:00-12:00"
-website: "https://www.toulousecomposants.fr/"
+opening_hours: Mo-Fr 14:00-18:00; Sa 10:00-12:00
+website: https://www.toulousecomposants.fr/

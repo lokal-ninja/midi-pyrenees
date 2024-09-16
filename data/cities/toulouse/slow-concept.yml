@@ -4,8 +4,8 @@ latitude: 43.60192
 longitude: 1.44228
 postcode: "31000"
 city: Toulouse
-street: "Rue Sainte-Ursule"
-housenumber: 10
-phone: "+33 5 81 60 34 12"
-opening_hours: "Tu-Sa 10:30-13:30,14:10-19:00"
-website: "https://www.slowconcept.fr/"
+street: Rue Sainte-Ursule
+housenumber: "10"
+phone: +33 5 81 60 34 12
+opening_hours: Tu-Sa 10:30-13:30,14:10-19:00
+website: https://www.slowconcept.fr/

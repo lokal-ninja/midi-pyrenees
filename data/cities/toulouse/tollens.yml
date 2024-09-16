@@ -4,8 +4,8 @@ latitude: 43.61315
 longitude: 1.41947
 postcode: "31200"
 city: Toulouse
-street: "Boulevard de Suisse"
-housenumber: 25
+street: Boulevard de Suisse
+housenumber: "25"
 phone: "0562720720"
 opening_hours: ""
-website: "https://tollens.com/"
+website: https://tollens.com/

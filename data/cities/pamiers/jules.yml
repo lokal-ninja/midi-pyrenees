@@ -1,11 +1,11 @@
 id: 561011726
-type: way
+type: node
 latitude: 43.10403
 longitude: 1.62968
 postcode: "09100"
 city: Pamiers
-street: "Avenue de la Bouriette"
-housenumber: 
-phone: "+33 5 61 68 06 64"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.jules.com/fr/infos-magasin?storeid=160014003"
+street: Avenue de la Bouriette
+housenumber: ""
+phone: +33 5 61 68 06 64
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.jules.com/fr/infos-magasin?storeid=160014003

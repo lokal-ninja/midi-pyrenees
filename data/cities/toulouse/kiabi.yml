@@ -1,11 +1,11 @@
 id: 76301394
-type: way
+type: node
 latitude: 43.63031
 longitude: 1.48147
 postcode: "31200"
 city: Toulouse
-street: "Chemin de Gabardie"
-housenumber: 17
+street: Chemin de Gabardie
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

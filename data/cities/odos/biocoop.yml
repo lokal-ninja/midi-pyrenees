@@ -4,8 +4,8 @@ latitude: 43.20991
 longitude: 0.04736
 postcode: "65310"
 city: Odos
-street: "Avenue de Lourdes"
-housenumber: 77
+street: Avenue de Lourdes
+housenumber: "77"
 phone: ""
-opening_hours: "closed"
-website: "https://legrandpic.biocoop.net/"
+opening_hours: closed
+website: https://legrandpic.biocoop.net/

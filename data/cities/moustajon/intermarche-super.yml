@@ -1,11 +1,11 @@
 id: 287637478
-type: way
+type: node
 latitude: 42.80886
 longitude: 0.59912
 postcode: "31110"
 city: Moustajon
 street: ""
-housenumber: 
-phone: "+33 5 61 79 24 00"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.intermarche.com"
+housenumber: ""
+phone: +33 5 61 79 24 00
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.intermarche.com

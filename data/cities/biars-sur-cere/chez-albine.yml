@@ -1,11 +1,11 @@
 id: 302582911
-type: way
+type: node
 latitude: 44.92704
 longitude: 1.84453
 postcode: "46130"
 city: Biars-sur-Cère
-street: "Rue de la Gare"
-housenumber: 6
+street: Rue de la Gare
+housenumber: "6"
 phone: ""
-opening_hours: "ouvert"
+opening_hours: ouvert
 website: ""

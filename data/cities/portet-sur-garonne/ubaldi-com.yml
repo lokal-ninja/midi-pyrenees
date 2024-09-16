@@ -1,11 +1,11 @@
 id: 84383802
-type: way
+type: node
 latitude: 43.53431
 longitude: 1.40719
 postcode: "31120"
 city: Portet-sur-Garonne
-street: "Avenue des Palanques"
-housenumber: 4
-phone: "08 25 33 33 33"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.ubaldi.com/magasins/occitanie/portet-sur-garonne/multistore/59-multistore-toulouse"
+street: Avenue des Palanques
+housenumber: "4"
+phone: 08 25 33 33 33
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.ubaldi.com/magasins/occitanie/portet-sur-garonne/multistore/59-multistore-toulouse

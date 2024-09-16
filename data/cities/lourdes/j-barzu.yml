@@ -1,11 +1,11 @@
 id: 68862925
-type: way
+type: node
 latitude: 43.0938
 longitude: -0.04781
 postcode: ""
 city: Lourdes
-street: "Place du Champ Commun"
-housenumber: 
+street: Place du Champ Commun
+housenumber: ""
 phone: ""
-opening_hours: "Tu-Sa 08:00-13:00,17:00-20:00"
+opening_hours: Tu-Sa 08:00-13:00,17:00-20:00
 website: ""

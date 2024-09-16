@@ -4,8 +4,8 @@ latitude: 43.63621
 longitude: 1.50142
 postcode: "31130"
 city: Balma
-street: "Rue Tony Garnier"
-housenumber: 5
+street: Rue Tony Garnier
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-12:30"
-website: "https://www.grandfrais.com/balma/magasin-244.html"
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-12:30
+website: https://www.grandfrais.com/balma/magasin-244.html

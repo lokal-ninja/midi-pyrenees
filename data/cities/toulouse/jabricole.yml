@@ -4,8 +4,8 @@ latitude: 43.61369
 longitude: 1.43936
 postcode: "31000"
 city: Toulouse
-street: "Rue Godolin"
-housenumber: 9
-phone: "+33 9 77 72 26 13"
-opening_hours: "Tu-Sa 10:30-12:30,14:00-19:00"
+street: Rue Godolin
+housenumber: "9"
+phone: +33 9 77 72 26 13
+opening_hours: Tu-Sa 10:30-12:30,14:00-19:00
 website: ""

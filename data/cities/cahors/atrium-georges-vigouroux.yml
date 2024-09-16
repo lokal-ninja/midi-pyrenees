@@ -1,11 +1,11 @@
 id: 71443228
-type: way
+type: node
 latitude: 44.41639
 longitude: 1.43748
 postcode: "46003"
 city: Cahors
-street: "Route de Toulouse"
+street: Route de Toulouse
 housenumber: CS20159
-phone: "+33 5 65 20 80 90"
-opening_hours: "Mo-Sa 09:30-19:30; Su 09:30-17:30"
-website: "https://www.atrium-vigouroux.fr/"
+phone: +33 5 65 20 80 90
+opening_hours: Mo-Sa 09:30-19:30; Su 09:30-17:30
+website: https://www.atrium-vigouroux.fr/

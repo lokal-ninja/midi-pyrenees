@@ -1,11 +1,11 @@
 id: 783186881
-type: way
+type: node
 latitude: 44.17593
 longitude: 1.27614
 postcode: "82220"
 city: Vazerac
-street: "Route de Lafrançaise"
-housenumber: 1599
-phone: "+33 5 63 67 78 09"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00"
-website: "http://magasin.gammvert.fr/611831-gamm-vert-village-de-vazerac"
+street: Route de Lafrançaise
+housenumber: "1599"
+phone: +33 5 63 67 78 09
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00
+website: http://magasin.gammvert.fr/611831-gamm-vert-village-de-vazerac

@@ -4,8 +4,8 @@ latitude: 43.46259
 longitude: 1.32479
 postcode: "31600"
 city: Muret
-street: "Avenue Jacques Douzans"
-housenumber: 25
-phone: "+33 5 61 51 08 75"
-opening_hours: "Tu-Sa 09:30-12:30,14:00-19:00"
+street: Avenue Jacques Douzans
+housenumber: "25"
+phone: +33 5 61 51 08 75
+opening_hours: Tu-Sa 09:30-12:30,14:00-19:00
 website: ""

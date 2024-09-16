@@ -1,11 +1,11 @@
 id: 270139919
-type: way
+type: node
 latitude: 43.17677
 longitude: 0.23988
 postcode: "65190"
 city: Tournay
-street: "avenue de Bagnères"
-housenumber: 25
-phone: "+33 5 62 35 77 54"
-opening_hours: "Mo-Sa 08:00-20:00, Su 9:00-12:45"
-website: "https://www.carrefour.fr/magasin/contact-tournay"
+street: avenue de Bagnères
+housenumber: "25"
+phone: +33 5 62 35 77 54
+opening_hours: Mo-Sa 08:00-20:00, Su 9:00-12:45
+website: https://www.carrefour.fr/magasin/contact-tournay

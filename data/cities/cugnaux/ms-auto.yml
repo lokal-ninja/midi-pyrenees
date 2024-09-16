@@ -4,8 +4,8 @@ latitude: 43.52994
 longitude: 1.35065
 postcode: "31270"
 city: Cugnaux
-street: "Avenue Georges Pompidou"
-housenumber: 2
-phone: "+33 5 61 92 76 52"
-opening_hours: "Mo-Fr 08:00-12:00/14:00-18:00"
+street: Avenue Georges Pompidou
+housenumber: "2"
+phone: +33 5 61 92 76 52
+opening_hours: Mo-Fr 08:00-12:00/14:00-18:00
 website: ""

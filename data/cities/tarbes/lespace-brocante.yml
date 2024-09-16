@@ -4,8 +4,8 @@ latitude: 43.2429
 longitude: 0.0845
 postcode: "65000"
 city: Tarbes
-street: "Rue des forges"
-housenumber: 27
-phone: "+33 9 53 727 527"
-opening_hours: "Tu-Sa 10:00-12:00,14:00-18:00"
-website: "https://www.recycleriedesforges.fr/galerie-122-espace-brocante-de-la-recyclerie-des-forges.html"
+street: Rue des forges
+housenumber: "27"
+phone: +33 9 53 727 527
+opening_hours: Tu-Sa 10:00-12:00,14:00-18:00
+website: https://www.recycleriedesforges.fr/galerie-122-espace-brocante-de-la-recyclerie-des-forges.html

@@ -4,8 +4,8 @@ latitude: 43.59133
 longitude: 1.47962
 postcode: "31500"
 city: Toulouse
-street: "Place Auguste-Albert"
-housenumber: 1
-phone: "05 62 16 17 91"
-opening_hours: "Mo-Sa 08:00-19:00"
+street: Place Auguste-Albert
+housenumber: "1"
+phone: 05 62 16 17 91
+opening_hours: Mo-Sa 08:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 44.85997
 longitude: 1.88342
 postcode: "46400"
 city: Saint-Céré
-street: "Avenue Anatole de Monzie"
-housenumber: 3
+street: Avenue Anatole de Monzie
+housenumber: "3"
 phone: "+33565382010"
-opening_hours: "Mo-Th 08:00-12:00,14:00-18:00; Fr 08:00-12:00,14:00-17:00"
-website: "https://renault-dacia-st-cere.autotransac.fr/"
+opening_hours: Mo-Th 08:00-12:00,14:00-18:00; Fr 08:00-12:00,14:00-17:00
+website: https://renault-dacia-st-cere.autotransac.fr/

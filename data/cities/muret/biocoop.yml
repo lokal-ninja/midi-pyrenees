@@ -1,11 +1,11 @@
 id: 81402401
-type: way
+type: node
 latitude: 43.47886
 longitude: 1.33609
 postcode: "31600"
 city: Muret
-street: "Boulevard de Joffrery"
-housenumber: 20
-phone: "+33 5 34 56 64 01"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://muret.biocoop.net/"
+street: Boulevard de Joffrery
+housenumber: "20"
+phone: +33 5 34 56 64 01
+opening_hours: Mo-Sa 09:00-19:30
+website: https://muret.biocoop.net/

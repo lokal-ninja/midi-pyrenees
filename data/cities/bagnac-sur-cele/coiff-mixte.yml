@@ -1,11 +1,11 @@
 id: 397071962
-type: way
+type: node
 latitude: 44.66665
 longitude: 2.15828
 postcode: "46270"
 city: Bagnac-sur-Célé
-street: "Avenue Joseph Canteloube"
-housenumber: 35
-phone: "+33 5 65 34 95 43"
+street: Avenue Joseph Canteloube
+housenumber: "35"
+phone: +33 5 65 34 95 43
 opening_hours: ""
 website: ""

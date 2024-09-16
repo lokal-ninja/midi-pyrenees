@@ -5,7 +5,7 @@ longitude: 2.60194
 postcode: "12850"
 city: Onet-le-Château
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.micromania.fr/magasin?storeid=ZD"
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.micromania.fr/magasin?storeid=ZD

@@ -1,11 +1,11 @@
 id: 84377845
-type: way
+type: node
 latitude: 43.53169
 longitude: 1.38389
 postcode: "31120"
 city: Portet-sur-Garonne
-street: "Avenue de la Saudrune"
-housenumber: 3
-phone: "+335 61 72 85 95"
-opening_hours: "Mo-Th 08:30-12:00,14:00-18:00; Fr 08:30-18:00"
-website: "https://www.apidistribution.fr/"
+street: Avenue de la Saudrune
+housenumber: "3"
+phone: +335 61 72 85 95
+opening_hours: Mo-Th 08:30-12:00,14:00-18:00; Fr 08:30-18:00
+website: https://www.apidistribution.fr/

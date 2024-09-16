@@ -1,11 +1,11 @@
 id: 271410190
-type: way
+type: node
 latitude: 43.91594
 longitude: 1.27215
 postcode: "82700"
 city: Montbartier
-street: "Route du Canal"
-housenumber: 193
+street: Route du Canal
+housenumber: "193"
 phone: ""
-opening_hours: "Th-Sa 18:00-21:00"
+opening_hours: Th-Sa 18:00-21:00
 website: ""

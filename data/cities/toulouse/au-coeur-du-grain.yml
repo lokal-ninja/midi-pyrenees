@@ -4,8 +4,8 @@ latitude: 43.60417
 longitude: 1.45409
 postcode: "31000"
 city: Toulouse
-street: "Rue Pierre Paul Riquet"
-housenumber: 47
+street: Rue Pierre Paul Riquet
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Th 08:00-21:00; Fr 08:00-15:00; Su 07:30-20:00"
+opening_hours: Mo-Th 08:00-21:00; Fr 08:00-15:00; Su 07:30-20:00
 website: ""

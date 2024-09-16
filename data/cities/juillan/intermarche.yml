@@ -1,11 +1,11 @@
 id: 359434130
-type: way
+type: node
 latitude: 43.20017
 longitude: 0.03623
 postcode: "65290"
 city: Juillan
-street: "Route de Lourdes"
-housenumber: 13
-phone: "+33 5 62 32 97 97"
-opening_hours: "Mo-Sa 08:00-19:30; Su 09:00-12:30"
-website: "https://www.intermarche.com/magasins/11228/juillan-65290/infos-pratiques"
+street: Route de Lourdes
+housenumber: "13"
+phone: +33 5 62 32 97 97
+opening_hours: Mo-Sa 08:00-19:30; Su 09:00-12:30
+website: https://www.intermarche.com/magasins/11228/juillan-65290/infos-pratiques

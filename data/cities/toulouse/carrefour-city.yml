@@ -4,8 +4,8 @@ latitude: 43.60617
 longitude: 1.42797
 postcode: "31100"
 city: Toulouse
-street: "Avenue Paul Séjourné"
-housenumber: 3
+street: Avenue Paul Séjourné
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

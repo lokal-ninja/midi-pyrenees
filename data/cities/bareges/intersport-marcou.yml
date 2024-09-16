@@ -1,11 +1,11 @@
 id: 201843375
-type: way
+type: node
 latitude: 42.89706
 longitude: 0.06574
 postcode: "65120"
 city: Barèges
-street: "Rue Ramond"
-housenumber: 44
-phone: "+33 5 62 92 65 00"
+street: Rue Ramond
+housenumber: "44"
+phone: +33 5 62 92 65 00
 opening_hours: ""
 website: ""

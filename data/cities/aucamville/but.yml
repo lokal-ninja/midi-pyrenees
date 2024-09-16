@@ -4,8 +4,8 @@ latitude: 43.66951
 longitude: 1.41145
 postcode: "31140"
 city: Aucamville
-street: "Route de Paris"
-housenumber: 33
-phone: "+33 5 62 75 85 75"
-opening_hours: "Mo-Fr 10:00-12:00,14:00-19:00; Sa 10:00-12:30,14:00-19:00"
-website: "https://www.but.fr/magasins/099/But-Toulouse-nord.html"
+street: Route de Paris
+housenumber: "33"
+phone: +33 5 62 75 85 75
+opening_hours: Mo-Fr 10:00-12:00,14:00-19:00; Sa 10:00-12:30,14:00-19:00
+website: https://www.but.fr/magasins/099/But-Toulouse-nord.html

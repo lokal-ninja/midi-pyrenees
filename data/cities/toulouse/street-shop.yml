@@ -4,8 +4,8 @@ latitude: 43.60218
 longitude: 1.44223
 postcode: "31000"
 city: Toulouse
-street: "Rue Sainte-Ursule"
-housenumber: 12
-phone: "+33 9 83 51 23 41"
-opening_hours: "Mo-Sa 10:30-19:30"
-website: "https://streetshop-france.fr/"
+street: Rue Sainte-Ursule
+housenumber: "12"
+phone: +33 9 83 51 23 41
+opening_hours: Mo-Sa 10:30-19:30
+website: https://streetshop-france.fr/

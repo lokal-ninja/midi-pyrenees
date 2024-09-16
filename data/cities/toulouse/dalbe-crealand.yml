@@ -4,8 +4,8 @@ latitude: 43.6413
 longitude: 1.46745
 postcode: "31200"
 city: Toulouse
-street: "Avenue d'Atlanta"
-housenumber: 2
+street: Avenue d'Atlanta
+housenumber: "2"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:30-12:30,14:00-19:00"
-website: "http://toulouse.dalbe.fr/"
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:30-12:30,14:00-19:00
+website: http://toulouse.dalbe.fr/

@@ -1,11 +1,11 @@
 id: 74486313
-type: way
+type: node
 latitude: 43.0629
 longitude: 0.59165
 postcode: "31210"
 city: Gourdan-Polignan
-street: "Route de Luchon"
-housenumber: 
-phone: "+33 5 61 95 79 79"
-opening_hours: "Mo-Sa 09:00-19:30; Su 09:00-12:30"
+street: Route de Luchon
+housenumber: ""
+phone: +33 5 61 95 79 79
+opening_hours: Mo-Sa 09:00-19:30; Su 09:00-12:30
 website: ""

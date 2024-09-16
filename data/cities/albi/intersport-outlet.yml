@@ -1,11 +1,11 @@
 id: 75195224
-type: way
+type: node
 latitude: 43.93361
 longitude: 2.17488
 postcode: "81000"
 city: Albi
-street: "Avenue de Saint-Juéry"
-housenumber: 50
+street: Avenue de Saint-Juéry
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.intersport.fr/Tarn-81/Albi-81000/INTERSPORT-OutletALBI/04945_000/"
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.intersport.fr/Tarn-81/Albi-81000/INTERSPORT-OutletALBI/04945_000/

@@ -4,8 +4,8 @@ latitude: 43.92825
 longitude: 2.14492
 postcode: "81000"
 city: Albi
-street: "Rue Mariès"
-housenumber: 25
-phone: "+33 7 88 28 73 68"
+street: Rue Mariès
+housenumber: "25"
+phone: +33 7 88 28 73 68
 opening_hours: ""
-website: "https://steam-shop.fr/"
+website: https://steam-shop.fr/

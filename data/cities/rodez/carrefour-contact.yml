@@ -1,11 +1,11 @@
 id: 77688797
-type: way
+type: node
 latitude: 44.35275
 longitude: 2.56858
 postcode: "12000"
 city: Rodez
-street: "Boulevard du 122e Régiment d'Infanterie"
-housenumber: 4
+street: Boulevard du 122e Régiment d'Infanterie
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-13:00"
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-13:00
 website: ""

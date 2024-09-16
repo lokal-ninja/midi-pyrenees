@@ -1,11 +1,11 @@
 id: 253692902
-type: way
+type: node
 latitude: 43.65293
 longitude: 0.60814
 postcode: "32000"
 city: Auch
-street: "Route de Toulouse"
-housenumber: 
+street: Route de Toulouse
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

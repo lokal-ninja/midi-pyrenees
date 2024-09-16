@@ -4,8 +4,8 @@ latitude: 43.53063
 longitude: 1.37078
 postcode: "31270"
 city: Villeneuve-Tolosane
-street: "Rue Écopole"
-housenumber: 33
-phone: "+33 5 61 42 75 11"
-opening_hours: "Mo-Th 07:00-12:00; Fr 07:00-12:00,14:00-17:30"
-website: "https://www.toulouselocation.fr/"
+street: Rue Écopole
+housenumber: "33"
+phone: +33 5 61 42 75 11
+opening_hours: Mo-Th 07:00-12:00; Fr 07:00-12:00,14:00-17:30
+website: https://www.toulouselocation.fr/

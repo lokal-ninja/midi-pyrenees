@@ -1,11 +1,11 @@
 id: 311307296
-type: way
+type: node
 latitude: 43.44231
 longitude: 1.08037
 postcode: "31370"
 city: Lahage
-street: "Chemin de la Sabaillane"
-housenumber: 1285
+street: Chemin de la Sabaillane
+housenumber: "1285"
 phone: "+33642456039"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-19:00"
+opening_hours: Mo-Fr 08:00-12:00,14:00-19:00
 website: ""

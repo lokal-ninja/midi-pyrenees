@@ -1,11 +1,11 @@
 id: 916378108
-type: way
+type: node
 latitude: 43.39219
 longitude: 1.26733
 postcode: "31410"
 city: Lavernose-Lacasse
-street: "Route de Mauzac"
-housenumber: 
-phone: "+33 5 62 23 17 50"
+street: Route de Mauzac
+housenumber: ""
+phone: +33 5 62 23 17 50
 opening_hours: ""
-website: "https://www.intermarche.com/home.html?pdv_id=04776"
+website: https://www.intermarche.com/home.html?pdv_id=04776

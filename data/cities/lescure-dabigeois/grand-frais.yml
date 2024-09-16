@@ -1,11 +1,11 @@
 id: 485331330
-type: way
+type: node
 latitude: 43.95952
 longitude: 2.16022
 postcode: "81380"
 city: Lescure d'Abigeois
-street: "Chemin de Najac"
-housenumber: 89
-phone: "+33 5 63 49 93 01"
+street: Chemin de Najac
+housenumber: "89"
+phone: +33 5 63 49 93 01
 opening_hours: ""
-website: "https://www.grandfrais.com/magasins/lescure-dalbigeois"
+website: https://www.grandfrais.com/magasins/lescure-dalbigeois

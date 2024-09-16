@@ -4,8 +4,8 @@ latitude: 43.58062
 longitude: 1.45869
 postcode: "31400"
 city: Toulouse
-street: "Rue Léon Bonnat"
-housenumber: 110
-phone: "+33 5 61 25 11 47"
-opening_hours: "Mo-Fr 07:00-13:00,15:30-20:00; Sa 07:00-13:00"
-website: "https://www.david-cance-boucherie.fr/"
+street: Rue Léon Bonnat
+housenumber: "110"
+phone: +33 5 61 25 11 47
+opening_hours: Mo-Fr 07:00-13:00,15:30-20:00; Sa 07:00-13:00
+website: https://www.david-cance-boucherie.fr/

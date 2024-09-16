@@ -4,8 +4,8 @@ latitude: 43.12806
 longitude: 0.99138
 postcode: "31260"
 city: Cassagne
-street: "Chemin de la Carraou"
-housenumber: 1
-phone: "+33 6 34 18 85 54"
-opening_hours: "Ma-Sa 15:00-19:00"
-website: "https://www.lesbessous.fr"
+street: Chemin de la Carraou
+housenumber: "1"
+phone: +33 6 34 18 85 54
+opening_hours: Ma-Sa 15:00-19:00
+website: https://www.lesbessous.fr

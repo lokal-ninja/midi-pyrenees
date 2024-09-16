@@ -1,11 +1,11 @@
 id: 1049732216
-type: way
+type: node
 latitude: 43.58974
 longitude: 2.26568
 postcode: "81100"
 city: Castres
-street: "Rue Jean Bories"
-housenumber: 18
-phone: "+33 5 67 46 62 14"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://jysk.fr/"
+street: Rue Jean Bories
+housenumber: "18"
+phone: +33 5 67 46 62 14
+opening_hours: Mo-Sa 09:30-19:00
+website: https://jysk.fr/

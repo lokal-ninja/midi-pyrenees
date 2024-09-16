@@ -4,8 +4,8 @@ latitude: 43.56609
 longitude: 1.411
 postcode: "31100"
 city: Toulouse
-street: "Route de Seysses"
-housenumber: 221
+street: Route de Seysses
+housenumber: "221"
 phone: "+33531217138"
-opening_hours: "Lun. au sam. 10:00-12:00; Lun. au jeu. & sam. 14:00-19:00; Ven. 15:00-19:00"
-website: "https://imobileservice.fr/"
+opening_hours: Lun. au sam. 10:00-12:00; Lun. au jeu. & sam. 14:00-19:00; Ven. 15:00-19:00
+website: https://imobileservice.fr/

@@ -1,11 +1,11 @@
 id: 1051141392
-type: way
+type: node
 latitude: 43.58918
 longitude: 2.26737
 postcode: "81100"
 city: Castres
-street: "Rue Jean Bories"
-housenumber: 28
-phone: "+33 5 63 35 71 81"
+street: Rue Jean Bories
+housenumber: "28"
+phone: +33 5 63 35 71 81
 opening_hours: ""
-website: "https://www.centrakor.com/"
+website: https://www.centrakor.com/

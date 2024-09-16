@@ -1,11 +1,11 @@
 id: 129293651
-type: way
+type: node
 latitude: 43.50828
 longitude: 2.37813
 postcode: "81200"
 city: Aussillon
-street: "Route Nationale 112"
-housenumber: 10
+street: Route Nationale 112
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30"
+opening_hours: Mo-Sa 08:30-19:30
 website: ""

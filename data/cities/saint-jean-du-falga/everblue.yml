@@ -4,8 +4,9 @@ latitude: 43.09695
 longitude: 1.62645
 postcode: "09100"
 city: Saint-Jean-du-Falga
-street: "Rue Mille Hommes"
-housenumber: 9
+street: Rue Mille Hommes
+housenumber: "9"
 phone: ""
-opening_hours: "Mo 09:30-12:00, 14:00-17:00; Tu-Fr 09:30-12:00, 14:00-18:30; Sa 09:30-12:00, 14:00-17:00"
-website: "https://www.everblue.com/concessionnaires/everblue-saint-jean-du-falga/"
+opening_hours: Mo 09:30-12:00, 14:00-17:00; Tu-Fr 09:30-12:00, 14:00-18:30; Sa 09:30-12:00,
+    14:00-17:00
+website: https://www.everblue.com/concessionnaires/everblue-saint-jean-du-falga/

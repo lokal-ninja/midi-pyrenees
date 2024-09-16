@@ -4,8 +4,8 @@ latitude: 43.92757
 longitude: 2.14413
 postcode: "81000"
 city: Albi
-street: "Rue Sainte-Cécile"
-housenumber: 16
-phone: "+33 563 805 348"
-opening_hours: "Tu-Sa 10:00-13:00,14:00-19:00"
-website: "https://www.chats-pitres.com/"
+street: Rue Sainte-Cécile
+housenumber: "16"
+phone: +33 563 805 348
+opening_hours: Tu-Sa 10:00-13:00,14:00-19:00
+website: https://www.chats-pitres.com/

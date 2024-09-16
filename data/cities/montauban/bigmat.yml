@@ -1,11 +1,11 @@
 id: 127861333
-type: way
+type: node
 latitude: 44.03308
 longitude: 1.38026
 postcode: ""
 city: Montauban
-street: "Avenue de Nègrepelisse"
-housenumber: 711
+street: Avenue de Nègrepelisse
+housenumber: "711"
 phone: ""
 opening_hours: ""
 website: ""

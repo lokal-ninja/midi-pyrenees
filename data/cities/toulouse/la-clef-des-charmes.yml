@@ -4,8 +4,8 @@ latitude: 43.60262
 longitude: 1.43752
 postcode: "31000"
 city: Toulouse
-street: "Rue des Blanchers"
-housenumber: 28
-phone: "+33 5 34 30 14 96"
-opening_hours: "Tu-Sa 11:00-19:00"
-website: "https://laclefdescharmes.com/"
+street: Rue des Blanchers
+housenumber: "28"
+phone: +33 5 34 30 14 96
+opening_hours: Tu-Sa 11:00-19:00
+website: https://laclefdescharmes.com/

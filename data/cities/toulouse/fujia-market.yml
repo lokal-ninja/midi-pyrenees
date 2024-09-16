@@ -4,8 +4,8 @@ latitude: 43.60783
 longitude: 1.4421
 postcode: "31000"
 city: Toulouse
-street: "Rue du Taur"
-housenumber: 64
+street: Rue du Taur
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Su 10:00-20:00"
+opening_hours: Mo-Su 10:00-20:00
 website: ""

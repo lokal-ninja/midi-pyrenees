@@ -1,11 +1,11 @@
 id: 113012523
-type: way
+type: node
 latitude: 43.62542
 longitude: 0.87747
 postcode: "32200"
 city: Gimont
-street: "Rue Nationale"
-housenumber: 122
+street: Rue Nationale
+housenumber: "122"
 phone: ""
 opening_hours: ""
 website: ""

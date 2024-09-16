@@ -4,8 +4,8 @@ latitude: 43.6205
 longitude: 1.436
 postcode: "31200"
 city: Toulouse
-street: "Avenue des Minimes"
-housenumber: 90
+street: Avenue des Minimes
+housenumber: "90"
 phone: "+33561476411"
-opening_hours: "Tu-Fr 08:00-12:45,16:00-19:45; Sa 08:00-12:00,15:00-19:45"
-website: "https://www.boucheriedescopains.fr/"
+opening_hours: Tu-Fr 08:00-12:45,16:00-19:45; Sa 08:00-12:00,15:00-19:45
+website: https://www.boucheriedescopains.fr/

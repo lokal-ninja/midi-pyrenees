@@ -1,11 +1,11 @@
 id: 298841634
-type: way
+type: node
 latitude: 44.41368
 longitude: 1.43615
 postcode: "46000"
 city: Cahors
-street: "Carrefour giratoire du roc de l'Agasse"
-housenumber: 
-phone: "+33 5 65 20 48 48"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-18:00"
-website: "https://www.parot-automotive.com/"
+street: Carrefour giratoire du roc de l'Agasse
+housenumber: ""
+phone: +33 5 65 20 48 48
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:00-18:00
+website: https://www.parot-automotive.com/

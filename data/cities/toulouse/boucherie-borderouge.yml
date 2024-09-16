@@ -4,8 +4,8 @@ latitude: 43.62854
 longitude: 1.44571
 postcode: "31200"
 city: Toulouse
-street: "Rue Ernest Renan"
-housenumber: 2
+street: Rue Ernest Renan
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://boucherieborderouge.fr"
+website: https://boucherieborderouge.fr

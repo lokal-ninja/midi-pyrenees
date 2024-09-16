@@ -1,11 +1,11 @@
 id: 62557520
-type: way
+type: node
 latitude: 43.89536
 longitude: 1.88538
 postcode: "81600"
 city: Gaillac
-street: "Avenue Guynemer"
-housenumber: 13
+street: Avenue Guynemer
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://nozarrivages.com/magasin/gaillac/"
+website: https://nozarrivages.com/magasin/gaillac/

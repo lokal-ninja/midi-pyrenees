@@ -1,11 +1,11 @@
 id: 68193992
-type: way
+type: node
 latitude: 43.91579
 longitude: 2.11082
 postcode: "81990"
 city: Le Sequestre
-street: "Rue de Mélaudie"
-housenumber: 1
-phone: "+33 5 63 36 29 67"
-opening_hours: "Mo-Sa 09:00-19:30"
+street: Rue de Mélaudie
+housenumber: "1"
+phone: +33 5 63 36 29 67
+opening_hours: Mo-Sa 09:00-19:30
 website: ""

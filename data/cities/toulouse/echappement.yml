@@ -4,8 +4,8 @@ latitude: 43.64104
 longitude: 1.46811
 postcode: "31200"
 city: Toulouse
-street: "Avenue d'Atlanta"
-housenumber: 2
+street: Avenue d'Atlanta
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 09:00-19:00; Sa 10:00-19:00"
-website: "https://echap.fr/"
+opening_hours: Tu-Fr 09:00-19:00; Sa 10:00-19:00
+website: https://echap.fr/

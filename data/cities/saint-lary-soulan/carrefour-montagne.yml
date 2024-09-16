@@ -4,8 +4,8 @@ latitude: 42.81726
 longitude: 0.32233
 postcode: "65170"
 city: Saint-Lary-Soulan
-street: "Rue de Soulan"
-housenumber: 2
+street: Rue de Soulan
+housenumber: "2"
 phone: "+33562401247"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-21:00"
-website: "https://www.carrefour.fr/magasin/montagne-saint-lary-soulan"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-21:00
+website: https://www.carrefour.fr/magasin/montagne-saint-lary-soulan

@@ -4,8 +4,8 @@ latitude: 43.54803
 longitude: 1.51557
 postcode: "31670"
 city: Labège
-street: "Route de Baziège La Lauragaise"
-housenumber: 3006
+street: Route de Baziège La Lauragaise
+housenumber: "3006"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-18:30"
-website: "https://partenaire.bmw.fr/equation-automobiles/"
+opening_hours: Mo-Fr 08:30-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-18:30
+website: https://partenaire.bmw.fr/equation-automobiles/

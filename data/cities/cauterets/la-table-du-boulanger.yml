@@ -4,8 +4,8 @@ latitude: 42.88888
 longitude: -0.11493
 postcode: "65110"
 city: Cauterets
-street: "Rue de Belfort"
-housenumber: 5
+street: Rue de Belfort
+housenumber: "5"
 phone: "+33562925259"
-opening_hours: "07:30-12:30,15:30-19:00"
+opening_hours: 07:30-12:30,15:30-19:00
 website: ""

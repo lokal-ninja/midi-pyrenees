@@ -1,11 +1,11 @@
 id: 83102428
-type: way
+type: node
 latitude: 43.58972
 longitude: 2.27178
 postcode: "81100"
 city: Castres
-street: "Route de Mazamet"
-housenumber: 
-phone: "+33 5 63 59 72 11"
+street: Route de Mazamet
+housenumber: ""
+phone: +33 5 63 59 72 11
 opening_hours: ""
-website: "https://www.mr-bricolage.fr/"
+website: https://www.mr-bricolage.fr/

@@ -1,11 +1,11 @@
 id: 127747991
-type: way
+type: node
 latitude: 44.01431
 longitude: 1.35123
 postcode: "82000"
 city: Montauban
-street: "Grand Rue Sapiac"
-housenumber: 18
-phone: "+33 563632881"
-opening_hours: "Mardi au Samedi 7h/13h"
+street: Grand Rue Sapiac
+housenumber: "18"
+phone: +33 563632881
+opening_hours: Mardi au Samedi 7h/13h
 website: ""

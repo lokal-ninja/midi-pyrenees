@@ -4,8 +4,8 @@ latitude: 44.10005
 longitude: 3.07824
 postcode: "12100"
 city: Millau
-street: "Avenue de la République"
-housenumber: 5
+street: Avenue de la République
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Sa 09:30-12:00, 14:00-19:30"
-website: "https://www.juliendorcel.com/bijouterie/millau-1400M"
+opening_hours: Tu-Sa 09:30-12:00, 14:00-19:30
+website: https://www.juliendorcel.com/bijouterie/millau-1400M

@@ -4,8 +4,8 @@ latitude: 43.60253
 longitude: 1.44202
 postcode: "31000"
 city: Toulouse
-street: "Rue Sainte-Ursule"
-housenumber: 15
-phone: "+33 5 31 22 27 23"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:30-19:00"
-website: "https://linterprete-toulouse.com/"
+street: Rue Sainte-Ursule
+housenumber: "15"
+phone: +33 5 31 22 27 23
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:30-19:00
+website: https://linterprete-toulouse.com/

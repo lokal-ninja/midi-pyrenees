@@ -4,8 +4,8 @@ latitude: 43.60018
 longitude: 1.44703
 postcode: "31000"
 city: Toulouse
-street: "Rue des Arts"
-housenumber: 7
-phone: "+33 5 61 52 60 81"
-opening_hours: "Tu-Sa 10:45-19:00"
-website: "http://www.domyshoes.com/"
+street: Rue des Arts
+housenumber: "7"
+phone: +33 5 61 52 60 81
+opening_hours: Tu-Sa 10:45-19:00
+website: http://www.domyshoes.com/

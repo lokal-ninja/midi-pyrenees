@@ -1,11 +1,11 @@
 id: 407288798
-type: way
+type: node
 latitude: 44.03632
 longitude: 1.37687
 postcode: "82000"
 city: Montauban
-street: "Route du nord"
-housenumber: 609
+street: Route du nord
+housenumber: "609"
 phone: ""
 opening_hours: ""
 website: ""

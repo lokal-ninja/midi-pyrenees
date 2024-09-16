@@ -4,8 +4,8 @@ latitude: 43.60856
 longitude: 1.42794
 postcode: "31000"
 city: Toulouse
-street: "Rue du Béarnais"
-housenumber: 25
-phone: "+33 5 61 29 09 47"
-opening_hours: "Mo-Sa 08:30-13:30,16:00-21:00; Su 09:00-21:00"
-website: "http://www.lepetitverger31.fr/"
+street: Rue du Béarnais
+housenumber: "25"
+phone: +33 5 61 29 09 47
+opening_hours: Mo-Sa 08:30-13:30,16:00-21:00; Su 09:00-21:00
+website: http://www.lepetitverger31.fr/

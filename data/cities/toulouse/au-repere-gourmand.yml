@@ -4,8 +4,8 @@ latitude: 43.61321
 longitude: 1.42881
 postcode: "31000"
 city: Toulouse
-street: "Rue Montmorency"
-housenumber: 2
+street: Rue Montmorency
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:45-15:30"
+opening_hours: Mo-Fr 06:45-15:30
 website: ""

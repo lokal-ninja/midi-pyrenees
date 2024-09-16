@@ -4,8 +4,8 @@ latitude: 42.99907
 longitude: -0.09601
 postcode: "65400"
 city: Argelès-Gazost
-street: "Avenue Charles de Gaulle"
-housenumber: 32
-phone: "+33 5 62 97 96 02"
-opening_hours: "24/7"
+street: Avenue Charles de Gaulle
+housenumber: "32"
+phone: +33 5 62 97 96 02
+opening_hours: 24/7
 website: ""

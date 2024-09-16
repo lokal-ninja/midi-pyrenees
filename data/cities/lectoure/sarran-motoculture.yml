@@ -1,11 +1,11 @@
 id: 91983137
-type: way
+type: node
 latitude: 43.93094
 longitude: 0.61538
 postcode: "32700"
 city: Lectoure
-street: "Avenue de la Gare"
-housenumber: 
-phone: "+33 562683924"
+street: Avenue de la Gare
+housenumber: ""
+phone: +33 562683924
 opening_hours: ""
-website: "https://www.sarran-motoculture.fr/"
+website: https://www.sarran-motoculture.fr/

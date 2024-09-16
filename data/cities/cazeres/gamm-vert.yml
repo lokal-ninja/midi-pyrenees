@@ -1,11 +1,11 @@
 id: 445311721
-type: way
+type: node
 latitude: 43.21259
 longitude: 1.08428
 postcode: "31220"
 city: Cazères
-street: "Avenue Pasteur"
-housenumber: 79
-phone: "+33 5 61 97 25 78"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-19:00"
-website: "http://magasin.gammvert.fr/611786-gamm-vert-de-cazeres"
+street: Avenue Pasteur
+housenumber: "79"
+phone: +33 5 61 97 25 78
+opening_hours: Mo-Sa 09:00-12:00,14:00-19:00
+website: http://magasin.gammvert.fr/611786-gamm-vert-de-cazeres

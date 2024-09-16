@@ -1,11 +1,11 @@
 id: 233685267
-type: way
+type: node
 latitude: 43.44798
 longitude: 1.38791
 postcode: "31860"
 city: Labarthe-sur-Lèze
-street: "Chemin des Coudoumines"
-housenumber: 2425
-phone: "+33 6 43 40 91 08"
-opening_hours: "Mo-Sa 09:00-12:00, 14:00-18:30"
-website: "http://jardineriedestropiques.fr/"
+street: Chemin des Coudoumines
+housenumber: "2425"
+phone: +33 6 43 40 91 08
+opening_hours: Mo-Sa 09:00-12:00, 14:00-18:30
+website: http://jardineriedestropiques.fr/

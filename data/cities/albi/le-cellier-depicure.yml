@@ -4,8 +4,8 @@ latitude: 43.92835
 longitude: 2.19816
 postcode: "81000"
 city: Albi
-street: "Route de Millau"
-housenumber: 197
-phone: "+33 9 71 27 18 58"
+street: Route de Millau
+housenumber: "197"
+phone: +33 9 71 27 18 58
 opening_hours: ""
-website: "https://cellier-epicure.com/"
+website: https://cellier-epicure.com/

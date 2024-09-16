@@ -1,11 +1,11 @@
 id: 1118566800
-type: way
+type: node
 latitude: 44.95365
 longitude: 1.70902
 postcode: ""
 city: Vayrac
-street: "Avenue de Saint-Céré"
-housenumber: 67
+street: Avenue de Saint-Céré
+housenumber: "67"
 phone: ""
 opening_hours: ""
 website: ""

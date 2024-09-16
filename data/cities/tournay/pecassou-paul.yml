@@ -4,8 +4,8 @@ latitude: 43.18521
 longitude: 0.23937
 postcode: "65190"
 city: Tournay
-street: "Avenue de Tarbes"
-housenumber: 14
-phone: "+33.5.62.35.71.97"
-opening_hours: "24/7"
-website: "https://store.total.fr/fr/NF015698"
+street: Avenue de Tarbes
+housenumber: "14"
+phone: +33.5.62.35.71.97
+opening_hours: 24/7
+website: https://store.total.fr/fr/NF015698

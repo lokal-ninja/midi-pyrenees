@@ -1,11 +1,11 @@
 id: 85564614
-type: way
+type: node
 latitude: 43.53894
 longitude: 1.34558
 postcode: "31270"
 city: Cugnaux
-street: "Avenue de Toulouse"
-housenumber: 
+street: Avenue de Toulouse
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

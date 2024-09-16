@@ -4,8 +4,8 @@ latitude: 43.59765
 longitude: 1.45838
 postcode: "31400"
 city: Toulouse
-street: "Rue Louis Vitet"
-housenumber: 71
-phone: "+33 5 34 65 74 47"
-opening_hours: "Mo-Sa 09:30-19:30; Su 10:30-19:00"
+street: Rue Louis Vitet
+housenumber: "71"
+phone: +33 5 34 65 74 47
+opening_hours: Mo-Sa 09:30-19:30; Su 10:30-19:00
 website: ""

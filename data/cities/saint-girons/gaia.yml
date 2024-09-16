@@ -4,8 +4,8 @@ latitude: 42.98257
 longitude: 1.14697
 postcode: "09200"
 city: Saint-Girons
-street: "Boulevard Noël Peyrevidal"
-housenumber: 8
-phone: "+33 5 61 01 71 78"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00"
+street: Boulevard Noël Peyrevidal
+housenumber: "8"
+phone: +33 5 61 01 71 78
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00
 website: ""

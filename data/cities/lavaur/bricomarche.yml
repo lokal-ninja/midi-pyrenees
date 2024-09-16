@@ -1,11 +1,11 @@
 id: 82774237
-type: way
+type: node
 latitude: 43.70737
 longitude: 1.80306
 postcode: "81500"
 city: Lavaur
-street: "Avenue de Cocagne"
-housenumber: 
+street: Avenue de Cocagne
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

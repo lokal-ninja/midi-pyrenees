@@ -4,8 +4,8 @@ latitude: 42.96611
 longitude: 1.60662
 postcode: "09000"
 city: Foix
-street: "Rue des Marchands"
-housenumber: 15
-phone: "+33 5 61 02 90 70"
-opening_hours: "Tu-Sa 10:00-12:30,14:00-19:00,10:00-12:30,14:00-19:00"
-website: "https://www.couteau-savignac.com/fr/"
+street: Rue des Marchands
+housenumber: "15"
+phone: +33 5 61 02 90 70
+opening_hours: Tu-Sa 10:00-12:30,14:00-19:00,10:00-12:30,14:00-19:00
+website: https://www.couteau-savignac.com/fr/

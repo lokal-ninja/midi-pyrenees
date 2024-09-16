@@ -1,11 +1,11 @@
 id: 900916248
-type: way
+type: node
 latitude: 44.11899
 longitude: 3.06794
 postcode: "12100"
 city: Millau
-street: "Boulevard du Puech d'Andan"
-housenumber: 
+street: Boulevard du Puech d'Andan
+housenumber: ""
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Th 09:30-12:30, 14:00-19:00; Fr-Sa 09:30-19:00"
-website: "https://www.biocoopducres.fr"
+opening_hours: Mo 14:00-19:00; Tu-Th 09:30-12:30, 14:00-19:00; Fr-Sa 09:30-19:00
+website: https://www.biocoopducres.fr

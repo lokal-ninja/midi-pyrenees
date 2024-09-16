@@ -1,11 +1,11 @@
 id: 84377645
-type: way
+type: node
 latitude: 43.52863
 longitude: 1.40457
 postcode: "31120"
 city: Portet-sur-Garonne
-street: "Route d'Espagne"
-housenumber: 41
-phone: "+33 5 62 87 66 69"
-opening_hours: "Mo-Sa 09:30-12:00, 14:00-19:00"
-website: "https://magasins.mobilierdefrance.com/meubles/portet-sur-garonne/288001"
+street: Route d'Espagne
+housenumber: "41"
+phone: +33 5 62 87 66 69
+opening_hours: Mo-Sa 09:30-12:00, 14:00-19:00
+website: https://magasins.mobilierdefrance.com/meubles/portet-sur-garonne/288001

@@ -1,11 +1,11 @@
 id: 71442921
-type: way
+type: node
 latitude: 44.42398
 longitude: 1.43815
 postcode: "46000"
 city: Cahors
-street: "Chemin de Belle Croix"
-housenumber: 332
-phone: "+33 5 65 21 83 70"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://cahorsbellecroix.biocoop.net"
+street: Chemin de Belle Croix
+housenumber: "332"
+phone: +33 5 65 21 83 70
+opening_hours: Mo-Sa 09:00-19:00
+website: https://cahorsbellecroix.biocoop.net

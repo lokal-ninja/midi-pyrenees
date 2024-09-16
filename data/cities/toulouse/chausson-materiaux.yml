@@ -1,11 +1,11 @@
 id: 76307282
-type: way
+type: node
 latitude: 43.61432
 longitude: 1.41944
 postcode: "31200"
 city: Toulouse
-street: "Boulevard de Suisse"
-housenumber: 41
-phone: "+33 5 61 13 44 00"
+street: Boulevard de Suisse
+housenumber: "41"
+phone: +33 5 61 13 44 00
 opening_hours: ""
 website: ""

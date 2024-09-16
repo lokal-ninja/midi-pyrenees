@@ -1,11 +1,11 @@
 id: 320384455
-type: way
+type: node
 latitude: 43.5588
 longitude: 1.27745
 postcode: "31830"
 city: Plaisance du Touch
-street: "Route de Lombez"
-housenumber: 73
+street: Route de Lombez
+housenumber: "73"
 phone: "+33534511222"
 opening_hours: ""
 website: ""

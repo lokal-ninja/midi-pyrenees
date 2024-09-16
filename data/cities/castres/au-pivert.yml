@@ -4,8 +4,8 @@ latitude: 43.60808
 longitude: 2.23926
 postcode: "31100"
 city: Castres
-street: "Rue Camille Rabaud"
-housenumber: 2
+street: Rue Camille Rabaud
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "http://aupivert.com"
+website: http://aupivert.com

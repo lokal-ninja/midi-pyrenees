@@ -4,8 +4,9 @@ latitude: 42.9846
 longitude: 1.14192
 postcode: "09200"
 city: Saint-Girons
-street: "Rue de Villefranche"
-housenumber: 28
-phone: "+33 5 61 01 54 72"
-opening_hours: "Tu,Th,Fr 09:30-12:00,14:00-18:00; We 09:30-12:00,15:00-19:00; Sa 09:00-12:00,14:00-17:00; May-Aug Mo 09:30-12:00,14:00-18:00"
+street: Rue de Villefranche
+housenumber: "28"
+phone: +33 5 61 01 54 72
+opening_hours: Tu,Th,Fr 09:30-12:00,14:00-18:00; We 09:30-12:00,15:00-19:00; Sa 09:00-12:00,14:00-17:00;
+    May-Aug Mo 09:30-12:00,14:00-18:00
 website: ""

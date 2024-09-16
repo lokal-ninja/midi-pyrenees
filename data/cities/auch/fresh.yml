@@ -1,11 +1,11 @@
 id: 65481890
-type: way
+type: node
 latitude: 43.64967
 longitude: 0.59533
 postcode: "32000"
 city: Auch
-street: "Rue Clément Ader"
-housenumber: 12
-phone: "+33 567542015"
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.fresh.fr/"
+street: Rue Clément Ader
+housenumber: "12"
+phone: +33 567542015
+opening_hours: Mo-Sa 08:30-20:00
+website: https://www.fresh.fr/

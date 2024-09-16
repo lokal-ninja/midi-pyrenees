@@ -1,11 +1,11 @@
 id: 91397804
-type: way
+type: node
 latitude: 43.10326
 longitude: 1.63007
 postcode: "09100"
 city: Pamiers
-street: "Avenue de la Bouriette"
-housenumber: 
+street: Avenue de la Bouriette
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.tati.fr/store_details.php?id=118"
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.tati.fr/store_details.php?id=118

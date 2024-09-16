@@ -1,11 +1,11 @@
 id: 78762268
-type: way
+type: node
 latitude: 44.37417
 longitude: 2.54579
 postcode: "12000"
 city: Rodez
-street: "Rue de la Sauvegarde"
-housenumber: 
+street: Rue de la Sauvegarde
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-12:00; Su off"
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-12:00; Su off
 website: ""

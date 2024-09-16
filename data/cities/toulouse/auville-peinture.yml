@@ -4,8 +4,8 @@ latitude: 43.58261
 longitude: 1.44835
 postcode: "31400"
 city: Toulouse
-street: "Avenue de l'URSS"
-housenumber: 23
+street: Avenue de l'URSS
+housenumber: "23"
 phone: "+33561392921"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00
 website: ""

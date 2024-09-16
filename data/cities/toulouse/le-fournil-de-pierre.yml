@@ -4,8 +4,8 @@ latitude: 43.54934
 longitude: 1.42096
 postcode: "31100"
 city: Toulouse
-street: "Route d'Espagne"
-housenumber: 282
+street: Route d'Espagne
+housenumber: "282"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30; Sa 07:00-18:30"
+opening_hours: Mo-Fr 06:30-18:30; Sa 07:00-18:30
 website: ""

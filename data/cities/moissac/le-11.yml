@@ -1,11 +1,11 @@
 id: 59130678
-type: way
+type: node
 latitude: 44.10428
 longitude: 1.08482
 postcode: "82200"
 city: Moissac
-street: "Rue de la République"
-housenumber: 11
+street: Rue de la République
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

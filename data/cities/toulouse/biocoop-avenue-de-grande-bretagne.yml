@@ -1,11 +1,11 @@
 id: 74702179
-type: way
+type: node
 latitude: 43.60694
 longitude: 1.39749
 postcode: "31300"
 city: Toulouse
-street: "Avenue de Grande Bretagne"
-housenumber: 301
+street: Avenue de Grande Bretagne
+housenumber: "301"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.biocoop-purpan.com/"
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.biocoop-purpan.com/

@@ -1,11 +1,11 @@
 id: 76307581
-type: way
+type: node
 latitude: 43.63179
 longitude: 1.44347
 postcode: "31200"
 city: Toulouse
-street: "Rue Ernest Renan"
-housenumber: 55
+street: Rue Ernest Renan
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 120870410
-type: way
+type: node
 latitude: 43.42605
 longitude: 1.34746
 postcode: "31600"
 city: Eaunes
-street: "Chemin de Beaumont"
-housenumber: 590
-phone: "+33 5 61 08 81 94"
+street: Chemin de Beaumont
+housenumber: "590"
+phone: +33 5 61 08 81 94
 opening_hours: ""
 website: ""

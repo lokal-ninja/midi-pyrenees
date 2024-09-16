@@ -4,8 +4,8 @@ latitude: 43.61167
 longitude: 1.4446
 postcode: "31000"
 city: Toulouse
-street: "Rue de la Concorde"
-housenumber: 17
+street: Rue de la Concorde
+housenumber: "17"
 phone: ""
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-18:00"
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

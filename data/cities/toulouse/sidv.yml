@@ -4,8 +4,8 @@ latitude: 43.62233
 longitude: 1.42081
 postcode: "31200"
 city: Toulouse
-street: "Chemin du Sang de Serp"
-housenumber: 143
+street: Chemin du Sang de Serp
+housenumber: "143"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00,13:30-17:00"
-website: "https://www.sidv.fr/"
+opening_hours: Mo-Fr 07:30-12:00,13:30-17:00
+website: https://www.sidv.fr/

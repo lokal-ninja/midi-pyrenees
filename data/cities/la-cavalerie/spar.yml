@@ -1,11 +1,11 @@
 id: 430964176
-type: way
+type: node
 latitude: 44.01114
 longitude: 3.14817
 postcode: "12230"
 city: La Cavalerie
 street: ""
-housenumber: 
-phone: "+33 5 65 62 53 08"
-opening_hours: "Mo-Sa 08:30-13:00, 14:00-20:00; Su 08:30-13:00"
+housenumber: ""
+phone: +33 5 65 62 53 08
+opening_hours: Mo-Sa 08:30-13:00, 14:00-20:00; Su 08:30-13:00
 website: ""

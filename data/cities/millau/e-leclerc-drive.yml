@@ -1,11 +1,11 @@
 id: 783781201
-type: way
+type: node
 latitude: 44.08853
 longitude: 3.05354
 postcode: "12100"
 city: Millau
-street: "Avenue de l'Europe"
-housenumber: 
+street: Avenue de l'Europe
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 408318568
-type: way
+type: node
 latitude: 43.69263
 longitude: 2.42589
 postcode: "81330"
 city: Vabre
-street: "Rue Celina Marc"
-housenumber: 4
+street: Rue Celina Marc
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

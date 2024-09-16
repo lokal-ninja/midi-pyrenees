@@ -1,11 +1,11 @@
 id: 68857486
-type: way
+type: node
 latitude: 43.10979
 longitude: -0.03658
 postcode: "65100"
 city: Lourdes
-street: "Impasse du Vélodrome"
-housenumber: 2
-phone: "+33 5 62 33 96 60"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.biocoop-lourdes.fr/"
+street: Impasse du Vélodrome
+housenumber: "2"
+phone: +33 5 62 33 96 60
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.biocoop-lourdes.fr/

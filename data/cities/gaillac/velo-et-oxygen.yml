@@ -4,8 +4,8 @@ latitude: 43.90218
 longitude: 1.89379
 postcode: "81600"
 city: Gaillac
-street: "Rue Joseph Rigal"
-housenumber: 98
-phone: "+33 5 63 57 63 67"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-16:00"
+street: Rue Joseph Rigal
+housenumber: "98"
+phone: +33 5 63 57 63 67
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-16:00
 website: ""

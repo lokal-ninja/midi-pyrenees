@@ -4,8 +4,8 @@ latitude: 44.60777
 longitude: 2.03216
 postcode: "46100"
 city: Figeac
-street: "Rue Ortabadial"
-housenumber: 27
-phone: "+33 5 65 34 43 11"
-opening_hours: "Tu-Sa 09:30-13:00,14:00-19:00"
-website: "https://lelivreenfete.fr/"
+street: Rue Ortabadial
+housenumber: "27"
+phone: +33 5 65 34 43 11
+opening_hours: Tu-Sa 09:30-13:00,14:00-19:00
+website: https://lelivreenfete.fr/

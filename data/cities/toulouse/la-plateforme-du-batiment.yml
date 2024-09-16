@@ -1,11 +1,11 @@
 id: 76330436
-type: way
+type: node
 latitude: 43.6213
 longitude: 1.42094
 postcode: "31200"
 city: Toulouse
-street: "Chemin du Sang de Serp"
-housenumber: 131
+street: Chemin du Sang de Serp
+housenumber: "131"
 phone: ""
 opening_hours: ""
 website: ""

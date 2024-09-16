@@ -1,11 +1,11 @@
 id: 96269592
-type: way
+type: node
 latitude: 43.21001
 longitude: 1.08362
 postcode: "31220"
 city: Cazères
-street: "Avenue Pasteur"
-housenumber: 
+street: Avenue Pasteur
+housenumber: ""
 phone: "+33561872633"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-17:00; Sa 09:00-12:30"
+opening_hours: Mo-Fr 09:00-12:00,14:00-17:00; Sa 09:00-12:30
 website: ""

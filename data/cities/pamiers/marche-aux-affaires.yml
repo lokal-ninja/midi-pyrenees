@@ -1,11 +1,11 @@
 id: 91395911
-type: way
+type: node
 latitude: 43.13912
 longitude: 1.60707
 postcode: "09100"
 city: Pamiers
-street: "Route de Toulouse"
-housenumber: 
-phone: "+33 9 80 88 52 11"
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-19:00; Sa 09:00-19:00"
+street: Route de Toulouse
+housenumber: ""
+phone: +33 9 80 88 52 11
+opening_hours: Mo-Fr 09:00-12:00, 14:00-19:00; Sa 09:00-19:00
 website: ""

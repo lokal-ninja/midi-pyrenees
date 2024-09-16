@@ -1,11 +1,11 @@
 id: 134936594
-type: way
+type: node
 latitude: 44.50957
 longitude: 1.37309
 postcode: "46090"
 city: Espère
-street: "rue Principale"
-housenumber: 
+street: rue Principale
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

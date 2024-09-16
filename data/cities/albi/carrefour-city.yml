@@ -4,8 +4,8 @@ latitude: 43.9246
 longitude: 2.14433
 postcode: "81000"
 city: Albi
-street: "Place Lapérouse"
-housenumber: 14
-phone: "+33 5 63 54 10 80"
-opening_hours: "Mo-Sa 07:00-21:45; Su 09:00-12:45"
+street: Place Lapérouse
+housenumber: "14"
+phone: +33 5 63 54 10 80
+opening_hours: Mo-Sa 07:00-21:45; Su 09:00-12:45
 website: ""

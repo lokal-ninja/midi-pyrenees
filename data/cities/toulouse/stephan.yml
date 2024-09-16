@@ -4,8 +4,8 @@ latitude: 43.61132
 longitude: 1.43713
 postcode: "31000"
 city: Toulouse
-street: "Boulevard Lascrosses"
-housenumber: 12
-phone: "+33 5 61 22 17 77"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 09:30-18:30"
-website: "https://www.stephan.fr/"
+street: Boulevard Lascrosses
+housenumber: "12"
+phone: +33 5 61 22 17 77
+opening_hours: Tu-Fr 10:00-19:00; Sa 09:30-18:30
+website: https://www.stephan.fr/

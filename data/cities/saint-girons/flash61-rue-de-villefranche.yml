@@ -4,8 +4,8 @@ latitude: 42.98499
 longitude: 1.14342
 postcode: "09200"
 city: Saint-Girons
-street: "Rue de Villefranche"
-housenumber: 59
-phone: "+33 5 61 04 61 39"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-19:00"
-website: "https://www.flash61-saintgirons.fr/"
+street: Rue de Villefranche
+housenumber: "59"
+phone: +33 5 61 04 61 39
+opening_hours: Mo-Sa 09:00-12:00,14:00-19:00
+website: https://www.flash61-saintgirons.fr/

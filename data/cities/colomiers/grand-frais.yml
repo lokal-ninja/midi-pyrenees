@@ -1,11 +1,11 @@
 id: 612954701
-type: way
+type: node
 latitude: 43.59826
 longitude: 1.29457
 postcode: "31770"
 city: Colomiers
-street: "Chemin de la Salvetat"
-housenumber: 44
+street: Chemin de la Salvetat
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-12:30"
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-12:30
 website: ""

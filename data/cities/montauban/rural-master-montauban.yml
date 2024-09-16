@@ -1,11 +1,11 @@
 id: 127766418
-type: way
+type: node
 latitude: 43.98303
 longitude: 1.32958
 postcode: "82000"
 city: Montauban
-street: "Avenue de l'Europe"
-housenumber: 
-phone: "+33 5 63 22 50 30"
-opening_hours: "08:30-12:30 / 14:00-19:00"
+street: Avenue de l'Europe
+housenumber: ""
+phone: +33 5 63 22 50 30
+opening_hours: 08:30-12:30 / 14:00-19:00
 website: ""

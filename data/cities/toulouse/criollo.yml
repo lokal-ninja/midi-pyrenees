@@ -4,8 +4,8 @@ latitude: 43.60688
 longitude: 1.44619
 postcode: "31000"
 city: Toulouse
-street: "Place Victor Hugo"
-housenumber: 23
+street: Place Victor Hugo
+housenumber: "23"
 phone: ""
 opening_hours: ""
-website: "https://www.criollo-chocolatier.com/"
+website: https://www.criollo-chocolatier.com/

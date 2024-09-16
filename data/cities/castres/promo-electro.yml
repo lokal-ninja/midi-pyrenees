@@ -1,11 +1,11 @@
 id: 699197423
-type: way
+type: node
 latitude: 43.59171
 longitude: 2.26592
 postcode: "81100"
 city: Castres
-street: "Rue Jean Souterène"
-housenumber: 
-phone: "+33 5 63 72 29 25"
+street: Rue Jean Souterène
+housenumber: ""
+phone: +33 5 63 72 29 25
 opening_hours: ""
-website: "https://www.promo-electro.fr/"
+website: https://www.promo-electro.fr/

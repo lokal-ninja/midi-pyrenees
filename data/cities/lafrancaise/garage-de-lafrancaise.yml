@@ -1,11 +1,11 @@
 id: 220224221
-type: way
+type: node
 latitude: 44.12914
 longitude: 1.2417
 postcode: "82130"
 city: Lafrançaise
-street: "Rue Mary Lafon"
+street: Rue Mary Lafon
 housenumber: 68 bis
-phone: "+33 5 63 65 83 87"
-opening_hours: "Mo-Fr 08:00-12:30,14:00-18:30; Sa 08:00-12:00"
-website: "https://garage.garage-premier.fr/fr/france-FR/CUST-IN0412/garage-de-lafrancaise/details"
+phone: +33 5 63 65 83 87
+opening_hours: Mo-Fr 08:00-12:30,14:00-18:30; Sa 08:00-12:00
+website: https://garage.garage-premier.fr/fr/france-FR/CUST-IN0412/garage-de-lafrancaise/details

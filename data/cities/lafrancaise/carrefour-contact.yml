@@ -1,11 +1,11 @@
 id: 220220969
-type: way
+type: node
 latitude: 44.12546
 longitude: 1.22959
 postcode: "82130"
 city: Lafrançaise
-street: "Zone Artisanale du Rival"
-housenumber: 
+street: Zone Artisanale du Rival
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 202093998
-type: way
+type: node
 latitude: 42.90347
 longitude: 0.10294
 postcode: "65120"
 city: Barèges
-street: "Route du Tourmalet"
-housenumber: 
-phone: "+33 6 83 53 68 15"
+street: Route du Tourmalet
+housenumber: ""
+phone: +33 6 83 53 68 15
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.60246
 longitude: 1.40881
 postcode: "31300"
 city: Toulouse
-street: "Avenue de Grande Bretagne"
-housenumber: 169
-phone: "+33 5 61 40 15 85"
-opening_hours: "Mo 14:00-19:30; Tu-Fr 09:00-12:30, 14:00-19:00; Sa 09:00-18:00"
-website: "https://opticiens.optic2000.com/opticien-toulouse-31300-2255"
+street: Avenue de Grande Bretagne
+housenumber: "169"
+phone: +33 5 61 40 15 85
+opening_hours: Mo 14:00-19:30; Tu-Fr 09:00-12:30, 14:00-19:00; Sa 09:00-18:00
+website: https://opticiens.optic2000.com/opticien-toulouse-31300-2255

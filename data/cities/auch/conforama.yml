@@ -1,11 +1,11 @@
 id: 1049544994
-type: way
+type: node
 latitude: 43.66293
 longitude: 0.59172
 postcode: "32000"
 city: Auch
-street: "Rue Paul Valéry"
-housenumber: 5
+street: Rue Paul Valéry
+housenumber: "5"
 phone: "0892010808"
 opening_hours: ""
-website: "https://www.conforama.fr/magasins-conforama/auch?lat=43.663055&long=0.591729&name=AUCH"
+website: https://www.conforama.fr/magasins-conforama/auch?lat=43.663055&long=0.591729&name=AUCH

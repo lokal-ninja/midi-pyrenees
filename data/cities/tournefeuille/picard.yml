@@ -1,11 +1,11 @@
 id: 74798570
-type: way
+type: node
 latitude: 43.58992
 longitude: 1.36016
 postcode: "31170"
 city: Tournefeuille
-street: "Chemin Saint-Exupéry"
-housenumber: 
-phone: "+33 5 61 07 34 05"
-opening_hours: "Mo-Sa 09:00-19:30; Su 09:00-12:45"
-website: "https://magasins.picard.fr/948-picard-tournefeuille"
+street: Chemin Saint-Exupéry
+housenumber: ""
+phone: +33 5 61 07 34 05
+opening_hours: Mo-Sa 09:00-19:30; Su 09:00-12:45
+website: https://magasins.picard.fr/948-picard-tournefeuille

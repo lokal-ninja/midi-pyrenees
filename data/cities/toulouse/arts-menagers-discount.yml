@@ -1,11 +1,11 @@
 id: 74572710
-type: way
+type: node
 latitude: 43.56901
 longitude: 1.51092
 postcode: "31400"
 city: Toulouse
-street: "chemin de cayras"
-housenumber: 31
+street: chemin de cayras
+housenumber: "31"
 phone: ""
-opening_hours: "Tu-Sa 10:00-12:00, 14:00-19:00"
+opening_hours: Tu-Sa 10:00-12:00, 14:00-19:00
 website: ""

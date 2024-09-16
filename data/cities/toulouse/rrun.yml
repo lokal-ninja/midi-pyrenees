@@ -4,8 +4,8 @@ latitude: 43.63429
 longitude: 1.48229
 postcode: "31200"
 city: Toulouse
-street: "Chemin de Gabardie"
-housenumber: 90
-phone: "+33 5 61 52 11 41"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-19:00"
-website: "https://www.rrun-toulouse.fr/"
+street: Chemin de Gabardie
+housenumber: "90"
+phone: +33 5 61 52 11 41
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-19:00
+website: https://www.rrun-toulouse.fr/

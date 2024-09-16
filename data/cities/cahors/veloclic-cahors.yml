@@ -1,11 +1,11 @@
 id: 1202699924
-type: way
+type: node
 latitude: 44.41787
 longitude: 1.43946
 postcode: "46000"
 city: Cahors
-street: "Route de Toulouse"
-housenumber: 
+street: Route de Toulouse
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 14:30-18:30; Tu-Sa 09:00-12:30; Sa 14:30-17:30"
-website: "https://www.veloclic.com/"
+opening_hours: Mo-Fr 14:30-18:30; Tu-Sa 09:00-12:30; Sa 14:30-17:30
+website: https://www.veloclic.com/

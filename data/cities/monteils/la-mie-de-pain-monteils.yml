@@ -1,11 +1,11 @@
 id: 692290688
-type: way
+type: node
 latitude: 44.16343
 longitude: 1.5537
 postcode: "82300"
 city: Monteils
-street: "Chemin des Rouges"
-housenumber: 15
+street: Chemin des Rouges
+housenumber: "15"
 phone: ""
-opening_hours: "Tu-Su 06:00-20:00"
+opening_hours: Tu-Su 06:00-20:00
 website: ""
