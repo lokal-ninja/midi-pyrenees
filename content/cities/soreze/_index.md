@@ -2,5 +2,5 @@
 title: Sorèze
 url: /soreze/
 latitude: 43.453
-longitude: 2.065
+longitude: 2.066
 ---
