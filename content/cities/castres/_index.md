@@ -1,6 +1,6 @@
 ---
 title: Castres
 url: /castres/
-latitude: 43.61
-longitude: 2.263
+latitude: 43.605
+longitude: 2.24
 ---
