@@ -1,6 +1,6 @@
 ---
 title: Frouzins
 url: /frouzins/
-latitude: 43.516
-longitude: 1.326
+latitude: 43.515
+longitude: 1.324
 ---
