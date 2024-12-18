@@ -1,5 +1,5 @@
 ---
-title: "CHIGUER"
+title: "Chiguer"
 url: /valence/chiguer/
 shop: boucherie
 ---
