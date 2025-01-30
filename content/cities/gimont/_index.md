@@ -1,6 +1,6 @@
 ---
-title: Gimont
+title: GIMONT
 url: /gimont/
-latitude: 43.627
-longitude: 0.876
+latitude: 43.629
+longitude: 0.887
 ---
