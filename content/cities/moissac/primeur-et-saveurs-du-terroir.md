@@ -1,5 +1,5 @@
 ---
-title: "Primeur et saveurs du terroir"
+title: "Primeur et Saveurs du Terroir"
 url: /moissac/primeur-et-saveurs-du-terroir/
 shop: ferme
 ---

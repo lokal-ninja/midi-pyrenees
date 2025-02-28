@@ -1,5 +1,5 @@
 ---
-title: "Les ongles de rêve"
+title: "Les Ongles de Rêve"
 url: /moissac/les-ongles-de-reve/
 shop: beauté
 ---
