@@ -1,5 +1,5 @@
 ---
-title: "Maison de la presse"
+title: "Maison de la Presse"
 url: /marcillac-vallon/maison-de-la-presse/
-shop: livres
+shop: marchand de journaux
 ---
