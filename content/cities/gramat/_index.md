@@ -1,6 +1,6 @@
 ---
 title: Gramat
 url: /gramat/
-latitude: 44.782
-longitude: 1.727
+latitude: 44.776
+longitude: 1.721
 ---
