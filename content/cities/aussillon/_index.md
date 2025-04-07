@@ -1,6 +1,6 @@
 ---
 title: Aussillon
 url: /aussillon/
-latitude: 43.507
-longitude: 2.359
+latitude: 43.508
+longitude: 2.378
 ---
