@@ -1,6 +1,6 @@
 ---
-title: Villeneuve de Rivière
+title: Villeneuve-de-Rivière
 url: /villeneuve-de-riviere/
-latitude: 43.119
-longitude: 0.66
+latitude: 43.118
+longitude: 0.673
 ---
