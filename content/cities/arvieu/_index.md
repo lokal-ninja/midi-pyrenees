@@ -1,6 +1,6 @@
 ---
 title: Arvieu
 url: /arvieu/
-latitude: 44.19
-longitude: 2.661
+latitude: 44.194
+longitude: 2.66
 ---
