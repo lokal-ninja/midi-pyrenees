@@ -1,5 +1,5 @@
 ---
-title: "Casa"
+title: "CASA"
 url: /labege/casa/
-shop: articles ménagers
+shop: décoration intérieure
 ---
