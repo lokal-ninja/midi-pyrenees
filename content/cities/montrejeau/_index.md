@@ -1,6 +1,6 @@
 ---
 title: Montréjeau
 url: /montrejeau/
-latitude: 43.089
-longitude: 0.564
+latitude: 43.086
+longitude: 0.563
 ---
