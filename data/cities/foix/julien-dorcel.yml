@@ -7,5 +7,6 @@ city: Foix
 street: Rue Bayle
 housenumber: "10"
 phone: ""
-opening_hours: Mo 14:15-19:00; Tu-Sa 09:30-12:30, 14:00-19:00
+opening_hours: Mo-Th 10:00-12:30, 14:30-19:00; Fr 09:30-12:30, 14:30-19:00; Sa 10:00-12:30,
+    14:30-19:00
 website: https://www.juliendorcel.com/bijouterie/foix-1048M

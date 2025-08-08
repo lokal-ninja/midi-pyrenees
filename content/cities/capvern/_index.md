@@ -1,6 +1,6 @@
 ---
 title: Capvern
 url: /capvern/
-latitude: 43.112
-longitude: 0.354
+latitude: 43.118
+longitude: 0.373
 ---

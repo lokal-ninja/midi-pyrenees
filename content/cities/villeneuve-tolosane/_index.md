@@ -1,6 +1,6 @@
 ---
 title: Villeneuve-Tolosane
 url: /villeneuve-tolosane/
-latitude: 43.527
-longitude: 1.34
+latitude: 43.526
+longitude: 1.341
 ---

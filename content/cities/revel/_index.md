@@ -1,6 +1,6 @@
 ---
 title: Revel
 url: /revel/
-latitude: 43.459
-longitude: 2.003
+latitude: 43.461
+longitude: 2.006
 ---
