@@ -1,6 +1,6 @@
 ---
 title: Caussade
 url: /caussade/
-latitude: 44.163
-longitude: 1.537
+latitude: 44.153
+longitude: 1.529
 ---

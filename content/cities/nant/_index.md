@@ -1,6 +1,6 @@
 ---
 title: Nant
 url: /nant/
-latitude: 44.022
-longitude: 3.302
+latitude: 44.06
+longitude: 3.263
 ---
