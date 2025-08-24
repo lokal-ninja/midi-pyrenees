@@ -6,6 +6,7 @@ postcode: "65110"
 city: Cauterets
 street: Rue de Belfort
 housenumber: "19"
-phone: +336 08 10 64 53
-opening_hours: ""
-website: ""
+phone: +33 6 08 10 64 53
+opening_hours: Mo,We-Sa 09:00-13:00,16:00-19:30; Tu off; Su 09:00-13:00; SH Mo-Su
+    09:00-20:00
+website: https://lepanierdelamarmotte-65.fr/
