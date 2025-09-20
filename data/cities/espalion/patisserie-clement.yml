@@ -7,5 +7,5 @@ city: Espalion
 street: Boulevard Joseph Poulenc
 housenumber: "19"
 phone: +33 5 65 66 37 42
-opening_hours: Tu-Fr 10:00-13:00, 14:00-19:00; Sa 10:00-19:00
+opening_hours: Tu-Fr 10:00-13:00,14:00-19:00; Sa 10:00-19:00; Su-Mo off
 website: ""

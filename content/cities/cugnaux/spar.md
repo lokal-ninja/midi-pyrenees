@@ -1,5 +1,5 @@
 ---
-title: "spar"
+title: "Spar"
 url: /cugnaux/spar/
-shop: magasin de campagne
+shop: commodité
 ---
