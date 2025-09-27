@@ -7,5 +7,6 @@ city: Castres
 street: Quai des Jacobins
 housenumber: "11"
 phone: +33 5 67 57 72 10
-opening_hours: Tu-Fr 09:30-12:00, 14:00-19:00; Sa 09:30-12:30, 14:00-19:00
+opening_hours: Tu-We 09:30-12:00, 14:00-18:00; Th-Fr 09:30-12:00, 14:00-19:00; Sa
+    09:30-12:30, 14:00-19:00
 website: https://www.juliendorcel.com/bijouterie/castres-1024M
