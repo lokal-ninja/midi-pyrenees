@@ -1,5 +1,5 @@
 ---
 title: "Espasport"
-url: /espalionz/espasport/
+url: /espalion/espasport/
 shop: sports
 ---

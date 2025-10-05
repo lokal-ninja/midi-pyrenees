@@ -1,11 +1,11 @@
 id: 2411745801
 type: node
-latitude: 44.52214
-longitude: 2.76345
+latitude: 44.52216
+longitude: 2.76347
 postcode: "12500"
 city: Espalion
 street: Rue Droite
 housenumber: "1"
 phone: +33 5 65 44 91 41
-opening_hours: Tu,We,Th,Fr,Sa 09:30-12:00,14:00-19:00
+opening_hours: Tu-Sa 09:30-12:30,14:00-19:00; Su-Mo off
 website: ""

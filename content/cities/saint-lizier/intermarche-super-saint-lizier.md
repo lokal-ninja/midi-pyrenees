@@ -1,5 +1,5 @@
 ---
-title: "Intermarché SUPER Saint-Lizier"
+title: "Intermarché Super Saint-Lizier"
 url: /saint-lizier/intermarche-super-saint-lizier/
 shop: supermarché
 ---
