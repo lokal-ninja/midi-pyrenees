@@ -1,6 +1,6 @@
 ---
-title: Verdun Sur Garonne
+title: Verdun-sur-Garonne
 url: /verdun-sur-garonne/
-latitude: 43.855
-longitude: 1.225
+latitude: 43.853
+longitude: 1.236
 ---
