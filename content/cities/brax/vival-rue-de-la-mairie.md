@@ -1,5 +1,5 @@
 ---
 title: "Vival"
-url: /brax/vival-2/
+url: /brax/vival-rue-de-la-mairie/
 shop: commodité
 ---
