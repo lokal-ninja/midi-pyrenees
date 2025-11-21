@@ -1,5 +1,5 @@
 ---
 title: "BioCoop"
-url: /villefranche-de-rouergue/biocoop/
+url: /gourdan-polignan/biocoop/
 shop: supermarché
 ---

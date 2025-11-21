@@ -1,5 +1,5 @@
 ---
-title: "Biocoop"
+title: "BioCoop"
 url: /lisle-jourdain/biocoop/
 shop: supermarché
 ---
