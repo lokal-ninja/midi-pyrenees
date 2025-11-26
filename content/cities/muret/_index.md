@@ -1,6 +1,6 @@
 ---
 title: Muret
 url: /muret/
-latitude: 43.476
-longitude: 1.33
+latitude: 43.477
+longitude: 1.331
 ---
