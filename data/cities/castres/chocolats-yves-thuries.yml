@@ -7,6 +7,6 @@ city: Castres
 street: Rue Alquier Bouffard
 housenumber: "17"
 phone: ""
-opening_hours: Tu-Th 09:30-12:30, 14:00-19:00; Fr 09:30-19:00; Sa 09:30-12:30, 14:00-19:00;
-    Su 13:30-18:00
+opening_hours: Mo 13:00-19:00; Tu 09:30-12:30, 13:30-19:00; We-Th 09:30-12:30, 13:30-19:30;
+    Fr-Sa 09:30-19:30; Su 10:00-18:30
 website: https://yvesthuries.com/
