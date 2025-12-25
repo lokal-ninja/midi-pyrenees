@@ -1,5 +1,5 @@
 ---
-title: "Michel Belin  La Manufacture"
+title: "Michel Belin La Manufacture"
 url: /albi/michel-belin-la-manufacture/
 shop: pâtisserie
 ---

@@ -1,6 +1,6 @@
 ---
 title: Carbonne
 url: /carbonne/
-latitude: 43.306
-longitude: 1.221
+latitude: 43.296
+longitude: 1.225
 ---
