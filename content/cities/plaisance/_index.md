@@ -1,6 +1,6 @@
 ---
 title: Plaisance
 url: /plaisance/
-latitude: 43.605
-longitude: 0.047
+latitude: 43.601
+longitude: 0.043
 ---
