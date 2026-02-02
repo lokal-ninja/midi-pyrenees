@@ -7,5 +7,5 @@ city: Cugnaux
 street: Avenue Georges Pompidou
 housenumber: "3"
 phone: +33 5 64 31 13 66
-opening_hours: Mo 14:00-18:00 Tu-Fr 9:00-13:00 14:00-18:00
+opening_hours: Mo 14:00-18:00; Tu-Fr 09:00-13:00,14:00-18:00
 website: ""
