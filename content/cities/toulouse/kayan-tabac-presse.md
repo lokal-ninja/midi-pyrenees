@@ -1,5 +1,5 @@
 ---
 title: "Kayan tabac presse"
 url: /toulouse/kayan-tabac-presse/
-shop: tabac
+shop: marchand de journaux
 ---

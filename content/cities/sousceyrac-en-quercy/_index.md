@@ -1,6 +1,6 @@
 ---
 title: Sousceyrac-en-Quercy
 url: /sousceyrac-en-quercy/
-latitude: 44.875
-longitude: 2.027
+latitude: 44.873
+longitude: 2.035
 ---

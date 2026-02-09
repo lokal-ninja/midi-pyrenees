@@ -1,6 +1,6 @@
 ---
 title: Cintegabelle
 url: /cintegabelle/
-latitude: 43.325
-longitude: 1.495
+latitude: 43.313
+longitude: 1.533
 ---
