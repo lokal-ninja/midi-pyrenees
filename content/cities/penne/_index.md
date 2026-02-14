@@ -1,6 +1,6 @@
 ---
 title: Penne
 url: /penne/
-latitude: 44.078
-longitude: 1.728
+latitude: 44.077
+longitude: 1.73
 ---
