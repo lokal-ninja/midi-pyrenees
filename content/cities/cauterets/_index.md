@@ -1,6 +1,6 @@
 ---
 title: Cauterets
 url: /cauterets/
-latitude: 42.888
-longitude: -0.114
+latitude: 42.89
+longitude: -0.115
 ---
