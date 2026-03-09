@@ -1,7 +1,7 @@
-id: 13567557450
+id: 155175842
 type: node
-latitude: 43.55036
-longitude: 1.59407
+latitude: 43.55054
+longitude: 1.59357
 postcode: "31480"
 city: Sainte-Foy-d'Aigrefeuille
 street: Avenue Roland Garros
@@ -9,4 +9,4 @@ housenumber: "1"
 phone: "+33974060074"
 opening_hours: Mo,Tu,Th 08:30-13:00,14:00-17:00; We 08:30-13:00,14:00-16:00; Fr 09:00-13:00,14:00-17:00;
     Sa-Su off
-website: http://www.ojetables.fr/
+website: https://www.ojetables.fr/
