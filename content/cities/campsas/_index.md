@@ -1,6 +1,6 @@
 ---
 title: Campsas
 url: /campsas/
-latitude: 43.898
-longitude: 1.308
+latitude: 43.9
+longitude: 1.322
 ---

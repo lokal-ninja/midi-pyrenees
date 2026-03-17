@@ -1,6 +1,6 @@
 ---
 title: Labège
 url: /labege/
-latitude: 43.57
-longitude: 1.498
+latitude: 43.548
+longitude: 1.516
 ---
