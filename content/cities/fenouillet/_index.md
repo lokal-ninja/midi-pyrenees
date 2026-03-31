@@ -1,6 +1,6 @@
 ---
 title: Fenouillet
 url: /fenouillet/
-latitude: 43.689
-longitude: 1.401
+latitude: 43.678
+longitude: 1.409
 ---
