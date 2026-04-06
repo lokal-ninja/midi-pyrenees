@@ -1,6 +1,6 @@
 ---
 title: Pinsaguel
 url: /pinsaguel/
-latitude: 43.512
-longitude: 1.394
+latitude: 43.507
+longitude: 1.391
 ---

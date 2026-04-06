@@ -1,6 +1,6 @@
 ---
 title: Salles-Curan
 url: /salles-curan/
-latitude: 44.182
-longitude: 2.788
+latitude: 44.181
+longitude: 2.791
 ---
