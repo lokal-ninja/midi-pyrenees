@@ -1,6 +1,6 @@
 ---
 title: Beaumont-de-Lomagne
 url: /beaumont-de-lomagne/
-latitude: 43.892
-longitude: 1.01
+latitude: 43.891
+longitude: 1.006
 ---
