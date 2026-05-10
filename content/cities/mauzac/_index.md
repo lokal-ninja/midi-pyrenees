@@ -1,6 +1,6 @@
 ---
 title: Mauzac
 url: /mauzac/
-latitude: 43.384
-longitude: 1.278
+latitude: 43.382
+longitude: 1.284
 ---
