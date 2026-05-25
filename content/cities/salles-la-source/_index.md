@@ -1,6 +1,6 @@
 ---
-title: Salles-la-Source
+title: Salles la Source
 url: /salles-la-source/
-latitude: 44.458
-longitude: 2.47
+latitude: 44.41
+longitude: 2.484
 ---
