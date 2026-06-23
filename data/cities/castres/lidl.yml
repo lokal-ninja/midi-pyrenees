@@ -5,7 +5,7 @@ longitude: 2.26504
 postcode: "81100"
 city: Castres
 street: Chemin de Penchenery
-housenumber: ""
+housenumber: "21"
 phone: ""
-opening_hours: Mo-Sa 08:30-20:00
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:15
 website: ""
