@@ -1,5 +1,5 @@
 ---
 title: "Julien d'Orcel"
-url: /foix/julien-dorcel-rue-victor-hugo/
+url: /foix/julien-dorcel-rue-bayle/
 shop: bijoux
 ---
