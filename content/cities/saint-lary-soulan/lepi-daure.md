@@ -1,5 +1,5 @@
 ---
-title: "L'Epi d'Aure"
+title: "L'Épi d'Aure"
 url: /saint-lary-soulan/lepi-daure/
 shop: boulangerie
 ---
