@@ -7,5 +7,5 @@ city: Albi
 street: Place Lapérouse
 housenumber: "8"
 phone: +33 5 63 54 15 59
-opening_hours: Mo-Sa 08:00-19:00
+opening_hours: Mo-Sa 08:00-19:00; Su 08:00-12:30
 website: ""
