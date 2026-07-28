@@ -2,5 +2,5 @@
 title: Lescure d'Abigeois
 url: /lescure-dabigeois/
 latitude: 43.96
-longitude: 2.164
+longitude: 2.162
 ---
