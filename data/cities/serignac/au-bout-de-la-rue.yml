@@ -7,7 +7,5 @@ city: Sérignac
 street: Rue de l'Église
 housenumber: ""
 phone: "+33565308857"
-opening_hours: "Lundi \tFermé Mardi \t12:00 - 13:30 Mercredi \t12:00 - 13:30 Jeudi
-    \t12:00 - 13:30 Vendredi \t19:00 - 20:30 Samedi \t19:00 - 20:30 Dimanche \t12:00
-    - 13:30"
+opening_hours: Tu-Th,Su 12:00-13:30; Fr,Sa 19:00-20:30; Mo off
 website: ""

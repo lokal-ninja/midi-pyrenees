@@ -1,6 +1,6 @@
 ---
 title: Cazals
 url: /cazals/
-latitude: 44.646
-longitude: 1.224
+latitude: 44.644
+longitude: 1.225
 ---

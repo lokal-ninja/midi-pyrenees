@@ -7,6 +7,5 @@ city: Toulouse
 street: Place Dupuy
 housenumber: "10"
 phone: "+33675780209"
-opening_hours: Tu 10:00-13:00,15:00-19:00; We-Th-Fr 10:00-13:00,15:00-19:00; Sa 10:00-13:00,15:00-17:00;
-    Su off; Mo off
+opening_hours: Tu-Fr 10:00-13:00,15:00-19:00; Sa 10:00-13:00,15:00-17:00; Su,Mo off
 website: https://www.1001piles.com/1001piles/magasin/index/nom/toulouse/
