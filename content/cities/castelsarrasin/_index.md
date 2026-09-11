@@ -1,6 +1,6 @@
 ---
 title: Castelsarrasin
 url: /castelsarrasin/
-latitude: 44.039
-longitude: 1.109
+latitude: 44.035
+longitude: 1.114
 ---

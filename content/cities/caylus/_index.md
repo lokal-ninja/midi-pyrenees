@@ -1,6 +1,6 @@
 ---
 title: Caylus
 url: /caylus/
-latitude: 44.239
-longitude: 1.777
+latitude: 44.237
+longitude: 1.774
 ---

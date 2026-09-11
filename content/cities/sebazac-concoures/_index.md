@@ -1,6 +1,6 @@
 ---
 title: Sébazac-Concourès
 url: /sebazac-concoures/
-latitude: 44.398
-longitude: 2.599
+latitude: 44.401
+longitude: 2.609
 ---

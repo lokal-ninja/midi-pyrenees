@@ -6,6 +6,7 @@ postcode: "31300"
 city: Toulouse
 street: Route de Bayonne
 housenumber: "47"
-phone: ""
-opening_hours: ""
-website: ""
+phone: +33 5 34 50 00 30
+opening_hours: Mo 15:00-20:30; Tu-We 10:00-20:30; Th-Fr 10:00-21:30; Sa 10:00-20:30;
+    Su closed
+website: https://www.vandb.fr/nos-magasins/v-and-b-toulouse-purpan
