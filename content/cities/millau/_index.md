@@ -1,6 +1,6 @@
 ---
 title: Millau
 url: /millau/
-latitude: 44.099
-longitude: 3.077
+latitude: 44.1
+longitude: 3.078
 ---
