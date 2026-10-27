@@ -6,6 +6,7 @@ postcode: "81000"
 city: Albi
 street: Rue Timbal
 housenumber: "29"
-phone: +33 5 63 54 23 06
-opening_hours: Mo-Sa 09:30-19:00
-website: https://www.devred.com/
+phone: ""
+opening_hours: Mo-Th 09:30-19:00; Fr 09:30-20:00; Sa 09:30-19:00; 2026 Nov 01 off;
+    2026 Nov 11 10:00-13:00,14:00-18:00
+website: ""

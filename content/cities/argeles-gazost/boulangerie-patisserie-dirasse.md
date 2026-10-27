@@ -1,5 +1,5 @@
 ---
-title: "Boulangerie patisserie Dirasse"
+title: "Boulangerie Patisserie Dirasse"
 url: /argeles-gazost/boulangerie-patisserie-dirasse/
 shop: boulangerie
 ---

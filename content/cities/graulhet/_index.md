@@ -1,6 +1,6 @@
 ---
 title: Graulhet
 url: /graulhet/
-latitude: 43.762
-longitude: 1.987
+latitude: 43.761
+longitude: 1.964
 ---
