@@ -1,6 +1,6 @@
 ---
 title: Masseube
 url: /masseube/
-latitude: 43.431
-longitude: 0.579
+latitude: 43.442
+longitude: 0.578
 ---
