@@ -1,6 +1,6 @@
 ---
 title: Roques
 url: /roques/
-latitude: 43.515
-longitude: 1.373
+latitude: 43.513
+longitude: 1.371
 ---

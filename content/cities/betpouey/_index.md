@@ -1,6 +1,6 @@
 ---
 title: Betpouey
 url: /betpouey/
-latitude: 42.885
-longitude: 0.042
+latitude: 42.882
+longitude: 0.033
 ---
